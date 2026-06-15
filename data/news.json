@@ -1,0 +1,878 @@
+{
+  "generated_at": "15/06/2026 às 02:58",
+  "sections": {
+    "amrs_social": {
+      "label": "Social Media & Plataformas",
+      "tab": "amrs",
+      "color": "orange",
+      "items": [
+        {
+          "title": "Perdeu o prazo da declaração anual do MEI? Veja como regularizar e pagar menos multa",
+          "link": "https://exame.com/negocios/perdeu-o-prazo-da-declaracao-anual-do-mei-veja-como-regularizar-e-pagar-menos-multa/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:13:26",
+          "day_of_week": "Sun"
+        }
+      ]
+    },
+    "amrs_ia": {
+      "label": "Inteligência Artificial",
+      "tab": "amrs",
+      "color": "purple",
+      "items": [
+        {
+          "title": "RTX ou Radeon? Qual é a melhor GPU para montar um PC gamer equilibrado em 2026",
+          "link": "https://canaltech.com.br/hardware/rtx-ou-radeon-qual-escolhar-para-pc-gamer-equilibrado-2026/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T21:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Suspeita de acesso chinês ao Mythos motivou bloqueio da Casa Branca, diz fonte",
+          "link": "https://olhardigital.com.br/2026/06/14/pro/suspeita-de-acesso-chines-ao-mythos-motivou-bloqueio-da-casa-branca-diz-fonte/",
+          "source": "Olhar Digital",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T20:22:11",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Rope jump: juiz cita 'tentativa de fuga' e 'negligência' para decretar prisão de instrutores",
+          "link": "https://exame.com/brasil/rope-jump-juiz-cita-tentativa-de-fuga-e-negligencia-para-decretar-prisao-de-instrutores/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T20:17:46",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Quanto custaria uma Ford Courier hoje, com a inflação?",
+          "link": "https://canaltech.com.br/carros/quanto-custaria-uma-ford-courier-hoje-com-a-inflacao/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T20:05:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "UFC na Casa Branca: horário, card completo e onde assistir ao UFC Freedom 250",
+          "link": "https://exame.com/esporte/ufc-na-casa-branca-horario-card-completo-e-onde-assistir-ao-ufc-freedom-250/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T19:55:25",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Petróleo cai quase 5% após acordo entre Irã e EUA",
+          "link": "https://exame.com/invest/mercados/petroleo-cai-quase-5-no-mercado-futuro-apos-acordo-entre-ira-e-eua/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T19:24:07",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Acordo entre EUA e Irã: o que se sabe dos termos até agora",
+          "link": "https://exame.com/mundo/acordo-entre-eua-e-ira-o-que-se-sabe-dos-termos-ate-agora/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T19:07:57",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Star Fox no Switch 2: data, modos e tudo sobre o retorno da série",
+          "link": "https://canaltech.com.br/games/tudo-sobre-star-fox-switch-2-data-lancamento-modos/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T19:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Trump confirma acordo de paz com o Irã e manda reabrir o Estreito de Ormuz",
+          "link": "https://exame.com/mundo/trump-confirma-acordo-de-paz-com-o-ira-e-manda-reabrir-o-estreito-de-ormuz/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T18:42:32",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Como ter sucesso no investimento em startups",
+          "link": "https://exame.com/negocios/como-ter-sucesso-no-investimento-em-startups/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T18:39:35",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Matemáticos testam IAs em Harvard e modelos são aprovados em 7 dos 10 problemas",
+          "link": "https://olhardigital.com.br/2026/06/14/inteligencia-artificial/matematicos-testam-ias-em-harvard-e-modelos-sao-aprovados-em-7-dos-10-problemas/",
+          "source": "Olhar Digital",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T18:22:31",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "8 truques do ChatGPT que você precisa usar para liberar todo o potencial da IA",
+          "link": "https://canaltech.com.br/inteligencia-artificial/truques-liberar-todo-potencial-chatgpt/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T18:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Produtor e DJ Lucas Frota está entre os mortos do acidente aéreo no Recreio",
+          "link": "https://exame.com/brasil/produtor-e-dj-lucas-frota-esta-entre-os-mortos-do-acidente-aereo-no-recreio/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T17:11:01",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "6 filmes parecidos com Corra! para assistir no streaming",
+          "link": "https://canaltech.com.br/entretenimento/filmes-parecidos-com-corra/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T17:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Com 7 a 1 contra Curaçao, Alemanha tira do Brasil o posto de maior artilheira das Copas",
+          "link": "https://exame.com/esporte/com-a-7-a-1-contra-curacao-alemanha-tira-do-brasil-o-posto-de-maior-artilheira-das-copas/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T16:24:16",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Posso dirigir o carro com apenas uma mão no volante? Veja o que diz a lei",
+          "link": "https://canaltech.com.br/carros/posso-dirigir-o-carro-com-apenas-uma-mao-no-volante-veja-o-que-diz-a-lei/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T16:05:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Quem são as seis vítimas de acidente entre helicópteros no RJ",
+          "link": "https://exame.com/brasil/quem-sao-as-seis-vitimas-de-acidente-entre-helicopteros-no-rj/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T15:16:18",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Meta começa a desfazer aquisição de US$ 2 bilhões da Manus",
+          "link": "https://olhardigital.com.br/2026/06/14/pro/meta-comeca-a-desfazer-aquisicao-de-us-2-bilhoes-da-manus/",
+          "source": "Olhar Digital",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T15:00:09",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "O lado oculto dos games AAA: por que quem faz o jogo não ganha o crédito?",
+          "link": "https://canaltech.com.br/games/o-lado-oculto-dos-games-aaa-por-que-quem-faz-o-jogo-nao-ganha-o-credito/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T15:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "US$ 60 milhões e uma 'garra' de 600 toneladas: como será o UFC de Trump na Casa Branca",
+          "link": "https://exame.com/mundo/us-60-milhoes-e-uma-garra-de-600-toneladas-como-sera-o-ufc-de-trump-na-casa-branca/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T14:49:38",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Varal inteligente e mais 4 eletrônicos geniais para quem mora sozinho",
+          "link": "https://canaltech.com.br/produtos/varal-inteligente-e-mais-4-eletronicos-geniais-para-quem-mora-sozinho/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T14:30:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Quando o desejo dele em 'administrar melhor o seu dinheiro' vira violência patrimonial",
+          "link": "https://exame.com/invest/minhas-financas/quando-o-desejo-dele-em-administrar-melhor-o-seu-dinheiro-vira-violencia-patrimonial/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T14:00:31",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Quem matou o sedã não contava com os chineses",
+          "link": "https://exame.com/casual/quem-matou-o-seda-nao-contava-com-os-chineses/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T14:00:05",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Quando estreia a 5ª e última temporada de O Urso?",
+          "link": "https://canaltech.com.br/entretenimento/o-urso-quando-estreia-temporada-5-disney-plus/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T14:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Após alerta da Amazon ao governo Trump, Anthropic suspendeu o Fable 5 globalmente",
+          "link": "https://olhardigital.com.br/2026/06/14/pro/apos-alerta-da-amazon-ao-governo-trump-anthropic-suspendeu-o-fable-5-globalmente/",
+          "source": "Olhar Digital",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:54:43",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Holanda x Japão: data, horário e onde assistir à Laranja Mecânica na Copa",
+          "link": "https://canaltech.com.br/entretenimento/holanda-x-japao-data-horario-e-onde-assistir-a-laranja-mecanica-na-copa/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:45:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Risco para a América Latina não é perder empregos para IA, mas ficar para trás, diz WEF",
+          "link": "https://exame.com/economia/risco-para-a-america-latina-nao-e-perder-empregos-para-ia-mas-ficar-para-tras-diz-wef/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:38:31",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Por trás da Casa CazéTV: empresa de experiências projeta 100 mil visitantes e crescimento de 60%",
+          "link": "https://exame.com/negocios/por-tras-da-casa-cazetv-empresa-de-experiencias-projeta-100-mil-visitantes-e-crescimento-de-60/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:33:39",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Como saber se a bateria do celular precisa ser trocada? 3 sinais fáceis",
+          "link": "https://canaltech.com.br/smartphone/como-saber-se-a-bateria-do-celular-precisa-ser-trocada-3-sinais-faceis/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:30:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Por que a confiabilidade é o recurso premium definitivo na América Latina",
+          "link": "https://canaltech.com.br/colunas/por-que-a-confiabilidade-e-o-recurso-premium-definitivo-na-america-latina/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:25:02",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Isis Valverde lança 1ª coleção de moda para fazer marca crescer 50% em 2026",
+          "link": "https://exame.com/negocios/isis-valverde-lanca-1a-colecao-de-moda-para-fazer-marca-crescer-50-em-2026/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:19:36",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Como usar o ChatGPT para revisar um texto mantendo seu jeito de escrever",
+          "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-chatgpt-para-revisar-um-texto-mantendo-seu-jeito-de-escrever/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "DNA encerra mistério de 26 anos de esqueleto achado em barraca em parque nacional",
+          "link": "https://olhardigital.com.br/2026/06/14/ciencia-e-espaco/dna-encerra-misterio-de-26-anos-de-esqueleto-achado-em-barraca-em-parque-nacional/",
+          "source": "Olhar Digital",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T12:55:24",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "EUA barram modelos da Anthropic por segurança nacional",
+          "link": "https://tecnoblog.net/noticias/eua-barram-modelos-da-anthropic-por-seguranca-nacional/",
+          "source": "Tecnoblog",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T12:47:54",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "O que usar para limpar a tela do celular sem deixar manchas; 6 dicas de ouro",
+          "link": "https://canaltech.com.br/smartphone/o-que-usar-para-limpar-a-tela-do-celular-sem-deixar-manchas-6-dicas-de-ouro/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T12:30:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "GWM Haval H6: o que as versões híbridas flex têm de diferente?",
+          "link": "https://canaltech.com.br/carros/gwm-haval-h6-o-que-as-versoes-hibridas-flex-tem-de-diferente/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T12:05:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Como usar IA para se preparar para uma entrevista de emprego",
+          "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-ia-para-se-preparar-para-uma-entrevista-de-emprego/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T11:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Alemanha começa a Copa contra Curaçao: horário e onde assistir",
+          "link": "https://canaltech.com.br/entretenimento/alemanha-comeca-a-copa-contra-curacao-horario-e-onde-assistir/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T10:30:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Troque a rolagem infinita pelo Kindle: 6 formas de aproveitar melhor seu tempo",
+          "link": "https://canaltech.com.br/e-reader/troque-a-rolagem-infinita-pelo-kindle-6-formas-de-aproveitar-melhor-seu-tempo/",
+          "source": "Canaltech",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T03:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Eudora faz 1ª ação em “Quem Ama Cuida” com Mariana Ximenes",
+          "link": "https://www.meioemensagem.com.br/marketing/eudora-faz-1a-acao-em-quem-ama-cuida-com-mariana-ximenes",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T01:20:50",
+          "day_of_week": "Sun"
+        }
+      ]
+    },
+    "amrs_empreende": {
+      "label": "Empreendedorismo & Liderança",
+      "tab": "amrs",
+      "color": "teal",
+      "items": [
+        {
+          "title": "Rope jump: juiz cita 'tentativa de fuga' e 'negligência' para decretar prisão de instrutores",
+          "link": "https://exame.com/brasil/rope-jump-juiz-cita-tentativa-de-fuga-e-negligencia-para-decretar-prisao-de-instrutores/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T20:17:46",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Como ter sucesso no investimento em startups",
+          "link": "https://exame.com/negocios/como-ter-sucesso-no-investimento-em-startups/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T18:39:35",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Trump diz que acordo com Irã pode ser assinado em horas e critica ataque de Israel",
+          "link": "https://exame.com/mundo/trump-diz-que-acordo-com-ira-pode-ser-assinado-em-horas-e-critica-ataque-de-israel/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T14:28:16",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Risco para a América Latina não é perder empregos para IA, mas ficar para trás, diz WEF",
+          "link": "https://exame.com/economia/risco-para-a-america-latina-nao-e-perder-empregos-para-ia-mas-ficar-para-tras-diz-wef/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:38:31",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Isis Valverde lança 1ª coleção de moda para fazer marca crescer 50% em 2026",
+          "link": "https://exame.com/negocios/isis-valverde-lanca-1a-colecao-de-moda-para-fazer-marca-crescer-50-em-2026/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:19:36",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Perdeu o prazo da declaração anual do MEI? Veja como regularizar e pagar menos multa",
+          "link": "https://exame.com/negocios/perdeu-o-prazo-da-declaracao-anual-do-mei-veja-como-regularizar-e-pagar-menos-multa/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T13:13:26",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Eudora faz 1ª ação em “Quem Ama Cuida” com Mariana Ximenes",
+          "link": "https://www.meioemensagem.com.br/marketing/eudora-faz-1a-acao-em-quem-ama-cuida-com-mariana-ximenes",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T01:20:50",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Diageo lança 1ª campanha de consumo responsável para a Copa",
+          "link": "https://www.meioemensagem.com.br/comunicacao/diageo-lanca-1a-campanha-de-consumo-responsavel-para-a-copa",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T22:09:09",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Vivo leva salão temático da Copa para São Paulo",
+          "link": "https://www.meioemensagem.com.br/marketing/vivo-leva-salao-tematico-da-copa-para-sao-paulo",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T21:57:14",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Jovem Pan transmite debate da Band para presidência",
+          "link": "https://www.meioemensagem.com.br/midia/jovem-pan-transmite-debate-da-band-para-presidencia",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T21:32:08",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Por que o Outback colocou o futebol no centro do marketing?",
+          "link": "https://www.meioemensagem.com.br/marketing/por-que-o-outback-colocou-o-futebol-no-centro-do-marketing",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T20:21:14",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Dia dos Namorados e diversidade: qual é o descompasso?",
+          "link": "https://www.meioemensagem.com.br/marketing/dia-dos-namorados-e-diversidade-qual-e-o-descompasso",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T19:49:17",
+          "day_of_week": "Fri"
+        }
+      ]
+    },
+    "criterio": {
+      "label": "Critério Seguros",
+      "tab": "clientes",
+      "color": "blue",
+      "items": [
+        {
+          "title": "Potencial Seguradora promove experiência exclusiva para a Festa do Peão de Americana",
+          "link": "https://cqcs.com.br/tv/canal-cqcs-in-loco/potencial-seguradora-promove-experiencia-exclusiva-para-a-festa-do-peao-de-americana/",
+          "source": "CQCS",
+          "date": "2026-06-13",
+          "date_label": "Sáb 13/06",
+          "datetime": "2026-06-13T15:08:49",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Pottencial Seguradora leva corretores ao Rodeio de Americana em experiência exclusiva",
+          "link": "https://cqcs.com.br/galeria/pottencial-seguradora-leva-corretores-ao-rodeio-de-americana-em-experiencia-exclusiva/",
+          "source": "CQCS",
+          "date": "2026-06-13",
+          "date_label": "Sáb 13/06",
+          "datetime": "2026-06-13T10:10:26",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Sindseg SP e Prefeitura de São Paulo unem esforços para ampliar prevenção contra riscos climáticos",
+          "link": "https://cqcs.com.br/noticia/sindseg-sp-e-prefeitura-de-sao-paulo-unem-esforcos-para-ampliar-prevencao-contra-riscos-climaticos/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T21:56:08",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Homem é preso após amputar o pé para receber seguro de R$ 1,5 milhão",
+          "link": "https://cqcs.com.br/noticia/homem-e-preso-apos-amputar-o-pe-para-receber-seguro-de-r-15-milhao/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T20:45:55",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Akad Seguros destaca importância do D&O para proteger executivos em decisões estratégicas",
+          "link": "https://cqcs.com.br/noticia/akad-seguros-destaca-importancia-do-do-para-proteger-executivos-em-decisoes-estrategicas/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T20:09:34",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Oportunidade histórica para corretores; Corretor de seguros deve ficar atento a estudo do Sincor-SP",
+          "link": "https://cqcs.com.br/tv/cqcs-destaque/oportunidade-historica-para-corretores-corretor-de-seguros-deve-ficar-atento-a-estudo-do-sincor-sp/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T19:24:43",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Raquel Cerqueira leva experiência de 27 anos em seguros ao Protagonismo Feminino 2.0 do CQCS Inovação 2026",
+          "link": "https://cqcs.com.br/noticia/raquel-cerqueira-leva-experiencia-de-27-anos-em-seguros-ao-protagonismo-feminino-2-0-do-cqcs-inovacao-2026/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T19:16:39",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Avla Day Blumenau: seguradora aposta em proximidade e novos negócios em Santa Catarina",
+          "link": "https://cqcs.com.br/tv/canal-cqcs-in-loco/avla-day-blumenau-seguradora-aposta-em-proximidade-e-novos-negocios-em-santa-catarina/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T18:55:18",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Proteção que vai além da indenização é destaque do PASI em Simpósio do CSP-MG",
+          "link": "https://cqcs.com.br/noticia/protecao-que-vai-alem-da-indenizacao-e-destaque-do-pasi-em-simposio-do-csp-mg/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T17:55:09",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Caso Allan acende alerta sobre riscos na carreira esportiva e reforça importância do seguro para atletas",
+          "link": "https://cqcs.com.br/noticia/caso-allan-acende-alerta-sobre-riscos-na-carreira-esportiva-e-reforca-importancia-do-seguro-para-atletas/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T17:34:29",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Corretores têm 50% de desconto para participar do CQCS Inovação 2026",
+          "link": "https://cqcs.com.br/noticia/corretores-tem-50-de-desconto-para-participar-do-cqcs-inovacao-2026/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T17:31:40",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Fraudes em seguros com IA geram prejuízo de R$ 1,59 bilhão",
+          "link": "https://cqcs.com.br/noticia/fraudes-em-seguros-com-ia-geram-prejuizo-de-1-59-bilhao/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T17:00:08",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "MetLife patrocina formação gratuita para jornalistas interessados no mercado de seguros",
+          "link": "https://cqcs.com.br/noticia/metlife-patrocina-formacao-gratuita-para-jornalistas-interessados-no-mercado-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T16:51:29",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "O que é liquidação extrajudicial, termo usado em e-mail enviado por engano pelo Nubank",
+          "link": "https://g1.globo.com/economia/noticia/2026/06/12/o-que-e-liquidacao-extrajudicial-termo-usado-em-e-mail-enviado-por-engano-pelo-nubank.ghtml",
+          "source": "g1 > Economia",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T16:22:50",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Susep avança em cooperação com a China nos mercados de seguros e resseguros",
+          "link": "https://cqcs.com.br/noticia/susep-avanca-em-cooperacao-com-a-china-nos-mercados-de-seguros-e-resseguros/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T16:19:49",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Setor Segurador e Valor Econômico lançam curso gratuito de Jornalismo em Seguros para recém-formados de todo o país",
+          "link": "https://cqcs.com.br/noticia/setor-segurador-e-valor-economico-lancam-curso-gratuito-de-jornalismo-em-seguros-para-recem-formados-de-todo-o-pais/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T16:16:26",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Tokio Marine lança campanha para impulsionar vendas e ampliar oportunidades para Corretores",
+          "link": "https://cqcs.com.br/noticia/tokio-marine-lancacampanha-para-impulsionar-vendas-e-ampliar-oportunidadespara-corretores/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T14:05:58",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Rota Laranja fortalece relacionamento da Pottencial com corretores do Rio",
+          "link": "https://cqcs.com.br/noticia/rota-laranja-fortalece-relacionamento-da-pottencial-com-corretores-do-rio/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T13:33:40",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Copa do Mundo 2026 mostra como o seguro protege uma cadeia bilionária dentro e fora dos gramados",
+          "link": "https://cqcs.com.br/noticia/copa-do-mundo-2026-mostra-como-o-seguro-protege-uma-cadeia-bilionaria-dentro-e-fora-dos-gramados/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T13:13:35",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Omni Banco e Omni1 são reconhecidos pela Zurich Seguros em campanha de parceiros de negócios",
+          "link": "https://cqcs.com.br/noticia/omni-banco-e-omni1-sao-reconhecidos-pela-zurich-seguros-em-campanha-de-parceiros-de-negocios/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T12:21:00",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Rodovias: ANTT prevê novo modelo para contratação de seguros em concessões",
+          "link": "https://cqcs.com.br/noticia/rodovias-antt-preve-novo-modelo-para-contratacao-de-seguros-em-concessoes/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T11:31:40",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Lideranças tecnológicas da Bradesco Seguros, Porto e Tokio Marine abrem lançamento do selo Super Tech do CQCS Inovação em São Paulo",
+          "link": "https://cqcs.com.br/noticia/liderancas-tecnologicas-da-bradesco-seguros-porto-e-tokio-marine-abrem-lancamento-do-selo-super-tech-do-cqcs-inovacao-em-sao-paulo/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T11:21:40",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Susep autoriza mais uma seguradora a operar em todo o País",
+          "link": "https://cqcs.com.br/noticia/susep-autoriza-mais-uma-seguradora-a-operar-em-todo-o-pais-2/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T11:08:09",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Transporte internacional: seguradora não precisa adotar cláusula de foro estrangeiro",
+          "link": "https://cqcs.com.br/noticia/transporte-internacional-seguradora-nao-precisa-adotar-clausula-de-foro-estrangeiro/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T11:04:08",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "CEO da Planetun destaca ganhos de produtividade e inovação com inteligência artificial",
+          "link": "https://cqcs.com.br/noticia/ceo-da-planetun-destaca-ganhos-de-produtividade-e-inovacao-com-inteligencia-artificial/",
+          "source": "CQCS",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T11:00:05",
+          "day_of_week": "Fri"
+        }
+      ]
+    },
+    "patins": {
+      "label": "ECPA & Spin Patins",
+      "tab": "clientes",
+      "color": "pink",
+      "items": []
+    },
+    "sierra": {
+      "label": "Sierra Móveis",
+      "tab": "clientes",
+      "color": "amber",
+      "items": [
+        {
+          "title": "Reforma da Antiga Praça Banyan / Atelier XÜK",
+          "link": "https://www.archdaily.com.br/br/1042171/reforma-da-antiga-praca-banyan-atelier-xuk",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T17:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Anita Scal | Por que alguns imóveis mudam de destino",
+          "link": "https://exame.com/mercado-imobiliario/anita-scal-por-que-alguns-imoveis-mudam-de-destino/",
+          "source": "exame.com",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T15:00:58",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Casa Mínima: uma Reabilitação na Paisagem de Pasiego / Estudio Mínima",
+          "link": "https://www.archdaily.com.br/br/1042174/casa-minima-uma-reabilitacao-na-paisagem-de-pasiego-estudio-minima",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-13",
+          "date_label": "Sáb 13/06",
+          "datetime": "2026-06-13T20:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Casa Compacta / 7th Hue Architecture Collective",
+          "link": "https://www.archdaily.com.br/br/1042169/casa-compacta-7th-hue-architecture-collective",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-13",
+          "date_label": "Sáb 13/06",
+          "datetime": "2026-06-13T17:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Apartamento EA / Piacesi Arquitetos Associados",
+          "link": "https://www.archdaily.com.br/br/1042337/apartamento-ea-piacesi-arquitetos-associados",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-13",
+          "date_label": "Sáb 13/06",
+          "datetime": "2026-06-13T07:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Pavilhão Lagomar / Obreval",
+          "link": "https://www.archdaily.com.br/br/1042173/pavilhao-lagomar-obreval",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T17:00:00",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Pavilhão de Vidro / M space",
+          "link": "https://www.archdaily.com.br/br/1042166/pavilhao-de-vidro-m-space",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-11",
+          "date_label": "Qui 11/06",
+          "datetime": "2026-06-11T19:00:00",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Escritório Innovation Lab / MTA ARCHITECTS",
+          "link": "https://www.archdaily.com.br/br/1042168/escritorio-innovation-lab-mta-architects",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-11",
+          "date_label": "Qui 11/06",
+          "datetime": "2026-06-11T17:00:00",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Valaya Villa / The Grid Architects",
+          "link": "https://www.archdaily.com.br/br/1042122/valaya-villa-the-grid-architects",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-11",
+          "date_label": "Qui 11/06",
+          "datetime": "2026-06-11T14:00:00",
+          "day_of_week": "Thu"
+        }
+      ]
+    },
+    "marcos": {
+      "label": "Marcos Esquadrias",
+      "tab": "clientes",
+      "color": "gray",
+      "items": [
+        {
+          "title": "Reforma da Antiga Praça Banyan / Atelier XÜK",
+          "link": "https://www.archdaily.com.br/br/1042171/reforma-da-antiga-praca-banyan-atelier-xuk",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T17:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Edifício Adress Jardins / aflalo/gasperini arquitetos",
+          "link": "https://www.archdaily.com.br/br/1042380/edificio-adress-jardins-aflalo-gasperini-arquitetos",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-14",
+          "date_label": "Dom 14/06",
+          "datetime": "2026-06-14T07:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Edifício Vicco / sauermartins",
+          "link": "https://www.archdaily.com.br/br/1042351/edificio-vicco-sauermartins",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-13",
+          "date_label": "Sáb 13/06",
+          "datetime": "2026-06-13T08:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Casa Masuriana / Archigrest",
+          "link": "https://www.archdaily.com.br/br/1042167/casa-masuriana-archigrest",
+          "source": "ArchDaily Brasil",
+          "date": "2026-06-12",
+          "date_label": "Sex 12/06",
+          "datetime": "2026-06-12T14:00:00",
+          "day_of_week": "Fri"
+        }
+      ]
+    },
+    "tpm": {
+      "label": "TPM — Umbanda",
+      "tab": "clientes",
+      "color": "coral",
+      "items": []
+    }
+  }
+}
