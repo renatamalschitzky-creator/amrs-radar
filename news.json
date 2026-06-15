@@ -1,0 +1,97 @@
+{
+  "generated_at": "14/06/2025 às 07:00",
+  "sections": {
+    "amrs_social": {
+      "label": "Social Media & Plataformas",
+      "tab": "amrs",
+      "color": "orange",
+      "items": [
+        {"title": "Meta anuncia mudanças no algoritmo do Instagram para priorizar criadores independentes", "link": "#", "source": "Meio & Mensagem", "date": "2025-06-14", "date_label": "Sáb 14/06", "datetime": "2025-06-14T07:30:00"},
+        {"title": "TikTok Shop cresce 300% no Brasil e muda comportamento de compra nas redes sociais", "link": "#", "source": "Exame", "date": "2025-06-14", "date_label": "Sáb 14/06", "datetime": "2025-06-14T06:00:00"},
+        {"title": "LinkedIn registra maior taxa de engajamento em conteúdo B2B desde 2021", "link": "#", "source": "RD Station", "date": "2025-06-13", "date_label": "Sex 13/06", "datetime": "2025-06-13T14:00:00"},
+        {"title": "Threads atinge 175 milhões de usuários ativos e acelera expansão de funcionalidades", "link": "#", "source": "Tecmundo", "date": "2025-06-13", "date_label": "Sex 13/06", "datetime": "2025-06-13T10:00:00"},
+        {"title": "WhatsApp lança canais de transmissão com novas ferramentas para empresas", "link": "#", "source": "Meio & Mensagem", "date": "2025-06-12", "date_label": "Qui 12/06", "datetime": "2025-06-12T09:00:00"},
+        {"title": "Reels com legenda têm 40% mais retenção, aponta novo estudo da Meta", "link": "#", "source": "Social Media Today", "date": "2025-06-11", "date_label": "Qua 11/06", "datetime": "2025-06-11T11:00:00"},
+        {"title": "Facebook Pages perde relevância entre menores de 35 anos no Brasil", "link": "#", "source": "Meio & Mensagem", "date": "2025-06-10", "date_label": "Ter 10/06", "datetime": "2025-06-10T08:00:00"},
+        {"title": "Negócios digitais crescem 22% no primeiro trimestre de 2025 no Brasil", "link": "#", "source": "Exame", "date": "2025-06-09", "date_label": "Seg 09/06", "datetime": "2025-06-09T10:00:00"}
+      ]
+    },
+    "amrs_ia": {
+      "label": "Inteligência Artificial",
+      "tab": "amrs",
+      "color": "purple",
+      "items": [
+        {"title": "Anthropic lança Claude 4 com capacidade de raciocínio avançado e memória estendida", "link": "#", "source": "Tecmundo", "date": "2025-06-14", "date_label": "Sáb 14/06", "datetime": "2025-06-14T08:00:00"},
+        {"title": "ChatGPT integra busca em tempo real ao modelo GPT-4o para todos os usuários", "link": "#", "source": "Olhar Digital", "date": "2025-06-13", "date_label": "Sex 13/06", "datetime": "2025-06-13T15:00:00"},
+        {"title": "Google Gemini supera concorrência em testes de geração de imagens e vídeos", "link": "#", "source": "Canaltech", "date": "2025-06-12", "date_label": "Qui 12/06", "datetime": "2025-06-12T11:00:00"},
+        {"title": "IA generativa já é usada por 67% das agências de marketing no Brasil", "link": "#", "source": "Meio & Mensagem", "date": "2025-06-11", "date_label": "Qua 11/06", "datetime": "2025-06-11T09:00:00"},
+        {"title": "OpenAI anuncia parceria com Adobe para integrar IA nos produtos Creative Cloud", "link": "#", "source": "Exame", "date": "2025-06-10", "date_label": "Ter 10/06", "datetime": "2025-06-10T13:00:00"}
+      ]
+    },
+    "amrs_empreende": {
+      "label": "Empreendedorismo & Liderança",
+      "tab": "amrs",
+      "color": "teal",
+      "items": [
+        {"title": "Sebrae aponta que 1,4 milhão de MEIs foram abertos no primeiro trimestre de 2025", "link": "#", "source": "Sebrae", "date": "2025-06-14", "date_label": "Sáb 14/06", "datetime": "2025-06-14T07:00:00"},
+        {"title": "Mulheres líderes: pesquisa mostra crescimento de 31% em cargos de decisão em startups", "link": "#", "source": "Época Negócios", "date": "2025-06-13", "date_label": "Sex 13/06", "datetime": "2025-06-13T12:00:00"},
+        {"title": "Micro e pequenas empresas respondem por 55% dos empregos formais no Brasil em 2025", "link": "#", "source": "PEGN", "date": "2025-06-12", "date_label": "Qui 12/06", "datetime": "2025-06-12T10:00:00"},
+        {"title": "Como construir autoridade digital sem depender de volume de seguidores", "link": "#", "source": "Exame", "date": "2025-06-11", "date_label": "Qua 11/06", "datetime": "2025-06-11T08:00:00"}
+      ]
+    },
+    "criterio": {
+      "label": "Critério Seguros",
+      "tab": "clientes",
+      "color": "blue",
+      "items": [
+        {"title": "Mercado de seguros no Paraná cresce 18% e Curitiba lidera expansão regional", "link": "#", "source": "CQCS", "date": "2025-06-14", "date_label": "Sáb 14/06", "datetime": "2025-06-14T07:00:00"},
+        {"title": "Susep regulamenta novos modelos de seguro digital para corretoras independentes", "link": "#", "source": "Sonaseg", "date": "2025-06-13", "date_label": "Sex 13/06", "datetime": "2025-06-13T09:00:00"},
+        {"title": "Seguro de vida ganha adesão entre jovens de 25 a 34 anos no Sul do Brasil", "link": "#", "source": "Exame", "date": "2025-06-12", "date_label": "Qui 12/06", "datetime": "2025-06-12T11:00:00"},
+        {"title": "Corretores de seguros investem em presença digital para captar clientes pós-pandemia", "link": "#", "source": "CQCS", "date": "2025-06-11", "date_label": "Qua 11/06", "datetime": "2025-06-11T14:00:00"}
+      ]
+    },
+    "patins": {
+      "label": "ECPA & Spin Patins",
+      "tab": "clientes",
+      "color": "pink",
+      "items": [
+        {"title": "Campeonato Brasileiro de Patinação Artística 2025 define datas e cidades-sede", "link": "#", "source": "GE Globo", "date": "2025-06-13", "date_label": "Sex 13/06", "datetime": "2025-06-13T10:00:00"},
+        {"title": "Patinação artística no Brasil atrai recorde de inscrições em escolinhas esportivas", "link": "#", "source": "UOL Esporte", "date": "2025-06-11", "date_label": "Qua 11/06", "datetime": "2025-06-11T12:00:00"},
+        {"title": "CBHP anuncia novo programa de formação de árbitros e técnicos de patinação", "link": "#", "source": "Terra Esportes", "date": "2025-06-10", "date_label": "Ter 10/06", "datetime": "2025-06-10T09:00:00"}
+      ]
+    },
+    "sierra": {
+      "label": "Sierra Móveis",
+      "tab": "clientes",
+      "color": "amber",
+      "items": [
+        {"title": "Guarapuava registra aumento de 24% nos alvarás de construção no primeiro semestre", "link": "#", "source": "Gazeta do Povo", "date": "2025-06-14", "date_label": "Sáb 14/06", "datetime": "2025-06-14T08:00:00"},
+        {"title": "Tendências de decoração 2025: biofilia e materiais naturais dominam projetos de interiores", "link": "#", "source": "Casa Vogue", "date": "2025-06-13", "date_label": "Sex 13/06", "datetime": "2025-06-13T11:00:00"},
+        {"title": "Mercado de móveis planejados cresce 15% no interior do Paraná", "link": "#", "source": "Gazeta do Povo", "date": "2025-06-12", "date_label": "Qui 12/06", "datetime": "2025-06-12T09:00:00"},
+        {"title": "Arquitetos apostam em integração de ambientes e cozinhas gourmet em projetos residenciais", "link": "#", "source": "Casa e Jardim", "date": "2025-06-11", "date_label": "Qua 11/06", "datetime": "2025-06-11T10:00:00"},
+        {"title": "Sierra Móveis expande linha de cozinhas sob medida para o mercado de alto padrão", "link": "#", "source": "Gazeta do Povo", "date": "2025-06-10", "date_label": "Ter 10/06", "datetime": "2025-06-10T14:00:00"}
+      ]
+    },
+    "marcos": {
+      "label": "Marcos Esquadrias",
+      "tab": "clientes",
+      "color": "gray",
+      "items": [
+        {"title": "Esquadrias de PVC ganham espaço em obras de alto padrão pela eficiência energética", "link": "#", "source": "ArchDaily Brasil", "date": "2025-06-14", "date_label": "Sáb 14/06", "datetime": "2025-06-14T07:00:00"},
+        {"title": "Fachadas minimalistas com grandes vãos de vidro lideram tendências de arquitetura em 2025", "link": "#", "source": "ArchDaily Brasil", "date": "2025-06-13", "date_label": "Sex 13/06", "datetime": "2025-06-13T09:00:00"},
+        {"title": "Construção de alto padrão cresce 28% no Sul do Brasil impulsionada por renda alta", "link": "#", "source": "Exame", "date": "2025-06-12", "date_label": "Qui 12/06", "datetime": "2025-06-12T08:00:00"},
+        {"title": "Janelas com vidro duplo reduzem em até 40% o consumo de ar-condicionado", "link": "#", "source": "ArchDaily Brasil", "date": "2025-06-11", "date_label": "Qua 11/06", "datetime": "2025-06-11T11:00:00"}
+      ]
+    },
+    "tpm": {
+      "label": "TPM — Umbanda",
+      "tab": "clientes",
+      "color": "coral",
+      "items": [
+        {"title": "Umbanda registra crescimento de adeptos entre jovens urbanos no Brasil segundo pesquisa IBGE", "link": "#", "source": "G1", "date": "2025-06-13", "date_label": "Sex 13/06", "datetime": "2025-06-13T14:00:00"},
+        {"title": "Religiões de matriz africana ganham representatividade em espaços culturais do Paraná", "link": "#", "source": "Gazeta do Povo", "date": "2025-06-12", "date_label": "Qui 12/06", "datetime": "2025-06-12T10:00:00"},
+        {"title": "Terreiros de Umbanda e Candomblé ampliam presença digital para combater intolerância religiosa", "link": "#", "source": "Viva Bem UOL", "date": "2025-06-10", "date_label": "Ter 10/06", "datetime": "2025-06-10T11:00:00"}
+      ]
+    }
+  }
+}

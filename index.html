@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AMRS · Radar de Mercado</title>
+<style>
+  :root {
+    --orange: #FB6B00;
+    --orange-light: #FFF0E6;
+    --purple: #79193E;
+    --purple-light: #F9EEF2;
+    --black: #0D0D0D;
+    --gray-50: #F8F8F8;
+    --gray-100: #F0F0F0;
+    --gray-200: #E0E0E0;
+    --gray-500: #888;
+    --gray-700: #444;
+    --white: #fff;
+    --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: var(--font); background: var(--gray-50); color: var(--black); min-height: 100vh; }
+
+  /* HEADER */
+  .header {
+    background: var(--black);
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 56px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .logo { display: flex; align-items: center; gap: 10px; }
+  .logo-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--orange); }
+  .logo-text { color: var(--white); font-size: 15px; font-weight: 500; letter-spacing: 0.02em; }
+  .logo-sep { color: #444; margin: 0 4px; }
+  .logo-sub { color: #888; font-size: 13px; font-weight: 400; }
+  .header-meta { color: #666; font-size: 12px; display: flex; align-items: center; gap: 6px; }
+  .header-meta span { color: #888; }
+
+  /* GRUPOS DE ABAS */
+  .tab-groups { background: var(--white); border-bottom: 1px solid var(--gray-200); }
+  .tab-group-label {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--gray-500);
+    padding: 10px 24px 0;
+  }
+  .tabs {
+    display: flex;
+    gap: 0;
+    padding: 0 24px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab {
+    padding: 10px 16px;
+    font-size: 13px;
+    color: var(--gray-500);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+    transition: color 0.15s;
+    user-select: none;
+  }
+  .tab:hover { color: var(--gray-700); }
+  .tab.active { color: var(--orange); border-bottom-color: var(--orange); font-weight: 500; }
+
+  /* BARRA DE DIAS */
+  .week-bar {
+    background: var(--white);
+    border-bottom: 1px solid var(--gray-200);
+    padding: 10px 24px;
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .week-bar::-webkit-scrollbar { display: none; }
+  .day-pill {
+    padding: 5px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    color: var(--gray-500);
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.15s;
+    user-select: none;
+  }
+  .day-pill:hover { border-color: var(--orange); color: var(--orange); }
+  .day-pill.active { background: var(--orange); border-color: var(--orange); color: var(--white); font-weight: 500; }
+  .day-pill.future { opacity: 0.35; pointer-events: none; }
+
+  /* CONTEÚDO PRINCIPAL */
+  .main { max-width: 1100px; margin: 0 auto; padding: 24px; }
+
+  /* DESTAQUE */
+  .destaque-card {
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    border-left: 4px solid var(--orange);
+    border-radius: 12px;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+    cursor: pointer;
+    transition: border-color 0.15s;
+  }
+  .destaque-card:hover { border-color: var(--orange); border-left-color: var(--orange); }
+  .destaque-label { font-size: 10px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--orange); margin-bottom: 8px; }
+  .destaque-title { font-size: 18px; font-weight: 500; line-height: 1.4; color: var(--black); margin-bottom: 10px; }
+  .destaque-meta { font-size: 12px; color: var(--gray-500); display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .meta-dot { color: var(--gray-200); }
+  .read-link { color: var(--orange); text-decoration: none; font-weight: 500; }
+  .read-link:hover { text-decoration: underline; }
+
+  /* SECTION LABEL */
+  .section-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gray-500);
+    margin-bottom: 12px;
+    margin-top: 8px;
+  }
+
+  /* GRID DE CARDS */
+  .news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 12px;
+    margin-bottom: 28px;
+  }
+  .news-card {
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    border-radius: 10px;
+    padding: 16px;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.1s;
+    text-decoration: none;
+    display: block;
+  }
+  .news-card:hover { border-color: #ccc; transform: translateY(-1px); }
+  .news-tag {
+    display: inline-block;
+    font-size: 11px;
+    padding: 3px 9px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    font-weight: 500;
+  }
+  .tag-orange { background: var(--orange-light); color: #8B3A00; }
+  .tag-purple { background: var(--purple-light); color: var(--purple); }
+  .tag-teal { background: #E6F7F2; color: #0A6B4E; }
+  .tag-blue { background: #E8F0FE; color: #1A4C9A; }
+  .tag-pink { background: #FCE8F0; color: #8C1E45; }
+  .tag-amber { background: #FEF5E6; color: #7A4A00; }
+  .tag-gray { background: var(--gray-100); color: var(--gray-700); }
+  .tag-coral { background: #FDF0EC; color: #7A2E0E; }
+  .news-title { font-size: 13px; font-weight: 500; line-height: 1.5; color: var(--black); margin-bottom: 10px; }
+  .news-meta-small { font-size: 11px; color: var(--gray-500); display: flex; align-items: center; gap: 6px; }
+
+  /* HISTÓRICO */
+  .history-list { display: flex; flex-direction: column; gap: 6px; margin-bottom: 28px; }
+  .history-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 11px 14px;
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    border-radius: 8px;
+    transition: border-color 0.15s;
+  }
+  .history-item:hover { border-color: #ccc; }
+  .history-day { font-size: 11px; color: var(--gray-500); min-width: 54px; flex-shrink: 0; }
+  .history-title { font-size: 13px; color: var(--black); flex: 1; line-height: 1.4; }
+  .history-src { font-size: 11px; color: var(--gray-500); flex-shrink: 0; }
+  .history-link { color: var(--orange); font-size: 11px; text-decoration: none; white-space: nowrap; flex-shrink: 0; }
+  .history-link:hover { text-decoration: underline; }
+
+  /* EMPTY STATE */
+  .empty { text-align: center; padding: 48px 24px; color: var(--gray-500); }
+  .empty-icon { font-size: 32px; margin-bottom: 12px; opacity: 0.4; }
+  .empty p { font-size: 14px; }
+
+  /* FOOTER */
+  .footer {
+    background: var(--white);
+    border-top: 1px solid var(--gray-200);
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 40px;
+  }
+  .footer-text { font-size: 11px; color: var(--gray-500); }
+  .footer-brand { font-size: 11px; color: var(--orange); font-weight: 500; }
+
+  /* CONTADOR */
+  .count-badge {
+    display: inline-block;
+    background: var(--orange-light);
+    color: var(--orange);
+    font-size: 10px;
+    font-weight: 600;
+    padding: 1px 7px;
+    border-radius: 20px;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="logo">
+    <div class="logo-dot"></div>
+    <span class="logo-text">AMRS<span class="logo-sep">·</span><span class="logo-sub">Radar de Mercado</span></span>
+  </div>
+  <div class="header-meta">
+    <span id="update-time">Carregando...</span>
+  </div>
+</div>
+
+<div class="tab-groups">
+  <div style="display:flex; align-items:flex-end; padding: 0 24px; gap: 32px; flex-wrap:wrap;">
+    <div>
+      <div class="tab-group-label">AMRS</div>
+      <div class="tabs" id="tabs-amrs" style="padding:0;"></div>
+    </div>
+    <div>
+      <div class="tab-group-label">Clientes</div>
+      <div class="tabs" id="tabs-clientes" style="padding:0;"></div>
+    </div>
+  </div>
+</div>
+
+<div class="week-bar" id="week-bar"></div>
+
+<div class="main" id="main-content">
+  <div class="empty"><div class="empty-icon">⏳</div><p>Carregando notícias...</p></div>
+</div>
+
+<div class="footer">
+  <span class="footer-text" id="footer-sources">Fontes: Meio & Mensagem · Exame · RD Station · ArchDaily · Gazeta do Povo · CQCS</span>
+  <span class="footer-brand">A Minha Rede Social · AMRS</span>
+</div>
+
+<script>
+const COLOR_TAG = {
+  orange: 'tag-orange',
+  purple: 'tag-purple',
+  teal:   'tag-teal',
+  blue:   'tag-blue',
+  pink:   'tag-pink',
+  amber:  'tag-amber',
+  gray:   'tag-gray',
+  coral:  'tag-coral',
+};
+
+let allData = null;
+let activeSection = null;
+let activeDay = null;
+
+function buildWeekDays() {
+  const today = new Date();
+  const dayOfWeek = today.getDay();
+  const monday = new Date(today);
+  monday.setDate(today.getDate() - (dayOfWeek === 0 ? 6 : dayOfWeek - 1));
+
+  const days = [];
+  const labels = ['Seg','Ter','Qua','Qui','Sex','Sáb','Dom'];
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(monday);
+    d.setDate(monday.getDate() + i);
+    days.push({
+      date: d.toISOString().split('T')[0],
+      label: `${labels[i]} ${String(d.getDate()).padStart(2,'0')}`,
+      future: d > today,
+    });
+  }
+  return days;
+}
+
+function renderWeekBar(days) {
+  const bar = document.getElementById('week-bar');
+  bar.innerHTML = '';
+  days.forEach(d => {
+    const pill = document.createElement('div');
+    pill.className = 'day-pill' + (d.future ? ' future' : '') + (d.date === activeDay ? ' active' : '');
+    pill.textContent = d.label;
+    if (!d.future) pill.onclick = () => { activeDay = d.date; renderWeekBar(days); renderContent(); };
+    bar.appendChild(pill);
+  });
+}
+
+function renderTabs(data) {
+  const tabsAmrs = document.getElementById('tabs-amrs');
+  const tabsClientes = document.getElementById('tabs-clientes');
+  tabsAmrs.innerHTML = '';
+  tabsClientes.innerHTML = '';
+
+  Object.entries(data.sections).forEach(([key, sec]) => {
+    const items = sec.items || [];
+    const todayCount = items.filter(i => i.date === activeDay).length;
+    const tab = document.createElement('div');
+    tab.className = 'tab' + (key === activeSection ? ' active' : '');
+    tab.innerHTML = sec.label + (todayCount > 0 ? `<span class="count-badge">${todayCount}</span>` : '');
+    tab.onclick = () => { activeSection = key; renderTabs(data); renderContent(); };
+    if (sec.tab === 'amrs') tabsAmrs.appendChild(tab);
+    else tabsClientes.appendChild(tab);
+  });
+}
+
+function renderContent() {
+  const main = document.getElementById('main-content');
+  if (!allData || !activeSection) return;
+
+  const sec = allData.sections[activeSection];
+  if (!sec) return;
+
+  const allItems = sec.items || [];
+  const todayItems = allItems.filter(i => i.date === activeDay);
+  const historyItems = allItems.filter(i => i.date !== activeDay);
+
+  const tagClass = COLOR_TAG[sec.color] || 'tag-gray';
+
+  let html = '';
+
+  if (todayItems.length === 0 && historyItems.length === 0) {
+    html = `<div class="empty"><div class="empty-icon">🔍</div><p>Nenhuma notícia encontrada para esta seção e período.</p></div>`;
+    main.innerHTML = html;
+    return;
+  }
+
+  if (todayItems.length > 0) {
+    const [first, ...rest] = todayItems;
+    html += `
+    <div class="section-label">Destaque do dia</div>
+    <a href="${first.link}" target="_blank" rel="noopener" class="destaque-card" style="text-decoration:none;display:block;">
+      <div class="destaque-label">📍 ${sec.label}</div>
+      <div class="destaque-title">${first.title}</div>
+      <div class="destaque-meta">
+        <span>${first.source}</span>
+        <span class="meta-dot">·</span>
+        <span>${first.date_label}</span>
+        <span class="meta-dot">·</span>
+        <span class="read-link">ler matéria →</span>
+      </div>
+    </a>`;
+
+    if (rest.length > 0) {
+      html += `<div class="section-label">Mais notícias — ${first.date_label}</div><div class="news-grid">`;
+      rest.forEach(item => {
+        html += `
+        <a href="${item.link}" target="_blank" rel="noopener" class="news-card">
+          <span class="news-tag ${tagClass}">${sec.label}</span>
+          <div class="news-title">${item.title}</div>
+          <div class="news-meta-small">
+            <span>${item.source}</span>
+            <span>·</span>
+            <span>${item.date_label}</span>
+          </div>
+        </a>`;
+      });
+      html += `</div>`;
+    }
+  }
+
+  if (historyItems.length > 0) {
+    html += `<div class="section-label">Histórico da semana</div><div class="history-list">`;
+    historyItems.forEach(item => {
+      html += `
+      <div class="history-item">
+        <span class="history-day">${item.date_label}</span>
+        <span class="history-title">${item.title}</span>
+        <span class="history-src">${item.source}</span>
+        <a href="${item.link}" target="_blank" rel="noopener" class="history-link">ler →</a>
+      </div>`;
+    });
+    html += `</div>`;
+  }
+
+  main.innerHTML = html;
+}
+
+async function loadData() {
+  try {
+    const r = await fetch('./data/news.json?t=' + Date.now());
+    allData = await r.json();
+    document.getElementById('update-time').textContent = '⏱ ' + allData.generated_at;
+
+    const days = buildWeekDays();
+    const today = new Date().toISOString().split('T')[0];
+    activeDay = today;
+    activeSection = Object.keys(allData.sections)[0];
+
+    renderWeekBar(days);
+    renderTabs(allData);
+    renderContent();
+  } catch (e) {
+    document.getElementById('main-content').innerHTML =
+      '<div class="empty"><div class="empty-icon">⚠️</div><p>Erro ao carregar notícias. Verifique se o arquivo data/news.json existe.</p></div>';
+  }
+}
+
+loadData();
+</script>
+</body>
+</html>
