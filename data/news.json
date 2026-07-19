@@ -1,5 +1,5 @@
 {
-  "generated_at": "18/07/2026 às 10:54",
+  "generated_at": "19/07/2026 às 11:01",
   "sections": {
     "amrs_social": {
       "label": "Social Media & Plataformas",
@@ -10,19 +10,19 @@
           "title": "Anthropic faz do medo da IA o posicionamento de marca do Claude",
           "link": "https://www.b9.com.br/anthropic-medo-ia-claude-hard-questions/",
           "source": "B9",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T10:54:12.629051",
-          "day_of_week": "Sat"
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T11:01:38.523452",
+          "day_of_week": "Sun"
         },
         {
-          "title": "Quais são os jogadores da final da Copa do Mundo mais seguidos no Instagram? Veja o ranking",
-          "link": "https://exame.com/esporte/quais-sao-os-jogadores-da-final-da-copa-do-mundo-mais-seguidos-no-instagram-veja-o-ranking/",
-          "source": "exame.com",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T23:51:38",
-          "day_of_week": "Fri"
+          "title": "Netflix perde público, a Meta filma tudo e menores banidos das redes",
+          "link": "https://www.b9.com.br/braincast-netflix-meta-oculos-redes-uk/",
+          "source": "B9",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T11:01:38.523271",
+          "day_of_week": "Sun"
         },
         {
           "title": "Edição de 2026 do TikTok Ad Awards terá novas categorias",
@@ -59,6 +59,15 @@
           "date_label": "Sex 17/07",
           "datetime": "2026-07-17T09:00:41",
           "day_of_week": "Fri"
+        },
+        {
+          "title": "WhatsApp Business para marketing e vendas: o guia completo",
+          "link": "https://analoghq.ai/blog/br/whatsapp-business-marketing/",
+          "source": "Analog Blog |",
+          "date": "2026-07-14",
+          "date_label": "Ter 14/07",
+          "datetime": "2026-07-14T18:41:23",
+          "day_of_week": "Tue"
         }
       ]
     },
@@ -68,157 +77,310 @@
       "color": "purple",
       "items": [
         {
-          "title": "Maior eclipse solar do século já tem data definida; veja onde observar",
-          "link": "https://exame.com/ciencia/maior-eclipse-solar-do-seculo-ja-tem-data-definida-veja-onde-observar/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T07:47:50",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Dragões de 'A Casa do Dragão' conseguiriam voar? Ciência explica o que diz a física",
-          "link": "https://exame.com/ciencia/dragoes-de-a-casa-do-dragao-conseguiriam-voar-ciencia-explica-o-que-diz-a-fisica/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T07:45:12",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Quem ganha dinheiro toda vez que você faz uma pergunta ao ChatGPT?",
-          "link": "https://exame.com/inteligencia-artificial/quem-ganha-dinheiro-toda-vez-que-voce-faz-uma-pergunta-ao-chatgpt/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T07:05:49",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Netflix revela compra de empresa de IA de Ben Affleck por US$ 587 milhões",
-          "link": "https://exame.com/pop/netflix-revela-compra-de-empresa-de-ia-de-ben-affleck-por-us-587-milhoes/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T07:00:26",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Caneta que evitou tragédia na Apollo 11 é leiloada por mais de US$ 850 mil",
-          "link": "https://exame.com/ciencia/caneta-que-evitou-tragedia-na-apollo-11-e-leiloada-por-mais-de-us-850-mil/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T06:46:54",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Duelo entre França e Inglaterra carrega rivalidade que vai além do futebol",
-          "link": "https://exame.com/esporte/duelo-entre-franca-e-inglaterra-carrega-rivalidade-que-vai-alem-do-futebol/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T06:16:12",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Portas abertas: como os modelos de IA de código aberto estão democratizando o acesso à tecnologia",
-          "link": "https://exame.com/inteligencia-artificial/portas-abertas-como-os-modelos-de-ia-de-codigo-aberto-estao-democratizando-o-acesso-a-tecnologia/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T06:08:47",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Bolsonaro volta a ter crise de soluços por 36 horas, diz relatório médico",
-          "link": "https://exame.com/brasil/bolsonaro-volta-a-ter-crise-de-solucos-por-36-horas-diz-relatorio-medico/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T06:00:42",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Um professor particular de IA para cada aluno: ficção ou já é realidade?",
-          "link": "https://exame.com/inteligencia-artificial/um-professor-particular-de-ia-para-cada-aluno-ficcao-ou-ja-e-realidade/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T05:06:48",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Casa Branca passa a controlar acesso a modelos de IA de ponta",
-          "link": "https://olhardigital.com.br/2026/07/17/pro/casa-branca-passa-a-controlar-acesso-a-modelos-de-ia-de-ponta/",
+          "title": "Reconhecimento facial e idosos: quem a tecnologia deixa de enxergar?",
+          "link": "https://olhardigital.com.br/2026/07/19/colunistas/reconhecimento-facial-e-idosos-quem-a-tecnologia-deixa-de-enxergar/",
           "source": "Olhar Digital",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T01:34:58",
-          "day_of_week": "Sat"
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T10:02:00",
+          "day_of_week": "Sun"
         },
         {
-          "title": "Açúcar encontrado no espaço pode mudar tudo o que sabemos sobre a origem da vida",
-          "link": "https://olhardigital.com.br/2026/07/17/ciencia-e-espaco/acucar-encontrado-no-espaco-pode-mudar-tudo-o-que-sabemos-sobre-a-origem-da-vida/",
+          "title": "Tecnologia 3D revela besouro mais antigo que dinossauros no Ceará",
+          "link": "https://olhardigital.com.br/2026/07/19/ciencia-e-espaco/tecnologia-3d-revela-besouro-mais-antigo-que-dinossauros-no-ceara/",
           "source": "Olhar Digital",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T01:09:16",
-          "day_of_week": "Sat"
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T09:32:00",
+          "day_of_week": "Sun"
         },
         {
-          "title": "Recesso parlamentar adia decisões sobre pautas prioritárias no Congresso",
-          "link": "https://exame.com/esferabrasil/recesso-parlamentar-adia-decisoes-sobre-pautas-prioritarias-no-congresso/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T00:58:04",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Confira o Olhar Digital News na íntegra (17/07/2026)",
-          "link": "https://olhardigital.com.br/2026/07/17/videos/confira-o-olhar-digital-news-na-integra-17-07-2026/",
+          "title": "Pela primeira vez, você pode ver o coração de uma galáxia se formando",
+          "link": "https://olhardigital.com.br/2026/07/19/ciencia-e-espaco/pela-primeira-vez-voce-pode-ver-o-coracao-de-uma-galaxia-se-formando/",
           "source": "Olhar Digital",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T00:51:45",
-          "day_of_week": "Sat"
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T08:30:00",
+          "day_of_week": "Sun"
         },
         {
-          "title": "Entrevista: China aposta pesado nos modelos abertos de IA",
-          "link": "https://olhardigital.com.br/2026/07/17/colunistas/entrevista-china-aposta-pesado-nos-modelos-abertos-de-ia/",
+          "title": "“A Grande Morte”: estudo confirma causa da maior extinção em massa da história",
+          "link": "https://olhardigital.com.br/2026/07/19/ciencia-e-espaco/a-grande-morte-estudo-confirma-causa-da-maior-extincao-em-massa-da-historia/",
           "source": "Olhar Digital",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T08:10:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Do domínio colonial à final da Copa: Argentina e Espanha escrevem novo capítulo da história",
+          "link": "https://exame.com/esporte/do-dominio-colonial-a-final-da-copa-argentina-e-espanha-escrevem-novo-capitulo-da-historia/",
+          "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T07:19:37",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Quantas finais de Copa do Mundo a Argentina disputou? Relembre a trajetória",
+          "link": "https://exame.com/esporte/quantas-finais-de-copa-do-mundo-a-argentina-disputou-relembre-a-trajetoria/",
+          "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T07:18:05",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Tempo de volta para as pessoas: como a automação inteligente reduz tarefas repetitivas no trabalho",
+          "link": "https://exame.com/inteligencia-artificial/tempo-de-volta-para-as-pessoas-como-a-automacao-inteligente-reduz-tarefas-repetitivas-no-trabalho/",
+          "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T07:08:46",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Quem é o maior artilheiro da história da Espanha",
+          "link": "https://exame.com/esporte/quem-e-o-maior-artilheiro-da-historia-da-espanha/",
+          "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T07:04:43",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "O que modelos de pagamentos chineses ensinam sobre segurança e sustentabilidade",
+          "link": "https://exame.com/bussola/fim-das-maquininhas-a-licao-da-china-sobre-o-futuro-dos-pagamentos/",
+          "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T07:00:41",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "A IA te deixa mais burro? Para os cientistas, depende",
+          "link": "https://exame.com/inteligencia-artificial/a-ia-te-deixa-mais-burro-para-cientistas-depende/",
+          "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T06:59:18",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Justin Bieber, Madonna, Shakira, BTS e mais: tudo sobre os shows da final da Copa do Mundo",
+          "link": "https://exame.com/pop/justin-bieber-madonna-shakira-bts-e-mais-tudo-sobre-os-shows-da-final-da-copa-do-mundo/",
+          "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T06:56:30",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Saiba como a IA que está encurtando o caminho até novos remédios",
+          "link": "https://exame.com/inteligencia-artificial/saiba-como-a-ia-que-esta-encurtando-o-caminho-ate-novos-remedios/",
+          "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T06:03:49",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Criatividade turbinada: como artistas e criadores estão transformando a IA em parceira de trabalho",
+          "link": "https://exame.com/inteligencia-artificial/criatividade-turbinada-como-artistas-e-criadores-estao-transformando-a-ia-em-parceira-de-trabalho/",
+          "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T05:05:15",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "The Big Bang Theory volta diferente em nova série da HBO Max",
+          "link": "https://canaltech.com.br/entretenimento/the-big-bang-theory-volta-diferente-em-nova-serie-da-hbo-max/",
+          "source": "Canaltech",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T00:01:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "5 mudanças feitas no “Battinson” em Batman: Parte 2",
+          "link": "https://canaltech.com.br/entretenimento/5-mudancas-feitas-em-batman-parte-2/",
+          "source": "Canaltech",
           "date": "2026-07-18",
           "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T00:41:04",
+          "datetime": "2026-07-18T22:01:00",
           "day_of_week": "Sat"
         },
         {
-          "title": "Atlético-MG provoca Flamengo após campanha de nova camisa",
-          "link": "https://exame.com/esporte/atletico-mg-provoca-flamengo-apos-campanha-de-nova-camisa/",
+          "title": "Inglaterra e França fazem a disputa de terceiro lugar com mais gols da história das Copas do Mundo",
+          "link": "https://exame.com/esporte/inglaterra-e-franca-fazem-a-disputa-de-terceiro-lugar-com-mais-gols-da-historia-das-copas-do-mundo/",
           "source": "exame.com",
           "date": "2026-07-18",
           "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T00:17:30",
+          "datetime": "2026-07-18T21:14:19",
           "day_of_week": "Sat"
         },
         {
-          "title": "Oasis faz história e coloca 'Wonderwall' no topo do Spotify Global quase 30 anos após o lançamento",
-          "link": "https://exame.com/pop/oasis-faz-historia-e-coloca-wonderwall-no-topo-do-spotify-global-quase-30-anos-apos-o-lancamento/",
-          "source": "exame.com",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T23:58:38",
-          "day_of_week": "Fri"
+          "title": "PS Plus Extra ou Deluxe: qual plano vale mais a pena em 2026?",
+          "link": "https://canaltech.com.br/games/ps-plus-extra-ou-deluxe-qual-vale-a-pena-2026/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T21:09:00",
+          "day_of_week": "Sat"
         },
         {
-          "title": "Dia Mundial do Emoji: quais são os favoritos dos brasileiros?",
-          "link": "https://exame.com/pop/dia-mundial-do-emoji-quais-sao-os-favoritos-dos-brasileiros/",
+          "title": "EUA lançam nova rodada de ataques ao Irã após morte de militares na Jordânia",
+          "link": "https://exame.com/mundo/eua-lancam-nova-rodada-de-ataques-ao-ira-apos-morte-de-militares-na-jordania/",
           "source": "exame.com",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T23:56:25",
-          "day_of_week": "Fri"
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T20:29:37",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Nissan Kait fica com preços no chão em julho, mas não para todo mundo",
+          "link": "https://canaltech.com.br/carros/nissan-kait-fica-com-precos-no-chao-em-julho-mas-nao-para-todo-mundo/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T20:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Da panela elétrica ao comedouro de pet: 7 eletros geniais da Xiaomi que custam menos de R$ 1.500",
+          "link": "https://canaltech.com.br/eletro/da-panela-eletrica-ao-comedouro-de-pet-8-eletros-geniais-da-xiaomi-que-custam-menos-de-r-500/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T19:30:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Como usar IA para acabar com o doomscrolling e \"curar\" vício digital",
+          "link": "https://canaltech.com.br/inteligencia-artificial/curar-doomscrolling-vicio-digital-com-ajuda-da-ia/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T19:03:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "5 piores jogos da franquia Assassin's Creed",
+          "link": "https://canaltech.com.br/games/piores-jogos-assassins-creed/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T18:37:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Quanto custa abastecer um avião comercial? Fizemos as contas",
+          "link": "https://canaltech.com.br/carros/quanto-custa-abastecer-um-aviao-comercial-fizemos-as-contas/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T18:01:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "HDMI ou DisplayPort? Qual é o melhor cabo para jogar no PC?",
+          "link": "https://canaltech.com.br/hardware/hdmi-displayport-qual-melhor-cabo-video-para-jogar-pc/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T17:33:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Quando a Samsung vai vender TV 3.0? Nós conversamos com a marca para descobrir",
+          "link": "https://canaltech.com.br/telecom/quando-a-samsung-vai-vender-tv-3-0-nos-conversamos-com-a-marca-para-descobrir/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T17:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "IA muda forma do brasileiro comprar carro; entenda",
+          "link": "https://canaltech.com.br/carros/ia-muda-forma-do-brasileiro-comprar-carro-entenda/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T16:05:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Harlan Coben: conheça 7 séries do criador de Eu Vou te Encontrar e onde assistir",
+          "link": "https://canaltech.com.br/entretenimento/harlan-coben-conheca-series-e-onde-assistir/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T15:12:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Quanto dura a bateria do novo Moto G Max da Motorola? Nós testamos",
+          "link": "https://canaltech.com.br/smartphone/quanto-dura-a-bateria-do-novo-moto-g-max-da-motorola-nos-testamos/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T14:30:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Robô aspirador perdeu força? Veja como fazer manutenção das escovas em casa",
+          "link": "https://canaltech.com.br/eletro/robo-aspirador-perdeu-forca-veja-como-fazer-manutencao-das-escovas-em-casa/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T13:30:01",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "7 coisas que o Switch 2 pode fazer e o PlayStation 5 não",
+          "link": "https://canaltech.com.br/games/o-que-o-switch-2-faz-que-o-ps5-nao-faz/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T13:09:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Como saber quem saiu ou foi removido de grupos no WhatsApp",
+          "link": "https://canaltech.com.br/apps/como-saber-quem-saiu-ou-foi-removido-de-grupos-no-whatsapp/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T12:33:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "As 3 melhores bicicletas elétricas para quem quer fugir do trânsito",
+          "link": "https://canaltech.com.br/carros/3-modelos-de-bicicletas-eletricas-para-quem-quer-fugir-do-transito/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T12:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Quanto vale a pena pagar no Galaxy S24 em julho de 2026?",
+          "link": "https://canaltech.com.br/smartphone/quanto-vale-a-pena-pagar-no-galaxy-s24-em-julho-de-2026/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T11:30:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "5 perguntas que Silo precisa responder na temporada 3",
+          "link": "https://canaltech.com.br/entretenimento/silo-perguntas-que-precisam-resposta/",
+          "source": "Canaltech",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T11:03:00",
+          "day_of_week": "Sat"
         },
         {
           "title": "Relógio para treino: 10 smartwatches para esportes e academia",
@@ -273,159 +435,6 @@
           "date_label": "Sex 17/07",
           "datetime": "2026-07-17T19:49:45",
           "day_of_week": "Fri"
-        },
-        {
-          "title": "Governo e Google alteram regras de anúncios financeiros",
-          "link": "https://www.meioemensagem.com.br/midia/governo-e-google-alteram-regras-para-anuncios-financeiros",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T19:41:08",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Grupo Live anuncia Iran Peixoto como sócio da GAZ",
-          "link": "https://www.meioemensagem.com.br/gente/grupo-live-anuncia-iran-peixoto-como-socio-da-gaz",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T19:39:32",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Galaxy Z Fold 8 Ultra vaza em edição de R$ 67 mil com Messi",
-          "link": "https://tecnoblog.net/noticias/galaxy-z-fold-8-ultra-vaza-em-edicao-de-r-67-mil-com-messi/",
-          "source": "Tecnoblog",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T19:33:13",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Google é forçado a compartilhar dados com rivais de IA; entenda o motivo",
-          "link": "https://canaltech.com.br/mercado/google-e-forcado-a-compartilhar-dados-com-rivais-de-ia-entenda-o-motivo/",
-          "source": "Canaltech",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T19:11:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Apple e Google são acusadas de lucrar com apps que criam nudes falsos",
-          "link": "https://tecnoblog.net/noticias/apple-e-google-viram-alvo-por-apps-de-ia-que-criam-nudes-falsos/",
-          "source": "Tecnoblog",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T19:09:39",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "O que é RCS? Saiba como funciona o protocolo de comunicação",
-          "link": "https://tecnoblog.net/responde/o-que-e-rcs-saiba-como-funciona-o-protocolo-de-comunicacao/",
-          "source": "Tecnoblog",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T18:47:10",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Akkira quer unir craft de cinema à IA",
-          "link": "https://www.meioemensagem.com.br/comunicacao/akkira-quer-unir-craft-de-cinema-a-ia",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T18:46:18",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Ubisoft reúne franquias em pop-up store em São Paulo",
-          "link": "https://www.meioemensagem.com.br/marketing/ubisoft-reune-franquias-em-pop-up-store-em-sao-paulo",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T18:40:51",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Rádio 3.0 já chegou a 7 cidades brasileiras; veja se a sua está na lista",
-          "link": "https://canaltech.com.br/telecom/radio-3-0-ja-chegou-a-7-cidades-brasileiras-veja-se-a-sua-esta-na-lista/",
-          "source": "Canaltech",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T18:31:45",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Capinha muito grossa estraga bateria do iPhone? Veja o que diz a Apple",
-          "link": "https://canaltech.com.br/smartphone/capinha-muito-grossa-estraga-bateria-do-i-phone-veja-o-que-diz-a-apple/",
-          "source": "Canaltech",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T18:23:44",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "China faz aposta inusitada para diminuir custo de carros elétricos urbanos",
-          "link": "https://canaltech.com.br/carros/parece-contradicao-mas-o-carro-eletrico-barato-da-china-vai-depender-do-carvao/",
-          "source": "Canaltech",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T18:20:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "João Fonseca: o bom moço e a lição de reputação",
-          "link": "https://www.meioemensagem.com.br/opiniao/joao-fonseca-o-bom-moco-e-a-licao-de-reputacao",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T18:02:10",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "OpenAI lança versão do ChatGPT especialista em hackear sistemas",
-          "link": "https://canaltech.com.br/inteligencia-artificial/open-ai-lanca-versao-do-chat-gpt-especialista-em-hackear-sistemas/",
-          "source": "Canaltech",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T18:02:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Yuny anuncia diretor de vendas e marketing",
-          "link": "https://www.meioemensagem.com.br/gente/yuny-anuncia-diretor-de-vendas-e-marketing",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T17:58:46",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Nokia está de volta: novo celular básico tem bateria que serve como power bank",
-          "link": "https://canaltech.com.br/smartphone/nokia-esta-de-volta-novo-celular-basico-tem-bateria-que-serve-como-power-bank/",
-          "source": "Canaltech",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T17:56:34",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Celular Samsung top ultra fino com 512 GB aparece com preço no chão",
-          "link": "https://canaltech.com.br/smartphone/celular-samsung-top-ultra-fino-com-512-gb-aparece-com-preco-no-chao/",
-          "source": "Canaltech",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T17:51:40",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "GTA, Dragon Ball e mais 5 jogos grátis deste fim de semana",
-          "link": "https://canaltech.com.br/games/gta-dragon-ball-e-mais-jogos-gratis-fim-de-semana/",
-          "source": "Canaltech",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T17:13:00",
-          "day_of_week": "Fri"
         }
       ]
     },
@@ -435,67 +444,40 @@
       "color": "teal",
       "items": [
         {
-          "title": "Site elege os melhores jogos da Copa do Mundo de 2026",
-          "link": "https://exame.com/esporte/site-elege-os-melhores-jogos-da-copa-do-mundo-de-2026/",
+          "title": "Quantas finais de Copa do Mundo a Argentina disputou? Relembre a trajetória",
+          "link": "https://exame.com/esporte/quantas-finais-de-copa-do-mundo-a-argentina-disputou-relembre-a-trajetoria/",
           "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T07:17:37",
-          "day_of_week": "Sat"
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T07:18:05",
+          "day_of_week": "Sun"
         },
         {
-          "title": "Messi lidera corrida pela Chuteira de Ouro da Copa; veja os concorrentes",
-          "link": "https://exame.com/esporte/messi-lidera-corrida-pela-chuteira-de-ouro-da-copa-veja-os-concorrentes/",
+          "title": "Quem é o maior artilheiro da história da Espanha",
+          "link": "https://exame.com/esporte/quem-e-o-maior-artilheiro-da-historia-da-espanha/",
           "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T07:05:52",
-          "day_of_week": "Sat"
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T07:04:43",
+          "day_of_week": "Sun"
         },
         {
-          "title": "STF decide em agosto sobre venda da primeira estatal de TI do Brasil",
-          "link": "https://exame.com/tecnologia/stf-decide-em-agosto-sobre-venda-da-celepar/",
+          "title": "Justin Bieber, Madonna, Shakira, BTS e mais: tudo sobre os shows da final da Copa do Mundo",
+          "link": "https://exame.com/pop/justin-bieber-madonna-shakira-bts-e-mais-tudo-sobre-os-shows-da-final-da-copa-do-mundo/",
           "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T06:59:14",
-          "day_of_week": "Sat"
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T06:56:30",
+          "day_of_week": "Sun"
         },
         {
-          "title": "Portas abertas: como os modelos de IA de código aberto estão democratizando o acesso à tecnologia",
-          "link": "https://exame.com/inteligencia-artificial/portas-abertas-como-os-modelos-de-ia-de-codigo-aberto-estao-democratizando-o-acesso-a-tecnologia/",
+          "title": "Supercomputador aponta favorito para Argentina x Espanha na final da Copa do Mundo",
+          "link": "https://exame.com/esporte/supercomputador-aponta-favorito-para-argentina-x-espanha-na-final-da-copa-do-mundo/",
           "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T06:08:47",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Surto de doença do legionário torna-se fatal em Nova York",
-          "link": "https://exame.com/ciencia/surto-de-doenca-do-legionario-torna-se-fatal-em-nova-york/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T06:06:16",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Um professor particular de IA para cada aluno: ficção ou já é realidade?",
-          "link": "https://exame.com/inteligencia-artificial/um-professor-particular-de-ia-para-cada-aluno-ficcao-ou-ja-e-realidade/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T05:06:48",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Recesso parlamentar adia decisões sobre pautas prioritárias no Congresso",
-          "link": "https://exame.com/esferabrasil/recesso-parlamentar-adia-decisoes-sobre-pautas-prioritarias-no-congresso/",
-          "source": "exame.com",
-          "date": "2026-07-18",
-          "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T00:58:04",
-          "day_of_week": "Sat"
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T06:17:01",
+          "day_of_week": "Sun"
         },
         {
           "title": "Momentos emblemáticos impactam buscas por camisas da Copa",
@@ -775,6 +757,15 @@
       "color": "blue",
       "items": [
         {
+          "title": "Vale a pena trabalhar por aplicativo? Estudo mostra impactos da jornada, custos e direitos",
+          "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/19/trabalhar-de-aplicativo-estudo-do-tst-revela-impacto-da-jornada-custos-e-direitos.ghtml",
+          "source": "g1 > Economia",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T07:01:09",
+          "day_of_week": "Sun"
+        },
+        {
           "title": "MAG Seguros promove Sexta Super Especial em São Paulo",
           "link": "https://cqcs.com.br/galeria/mag-seguros-promove-sexta-super-especial-em-sao-paulo/",
           "source": "CQCS",
@@ -932,6 +923,42 @@
       "color": "amber",
       "items": [
         {
+          "title": "Sede da Tiansong / ZIAD",
+          "link": "https://www.archdaily.com.br/pt/1148598/sede-da-tiansong-ziad",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T00:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Casa JNG / BodinChapa Architects",
+          "link": "https://www.archdaily.com.br/pt/1148669/casa-jng-bodinchapa-architects",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T17:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Apartamento Veredas / Novais Arquitetura",
+          "link": "https://www.archdaily.com.br/pt/1148688/apartamento-veredas-novais-arquitetura",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T13:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Reforma de Antiga Gráfica / Bastidas Architecture",
+          "link": "https://www.archdaily.com.br/pt/1148706/reforma-de-antiga-grafica-bastidas-architecture",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-18",
+          "date_label": "Sáb 18/07",
+          "datetime": "2026-07-18T09:00:00",
+          "day_of_week": "Sat"
+        },
+        {
           "title": "Casa Elementar / YUMI Architekci",
           "link": "https://www.archdaily.com.br/pt/1092501/casa-elementar-yumi-architekci",
           "source": "Type:  | ArchDaily em Português",
@@ -1029,15 +1056,6 @@
           "date_label": "Sex 17/07",
           "datetime": "2026-07-17T06:00:00",
           "day_of_week": "Fri"
-        },
-        {
-          "title": "Complexo de Uso Misto Westlake 66 / KPF",
-          "link": "https://www.archdaily.com.br/pt/1148772/complexo-de-uso-misto-westlake-66-kpf",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-07-16",
-          "date_label": "Qui 16/07",
-          "datetime": "2026-07-16T12:00:00",
-          "day_of_week": "Thu"
         }
       ]
     },
@@ -1047,12 +1065,21 @@
       "color": "gray",
       "items": [
         {
-          "title": "Portas abertas: como os modelos de IA de código aberto estão democratizando o acesso à tecnologia",
-          "link": "https://exame.com/inteligencia-artificial/portas-abertas-como-os-modelos-de-ia-de-codigo-aberto-estao-democratizando-o-acesso-a-tecnologia/",
+          "title": "Os jogadores que mais marcaram gols em finais da Copa do Mundo",
+          "link": "https://exame.com/esporte/os-jogadores-que-mais-marcaram-gols-em-finais-da-copa-do-mundo/",
           "source": "exame.com",
+          "date": "2026-07-19",
+          "date_label": "Dom 19/07",
+          "datetime": "2026-07-19T07:53:47",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Edifício de Uso Misto Urban Egg / U.GA Architects",
+          "link": "https://www.archdaily.com.br/pt/1148935/edificio-de-uso-misto-urban-egg-uga-architects",
+          "source": "Type:  | ArchDaily em Português",
           "date": "2026-07-18",
           "date_label": "Sáb 18/07",
-          "datetime": "2026-07-18T06:08:47",
+          "datetime": "2026-07-18T21:00:00",
           "day_of_week": "Sat"
         },
         {
@@ -1081,24 +1108,6 @@
           "date_label": "Sex 17/07",
           "datetime": "2026-07-17T07:30:00",
           "day_of_week": "Fri"
-        },
-        {
-          "title": "Residência Playhouse / Carter Williamson Architects",
-          "link": "https://www.archdaily.com.br/pt/1148673/residencia-playhouse-carter-williamson-architects",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-07-17",
-          "date_label": "Sex 17/07",
-          "datetime": "2026-07-17T02:00:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Uma Estação de Trem Temporária para o Roskilde Festival / Royal Danish Academy",
-          "link": "https://www.archdaily.com.br/pt/1148733/uma-estacao-de-trem-temporaria-para-o-roskilde-festival-royal-danish-academy",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-07-16",
-          "date_label": "Qui 16/07",
-          "datetime": "2026-07-16T10:01:00",
-          "day_of_week": "Thu"
         }
       ]
     },
