@@ -1,5 +1,5 @@
 {
-  "generated_at": "25/07/2026 às 10:59",
+  "generated_at": "26/07/2026 às 11:11",
   "sections": {
     "amrs_social": {
       "label": "Social Media & Plataformas",
@@ -10,28 +10,46 @@
           "title": "Netflix perde público, a Meta filma tudo e menores banidos das redes",
           "link": "https://www.b9.com.br/braincast-netflix-meta-oculos-redes-uk/",
           "source": "B9",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T10:59:15.854361",
-          "day_of_week": "Sat"
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T11:11:52.471453",
+          "day_of_week": "Sun"
         },
         {
           "title": "Tudo à venda na final da Copa (o gerente ficou maluco!)",
           "link": "https://www.b9.com.br/alem-do-feed-liquidacao-da-copa/",
           "source": "B9",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T10:59:15.854330",
-          "day_of_week": "Sat"
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T11:11:52.471430",
+          "day_of_week": "Sun"
         },
         {
           "title": "Meta gastou US$ 145 bilhões em IA e agora precisa que você goste dela",
           "link": "https://www.b9.com.br/meta-filme-pro-ia-ceticismo/",
           "source": "B9",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T10:59:15.854229",
-          "day_of_week": "Sat"
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T11:11:52.471346",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "As 5 competências que vão manter o profissional relevante na era da IA, segundo o líder do LinkedIn",
+          "link": "https://exame.com/carreira/as-5-competencias-que-vao-manter-o-profissional-relevante-na-era-da-ia-segundo-o-lider-do-linkedin/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T08:01:04",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Corpo, mente e algoritmos: como não deixar de ser humano no mundo sintético",
+          "link": "https://exame.com/exame-in/corpo-mente-e-algoritmos-como-nao-deixar-de-ser-humano-no-mundo-sintetico/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T08:00:36",
+          "day_of_week": "Sun"
         },
         {
           "title": "Campanhas da Semana: estratégias em cena",
@@ -68,57 +86,327 @@
       "color": "purple",
       "items": [
         {
+          "title": "Fechadura digital sem bateria: o que fazer para não ficar trancado?",
+          "link": "https://canaltech.com.br/produtos/fechadura-digital-sem-bateria-o-que-fazer-para-nao-ficar-trancado/",
+          "source": "Canaltech",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T11:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Como bloquear músicas impróprias para crianças no Spotify",
+          "link": "https://canaltech.com.br/apps/como-bloquear-musicas-improprias-para-criancas-no-spotify/",
+          "source": "Canaltech",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T10:34:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Bahia x Corinthians: onde assistir, horário e escalação do jogo do Brasileirão",
+          "link": "https://olhardigital.com.br/2026/07/26/internet-e-redes-sociais/bahia-x-corinthians-onde-assistir-horario-e-escalacao-do-jogo-do-brasileirao-2/",
+          "source": "Olhar Digital",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T08:10:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "'Não há para onde correr': o ciclo ruim da pecuária deve chegar aos frigoríficos",
+          "link": "https://exame.com/agro/nao-ha-para-onde-correr-o-ciclo-ruim-da-pecuaria-deve-chegar-aos-frigorificos/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T08:01:59",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Corpo, mente e algoritmos: como não deixar de ser humano no mundo sintético",
+          "link": "https://exame.com/exame-in/corpo-mente-e-algoritmos-como-nao-deixar-de-ser-humano-no-mundo-sintetico/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T08:00:36",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Desmatamento cai na Amazônia e 588 áreas protegidas ficam intactas no semestre",
+          "link": "https://exame.com/esg/desmatamento-cai-na-amazonia-e-588-areas-protegidas-ficam-intactas-no-semestre/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T08:00:28",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "PSD oficializa candidatura de Caiado em 1ª disputa presidencial na história do partido",
+          "link": "https://exame.com/brasil/psd-oficializa-candidatura-de-caiado-em-1a-disputa-presidencial-na-historia-do-partido/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T08:00:25",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Já fez a mesma pergunta duas vezes para a IA? É por isso que ela responde diferente",
+          "link": "https://exame.com/inteligencia-artificial/ja-fez-a-mesma-pergunta-duas-vezes-para-a-ia-e-por-isso-que-ela-responde-diferente/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T07:04:49",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "O erro humano por trás da fuga de modelos da OpenAI",
+          "link": "https://exame.com/inteligencia-artificial/o-erro-humano-por-tras-da-fuga-de-modelos-da-openai/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T06:59:47",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Por que usar IA custa dinheiro mesmo depois que ela já foi treinada?",
+          "link": "https://exame.com/inteligencia-artificial/por-que-usar-ia-custa-dinheiro-mesmo-depois-que-ela-ja-foi-treinada/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T06:09:03",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Malásia desponta como favorita para voltar ao calendário da Fórmula 1 em 2026",
+          "link": "https://exame.com/esporte/malasia-desponta-como-favorita-para-voltar-ao-calendario-da-formula-1-em-2026/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T06:08:44",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Que horas estreia o 6º episódio da 3ª temporada de 'A Casa do Dragão'?",
+          "link": "https://exame.com/pop/que-horas-estreia-o-6o-episodio-da-3a-temporada-de-a-casa-do-dragao/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T06:02:15",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Bahia x Corinthians: onde assistir e horário do jogo do Brasileirão hoje",
+          "link": "https://exame.com/esporte/bahia-x-corinthians-onde-assistir-e-horario-do-jogo-do-brasileirao-hoje/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T06:01:52",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Além da perda de peso: estudo aponta efeito de Ozempic e Mounjaro nos cabelos",
+          "link": "https://exame.com/ciencia/alem-da-perda-de-peso-estudo-aponta-efeito-de-ozempic-e-mounjaro-nos-cabelos/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T06:01:22",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Fórmula 1: veja horário e onde assistir ao GP da Hungria neste domingo",
+          "link": "https://exame.com/esporte/formula-1-veja-horario-e-onde-assistir-ao-gp-da-hungria-neste-domingo/",
+          "source": "exame.com",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T05:31:32",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Último dia da Retrocon 2026: veja o que aproveitar antes do encerramento do evento",
+          "link": "https://olhardigital.com.br/2026/07/25/games-e-consoles/retrocon-2026-o-que-fazer-no-ultimo-dia/",
+          "source": "Olhar Digital",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T22:41:45",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "O que é o botão de plástico no cinto de segurança dos carros?",
+          "link": "https://canaltech.com.br/carros/o-que-e-o-botao-de-plastico-no-cinto-de-seguranca-dos-carros/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T22:05:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Seu próximo seguro pode depender de uma IA",
+          "link": "https://olhardigital.com.br/2026/07/25/inteligencia-artificial/seu-proximo-seguro-pode-depender-de-uma-ia/",
+          "source": "Olhar Digital",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T21:02:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "5 celulares mais baratos que podem ser melhores que o iPhone 17",
+          "link": "https://canaltech.com.br/smartphone/5-celulares-mais-baratos-que-podem-ser-melhores-que-o-i-phone-17/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T21:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "GAC derrete preços de quase toda linha no Brasil; veja condições",
+          "link": "https://canaltech.com.br/carros/gac-derrete-precos-de-quase-toda-linha-no-brasil-veja-condicoes/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T20:01:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "8 melhores novidades do iOS 27 para quem tem iPhone antigo",
+          "link": "https://canaltech.com.br/apps/melhores-novidades-ios-27-para-iphone-antigo/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T19:33:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Review Dell 14 | Notebook \"premium de entrada\" que acerta no básico",
+          "link": "https://canaltech.com.br/notebook/review-dell-14/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T19:16:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "O Drama: quando filme com Zendaya e Robert Pattinson estreia no streaming?",
+          "link": "https://canaltech.com.br/entretenimento/o-drama-quando-estreia-no-streaming/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T18:39:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Melhor Smart TV de 50 polegadas para comprar em 2026: o guia definitivo",
+          "link": "https://canaltech.com.br/tv/melhor-smart-tv-de-50-polegadas-para-comprar-em-2026-o-guia-definitivo/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T18:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "10 jogos mais aguardados que saem ainda em 2026",
+          "link": "https://canaltech.com.br/games/jogos-muito-aguardados-que-saem-ainda-em-2026/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T17:33:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "4 formas de assinar o Prime Video mais barato",
+          "link": "https://canaltech.com.br/entretenimento/como-assinar-o-prime-video-mais-barato/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T17:04:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "5 carros econômicos e bons de estrada a partir de R$ 45 mil",
+          "link": "https://canaltech.com.br/carros/5carroseconomicosebonsdeestradaapartirder45mil/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T16:05:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "7 hábitos que \"viciam a bateria\" do robô aspirador",
+          "link": "https://canaltech.com.br/eletro/7-habitos-que-viciam-a-bateria-do-robo-aspirador/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T15:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "GPT-5.6 e Claude Fable 5: todas as melhores IAs precisarão de aprovação dos EUA?",
+          "link": "https://canaltech.com.br/inteligencia-artificial/todas-as-melhores-ias-precisarao-de-aprovacao-dos-eua/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T14:38:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Truque simples de DNS ativa bloqueio de malware grátis no Windows; veja como",
+          "link": "https://canaltech.com.br/seguranca/truque-simples-de-dns-ativa-bloqueio-de-malware-gratis-no-windows-veja-como/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T14:11:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "8 filmes dos anos 1990 que são perfeitos do início ao fim",
+          "link": "https://canaltech.com.br/entretenimento/filmes-anos-1990-perfeitos-do-inicio-ao-fim/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T13:33:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Quantos Hz precisa ter um monitor ideal para jogar?",
+          "link": "https://canaltech.com.br/hardware/quantos-hz-precisa-ter-um-monitor-ideal-para-jogar/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T12:31:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "BYD reina em lista de híbridos e elétricos mais vendidos do 1° semestre no Brasil",
+          "link": "https://canaltech.com.br/carros/bydreinaemlistadehibridoseeletricosmaisvendidosdo1semestrenobrasil/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T12:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Do edital ao simulado: 20 prompts do ChatGPT para estudar para concursos",
+          "link": "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-estudar-para-concursos-publicos/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T11:39:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Qual tipo de máquina de lavar gasta menos? Tampa frontal vs. tampa superior",
+          "link": "https://canaltech.com.br/eletro/qual-tipo-de-maquina-de-lavar-gasta-menos-tampa-frontal-x-tampa-superior/",
+          "source": "Canaltech",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T11:00:00",
+          "day_of_week": "Sat"
+        },
+        {
           "title": "O que é Necromancia Digital e por que prática divide tanto opiniões",
           "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-necromancia-digital-e-porque-pratica-divide-tanto-opinioes/",
           "source": "Canaltech",
           "date": "2026-07-25",
           "date_label": "Sáb 25/07",
           "datetime": "2026-07-25T10:32:00",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Via Láctea já passou por enorme colisão com “galáxia salsicha”",
-          "link": "https://olhardigital.com.br/2026/07/25/ciencia-e-espaco/via-lactea-ja-passou-por-enorme-colisao-com-galaxia-salsicha/",
-          "source": "Olhar Digital",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T09:00:00",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "O jeito certo de pedir feedback para a IA pode transformar seus textos, e-mails e apresentações",
-          "link": "https://exame.com/inteligencia-artificial/o-jeito-certo-de-pedir-feedback-para-a-ia-pode-transformar-seus-textos-e-mails-e-apresentacoes/",
-          "source": "exame.com",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T07:05:29",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "As APIs de IA movem milhares de aplicativos todos os dias; veja como elas funcionam",
-          "link": "https://exame.com/inteligencia-artificial/as-apis-de-ia-movem-milhares-de-aplicativos-todos-os-dias-veja-como-elas-funcionam/",
-          "source": "exame.com",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T06:03:45",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Existe um botão invisível que deixa a IA mais criativa; conheça a 'temperatura’",
-          "link": "https://exame.com/inteligencia-artificial/existe-um-botao-invisivel-que-deixa-a-ia-mais-criativa-conheca-a-temperatura/",
-          "source": "exame.com",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T05:09:00",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Por que ChatGPT, Claude e outras IAs são obcecadas com o Japão?",
-          "link": "https://exame.com/inteligencia-artificial/por-que-chatgpt-claude-e-outras-ias-sao-obcecadas-com-o-japao/",
-          "source": "exame.com",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T05:01:48",
           "day_of_week": "Sat"
         },
         {
@@ -156,276 +444,6 @@
           "date_label": "Sex 24/07",
           "datetime": "2026-07-24T21:12:00",
           "day_of_week": "Fri"
-        },
-        {
-          "title": "Galaxy Tab S10 FE Plus 5G fica mais barato para Dia dos Pais no Magalu",
-          "link": "https://tecnoblog.net/achados/galaxy-tab-s10-fe-plus-5g-fica-mais-barato-para-dia-dos-pais-no-magalu/",
-          "source": "Tecnoblog",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T21:10:11",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Dia dos Pais 2026: Motorola Razr 70 Ultra tem cupom generoso no Mercado Livre",
-          "link": "https://tecnoblog.net/achados/dia-dos-pais-2026-motorola-razr-70-ultra-tem-cupom-generoso-no-mercado-livre/",
-          "source": "Tecnoblog",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T20:40:31",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "SUV usado da Renault fica \"no precinho\" e vira ótima opção em julho",
-          "link": "https://canaltech.com.br/carros/suv-usado-da-renault-fica-no-precinho-e-vira-otima-opcao-em-julho/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T20:17:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Roku aumenta preços e culpa crise de chips de memória",
-          "link": "https://tecnoblog.net/noticias/roku-aumenta-precos-e-culpa-crise-de-chips-de-memoria/",
-          "source": "Tecnoblog",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T20:06:43",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "O que lembrar antes de assistir O Diabo Veste Prada 2 no Disney+",
-          "link": "https://canaltech.com.br/entretenimento/o-que-lembrar-antes-de-assistir-o-diabo-veste-prada-2-no-disney/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T20:05:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Facebook ganha novo selo de verificação gratuito; saiba como funciona",
-          "link": "https://canaltech.com.br/apps/facebook-ganha-novo-selo-de-verificacao-gratuito-saiba-como-funciona/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T20:03:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Curtume catarinense bate recorde em selo ambiental e amplia presença global",
-          "link": "https://exame.com/negocios/curtume-catarinense-bate-recorde-em-selo-ambiental-e-amplia-presenca-global/",
-          "source": "exame.com",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:58:54",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "China reduz casos criminais em 16,5% e atinge menor número de homicídios da história",
-          "link": "https://exame.com/mundo/china-reduz-casos-criminais-em-165-e-atinge-menor-numero-de-homicidios-da-historia/",
-          "source": "exame.com",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:54:14",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "VNL feminina 2026: quem o Brasil pode enfrentar na final se vencer a Itália?",
-          "link": "https://exame.com/esporte/vnl-feminina-2026-quem-o-brasil-pode-enfrentar-na-final-se-vencer-a-italia/",
-          "source": "exame.com",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:53:08",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Empresa chinesa inaugura fábrica de transformadores em Minas Gerais e deve gerar 300 empregos",
-          "link": "https://exame.com/negocios/empresa-chinesa-inaugura-fabrica-de-transformadores-em-minas-gerais-e-deve-gerar-300-empregos/",
-          "source": "exame.com",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:51:37",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Claude Opus 5 é lançado com foco no desempenho e controle de custos",
-          "link": "https://tecnoblog.net/noticias/claude-opus-5-e-lancado-com-foco-no-desempenho-e-controle-de-custos/",
-          "source": "Tecnoblog",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:39:47",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Mario Peixoto: audiovisual está desafiador, mas oportunidades são muitas",
-          "link": "https://www.meioemensagem.com.br/comunicacao/mario-peixoto-audiovisual-esta-desafiador-mas-oportunidades-sao-muitas",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:36:22",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Justiça prorroga suspensão do acordo entre Warner e Paramount",
-          "link": "https://www.meioemensagem.com.br/midia/justica-prorroga-suspensao-do-acordo-entre-warner-e-paramount",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:21:45",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Metal Gear Solid, Bleach e mais jogos grátis deste fim de semana",
-          "link": "https://canaltech.com.br/games/metal-gear-solid-bleach-e-mais-jogos-gratis-para-o-fim-de-semana/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:19:25",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Phablet está de volta? Marca prepara celular com tela de 7 polegadas",
-          "link": "https://canaltech.com.br/smartphone/phablet-esta-de-volta-marca-prepara-celular-com-tela-de-7-polegadas/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:17:28",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Brasilseg anuncia Patrícia Chaim para liderar marketing",
-          "link": "https://www.meioemensagem.com.br/gente/acontece-no-meio/brasilseg-anuncia-patricia-chaim-para-liderar-marketing",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:04:03",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Intel dispara na Bolsa com maior salto nas vendas em quase 15 anos",
-          "link": "https://canaltech.com.br/mercado/intel-dispara-na-bolsa-com-maior-salto-nas-vendas-em-quase-15-anos/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:00:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "iPhone 16 Plus tem queda brusca de preço para Dia dos Pais 2026",
-          "link": "https://tecnoblog.net/achados/iphone-16-plus-tem-queda-brusca-de-preco-para-dia-dos-pais-2026/",
-          "source": "Tecnoblog",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T18:53:28",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Velocidade máxima: XBOX lança recurso para acelerar downloads no PC e console",
-          "link": "https://canaltech.com.br/games/velocidade-maxima-xbox-lanca-recurso-para-acelerar-downloads-no-pc-e-console/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T18:50:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Em crise, Oi tenta vender fios de cobre para se manter viva",
-          "link": "https://canaltech.com.br/telecom/em-crise-oi-tenta-vender-fios-de-cobre-para-se-manter-viva/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T18:37:05",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Deputados dos EUA querem mecanismo para desligar IAs de alto risco",
-          "link": "https://tecnoblog.net/noticias/deputados-dos-eua-querem-mecanismo-para-desligar-ias-de-alto-risco/",
-          "source": "Tecnoblog",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T18:16:13",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Samsung vai quebrar barreira dos 5.000 mAh pela 1ª vez no Galaxy S27, diz leaker",
-          "link": "https://canaltech.com.br/smartphone/samsung-vai-quebrar-barreira-dos-5-000-m-ah-pela-1-vez-no-galaxy-s27-diz-leaker/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T18:15:23",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Microsoft pressiona e faz LG remover anúncios de McAfee em monitores",
-          "link": "https://canaltech.com.br/hardware/microsoft-pressiona-e-faz-lg-remover-anuncios-de-mc-afee-em-monitores/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T18:11:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Adeus ao trânsito? Carros voadores da Embraer avançam com novo acordo",
-          "link": "https://canaltech.com.br/carros/adeus-ao-transito-carros-voadores-da-embraer-avancam-com-novo-acordo/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T18:05:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Truss Professional apresenta diretor criativo",
-          "link": "https://www.meioemensagem.com.br/gente/truss-professional-apresenta-diretor-criativo",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T17:49:03",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Celular top da Xiaomi com 2ª tela na traseira ganha versão global",
-          "link": "https://canaltech.com.br/smartphone/celular-top-da-xiaomi-com-2-tela-na-traseira-ganha-versao-global/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T17:43:33",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Marca famosa entra na onda do \"mini Kindle de bolso\"; veja o que esperar",
-          "link": "https://canaltech.com.br/e-reader/marca-famosa-entra-na-onda-do-mini-kindle-de-bolso-veja-o-que-esperar/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T17:23:02",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Galaxy S27 pode apelar para câmera da Sony para enfrentar iPhone, diz site",
-          "link": "https://canaltech.com.br/smartphone/galaxy-s27-pode-apelar-para-camera-da-sony-para-enfrentar-i-phone-diz-site/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T17:22:50",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Pizzaria das Tartarugas Ninja: data e detalhes do projeto",
-          "link": "https://www.meioemensagem.com.br/midia/pizzaria-das-tartarugas-ninja-data-e-detalhes-do-projeto",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T17:14:13",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Não jogue fora! Como transformar seu celular velho da gaveta em uma câmera de segurança grátis",
-          "link": "https://canaltech.com.br/smartphone/nao-jogue-fora-como-transformar-seu-celular-velho-da-gaveta-em-uma-camera-de-seguranca-gratis/",
-          "source": "Canaltech",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T17:11:27",
-          "day_of_week": "Fri"
         }
       ]
     },
@@ -435,67 +453,31 @@
       "color": "teal",
       "items": [
         {
-          "title": "Vasco x Mirassol: que horas e onde assistir ao jogo do Brasileirão hoje",
-          "link": "https://exame.com/esporte/vasco-x-mirassol-que-horas-e-onde-assistir-ao-jogo-do-brasileirao-hoje/",
+          "title": "As 5 competências que vão manter o profissional relevante na era da IA, segundo o líder do LinkedIn",
+          "link": "https://exame.com/carreira/as-5-competencias-que-vao-manter-o-profissional-relevante-na-era-da-ia-segundo-o-lider-do-linkedin/",
           "source": "exame.com",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T07:12:46",
-          "day_of_week": "Sat"
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T08:01:04",
+          "day_of_week": "Sun"
         },
         {
-          "title": "Como construir uma Central de Operações de Segurança madura",
-          "link": "https://exame.com/bussola/como-construir-uma-central-de-operacoes-de-seguranca-madura/",
+          "title": "Como um escudo de plasma pode proteger a Terra de tempestades solares",
+          "link": "https://exame.com/ciencia/como-um-escudo-de-plasma-pode-proteger-a-terra-de-tempestades-solares/",
           "source": "exame.com",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T07:00:14",
-          "day_of_week": "Sat"
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T07:27:20",
+          "day_of_week": "Sun"
         },
         {
-          "title": "Jogos de hoje: horário e onde assistir aos duelos deste sábado, 25",
-          "link": "https://exame.com/esporte/jogos-de-hoje-horario-e-onde-assistir-aos-duelos-deste-sabado-25/",
+          "title": "Palmeiras x Atlético-MG: onde assistir e horário do jogo do Brasileirão hoje",
+          "link": "https://exame.com/esporte/palmeiras-x-atletico-mg-onde-assistir-e-horario-do-jogo-do-brasileirao-hoje/",
           "source": "exame.com",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T06:00:27",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Athletico-PR x Internacional: que horas e onde assistir ao jogo do Brasileirão hoje",
-          "link": "https://exame.com/esporte/athletico-pr-x-internacional-que-horas-e-onde-assistir-ao-jogo-do-brasileirao-hoje/",
-          "source": "exame.com",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T05:12:40",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "Existe um botão invisível que deixa a IA mais criativa; conheça a 'temperatura’",
-          "link": "https://exame.com/inteligencia-artificial/existe-um-botao-invisivel-que-deixa-a-ia-mais-criativa-conheca-a-temperatura/",
-          "source": "exame.com",
-          "date": "2026-07-25",
-          "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T05:09:00",
-          "day_of_week": "Sat"
-        },
-        {
-          "title": "VNL feminina 2026: quem o Brasil pode enfrentar na final se vencer a Itália?",
-          "link": "https://exame.com/esporte/vnl-feminina-2026-quem-o-brasil-pode-enfrentar-na-final-se-vencer-a-italia/",
-          "source": "exame.com",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:53:08",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Brasileirão neste fim de semana: veja jogos, horários e onde assistir à 20ª rodada",
-          "link": "https://exame.com/esporte/brasileirao-neste-fim-de-semana-veja-jogos-horarios-e-onde-assistir-a-20a-rodada/",
-          "source": "exame.com",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:42:03",
-          "day_of_week": "Fri"
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T06:07:36",
+          "day_of_week": "Sun"
         },
         {
           "title": "Mario Peixoto: audiovisual está desafiador, mas oportunidades são muitas",
@@ -793,6 +775,24 @@
       "color": "blue",
       "items": [
         {
+          "title": "Marcas de luxo não poderão mais destruir produtos não vendidos na UE e 'exclusividade' fica ameaçada",
+          "link": "https://g1.globo.com/empreendedorismo/noticia/2026/07/26/marcas-de-luxo-nao-poderao-mais-destruir-produtos-nao-vendidos-na-ue-e-exclusividade-fica-ameacada.ghtml",
+          "source": "g1 > Economia",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T06:00:29",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "ENS promove Oficina de Negócios do Corretor de Seguros em São Paulo",
+          "link": "https://cqcs.com.br/galeria/ens-promove-oficina-de-negocios-do-corretor-de-seguros-em-sao-paulo/",
+          "source": "CQCS",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T21:17:17",
+          "day_of_week": "Sat"
+        },
+        {
           "title": "Por que cada vez mais jovens dizem não a cargos de liderança",
           "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/25/por-que-cada-vez-mais-jovens-dizem-nao-a-cargos-de-lideranca.ghtml",
           "source": "g1 > Economia",
@@ -935,15 +935,6 @@
           "date_label": "Sex 24/07",
           "datetime": "2026-07-24T11:39:01",
           "day_of_week": "Fri"
-        },
-        {
-          "title": "Dono de porsche de mais de R$ 700 mil que teve perda total após bater em poste diz que seguro cobriu valor",
-          "link": "https://cqcs.com.br/noticia/dono-de-porsche-de-mais-de-r-700-mil-que-teve-perda-total-apos-bater-em-poste-diz-que-seguro-cobriu-valor/",
-          "source": "CQCS",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T11:30:07",
-          "day_of_week": "Fri"
         }
       ]
     },
@@ -959,12 +950,48 @@
       "color": "amber",
       "items": [
         {
-          "title": "Fundo compra US$ 1,3 bi em empréstimos ligados ao aluguel congelado de Mamdani",
-          "link": "https://exame.com/mercado-imobiliario/fundo-compra-us-13-bi-em-emprestimos-ligados-ao-aluguel-congelado-de-mamdani/",
-          "source": "exame.com",
+          "title": "Pavilhão Gabonsa / Hochschule Kaiserslautern University of Applied Sciences",
+          "link": "https://www.archdaily.com.br/pt/1181475/pavilhao-gabonsa-hochschule-kaiserslautern-university-of-applied-sciences",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T06:00:00",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Casa O / YES! Architects",
+          "link": "https://www.archdaily.com.br/pt/1181638/casa-o-yes-architects",
+          "source": "Type:  | ArchDaily em Português",
           "date": "2026-07-25",
           "date_label": "Sáb 25/07",
-          "datetime": "2026-07-25T07:00:12",
+          "datetime": "2026-07-25T16:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Restaurante Casa Baruk / Memola Estúdio",
+          "link": "https://www.archdaily.com.br/pt/1181358/restaurante-casa-baruk-memola-estudio",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T15:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Sanduteca – Biblioteca de Sanduíches / Estúdio Cajalima",
+          "link": "https://www.archdaily.com.br/pt/1148949/sanduteca-biblioteca-de-sanduiches-estudio-cajalima",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T13:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Reforma Integral LVL / Ábaton",
+          "link": "https://www.archdaily.com.br/pt/1148890/reforma-integral-lvl-abaton",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T11:00:00",
           "day_of_week": "Sat"
         },
         {
@@ -1011,24 +1038,6 @@
           "date_label": "Sex 24/07",
           "datetime": "2026-07-24T07:30:00",
           "day_of_week": "Fri"
-        },
-        {
-          "title": "Prédio de Produção e Escritórios Dubrovčan / MVA Mikelić Vreš Arhitekti",
-          "link": "https://www.archdaily.com.br/pt/1181376/predio-de-producao-e-escritorios-dubrovcan-mva-mikelic-vres-arhitekti",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T07:00:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Casa Tramuntana / OHLAB",
-          "link": "https://www.archdaily.com.br/pt/1148893/casa-tramuntana-ohlab",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T03:00:00",
-          "day_of_week": "Fri"
         }
       ]
     },
@@ -1037,6 +1046,24 @@
       "tab": "clientes",
       "color": "gray",
       "items": [
+        {
+          "title": "Casa O / YES! Architects",
+          "link": "https://www.archdaily.com.br/pt/1181638/casa-o-yes-architects",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T16:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Restaurante Casa Baruk / Memola Estúdio",
+          "link": "https://www.archdaily.com.br/pt/1181358/restaurante-casa-baruk-memola-estudio",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-07-25",
+          "date_label": "Sáb 25/07",
+          "datetime": "2026-07-25T15:00:00",
+          "day_of_week": "Sat"
+        },
         {
           "title": "Pavilhão das Portas de Correr / Piertzovanis Toews",
           "link": "https://www.archdaily.com.br/pt/1181465/pavilhao-das-portas-de-correr-piertzovanis-toews",
@@ -1047,30 +1074,12 @@
           "day_of_week": "Sat"
         },
         {
-          "title": "Curtume catarinense bate recorde em selo ambiental e amplia presença global",
-          "link": "https://exame.com/negocios/curtume-catarinense-bate-recorde-em-selo-ambiental-e-amplia-presenca-global/",
-          "source": "exame.com",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T19:58:54",
-          "day_of_week": "Fri"
-        },
-        {
           "title": "València Design Fest",
           "link": "https://www.archdaily.com.br/pt/1181586/valencia-design-fest",
           "source": "Type:  | ArchDaily em Português",
           "date": "2026-07-24",
           "date_label": "Sex 24/07",
           "datetime": "2026-07-24T09:05:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Apartamento em Uehara / ULTRA STUDIO",
-          "link": "https://www.archdaily.com.br/pt/1181449/apartamento-em-uehara-ultra-studio",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-07-24",
-          "date_label": "Sex 24/07",
-          "datetime": "2026-07-24T02:00:00",
           "day_of_week": "Fri"
         }
       ]
@@ -1079,7 +1088,26 @@
       "label": "TPM — Umbanda",
       "tab": "clientes",
       "color": "coral",
-      "items": []
+      "items": [
+        {
+          "title": "Coco de roda: entenda tradição que resiste em aldeias, quilombos e periferias da Paraíba",
+          "link": "https://g1.globo.com/pb/paraiba/noticia/2026/07/26/coco-de-roda-entenda-tradicao-que-resiste-em-aldeias-quilombos-e-periferias-da-paraiba.ghtml",
+          "source": "g1",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T11:03:44",
+          "day_of_week": "Sun"
+        },
+        {
+          "title": "Nanã, a avó da humanidade: casas de umbanda celebram ancestralidade na Floresta Nacional de Ipanema",
+          "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/26/nana-a-avo-da-humanidade-casas-de-umbanda-celebram-ancestralidade-na-floresta-nacional-de-ipanema.ghtml",
+          "source": "g1",
+          "date": "2026-07-26",
+          "date_label": "Dom 26/07",
+          "datetime": "2026-07-26T11:00:31",
+          "day_of_week": "Sun"
+        }
+      ]
     }
   }
 }
