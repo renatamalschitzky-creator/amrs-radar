@@ -1,5 +1,5 @@
 {
-  "generated_at": "26/08/2026 às 10:21",
+  "generated_at": "27/08/2026 às 20:01",
   "sections": {
     "amrs_social": {
       "label": "Social Media & Plataformas",
@@ -7,58 +7,40 @@
       "color": "orange",
       "items": [
         {
-          "title": "Instagram revela novo logo que celebra a &quot;voz pessoal&quot; (e fecha comentários poucas horas depois)",
-          "link": "https://www.b9.com.br/instagram-novo-logo/",
-          "source": "B9",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T10:21:53.736511",
-          "day_of_week": "Wed"
-        },
-        {
           "title": "O cliente tem a marca que ele merece",
           "link": "https://www.b9.com.br/o-cliente-tem-a-marca-que-ele-merece/",
           "source": "B9",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T10:21:53.736450",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T20:01:54.558968",
+          "day_of_week": "Thu"
         },
         {
           "title": "Austrália vai taxar big tech que não negociar com jornais",
           "link": "https://www.b9.com.br/australia-taxa-big-tech-noticias-jornalismo/",
           "source": "B9",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T20:01:54.558863",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Neon apresenta seu novo chief marketing officer",
+          "link": "https://www.meioemensagem.com.br/gente/acontece-no-meio/neon-apresenta-seu-novo-chief-marketing-officer",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T12:33:17",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Meta faz acordo bilionário em processo sobre vício nos EUA",
+          "link": "https://www.meioemensagem.com.br/midia/meta-faz-acordo-bilionario-em-processo-sobre-vicio-nos-eua",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
           "date": "2026-08-26",
           "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T10:21:53.736351",
+          "datetime": "2026-08-26T22:43:12",
           "day_of_week": "Wed"
-        },
-        {
-          "title": "Instituto ligado a Harvard e MIT avalia opções de tratamento para Lito Sousa: 'Vamos tentar ajudar'",
-          "link": "https://exame.com/ciencia/instituto-ligado-a-harvard-e-mit-avalia-opcoes-de-tratamento-para-lito-sousa-vamos-tentar-ajudar/",
-          "source": "exame.com",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:46:39",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Webedia fortalece áreas de social e gaming",
-          "link": "https://www.meioemensagem.com.br/gente/acontece-no-meio/webedia-fortalece-areas-de-social-e-gaming",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T18:35:41",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "ANPD multa TikTok em R$ 153,7 milhões por violar regras",
-          "link": "https://www.meioemensagem.com.br/midia/anpd-multa-tiktok-em-r-1537-milhoes-por-violar-regras",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T12:45:54",
-          "day_of_week": "Tue"
         }
       ]
     },
@@ -68,364 +50,364 @@
       "color": "purple",
       "items": [
         {
-          "title": "Galaxy S27 Ultra vai ter bateria gigante, mas com uma pegadinha",
-          "link": "https://canaltech.com.br/smartphone/galaxy-s27-ultra-vai-ter-bateria-gigante-mas-com-uma-pegadinha/",
+          "title": "Abap cria Comitê para debater IA na publicidade",
+          "link": "https://www.meioemensagem.com.br/comunicacao/abap-cria-comite-para-debater-ia-na-publicidade",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T20:01:40",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Alibaba abre 2 data centers no Brasil para desafiar Microsoft, Google e AWS em IA",
+          "link": "https://canaltech.com.br/mercado/alibaba-abre-2-data-centers-no-brasil-para-desafiar-microsoft-google-e-aws-em-ia/",
           "source": "Canaltech",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T10:11:31",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T20:00:00",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Quanto ganha um Uber trabalhando 4 horas por dia em 2026?",
-          "link": "https://canaltech.com.br/carros/quanto-ganha-um-uber-trabalhando-4-horas-por-dia-em-2026/",
+          "title": "Street Fighter busca redenção nos cinemas sem medo de ser ridículo, diz diretor",
+          "link": "https://canaltech.com.br/entretenimento/street-fighter-busca-redencao-nos-cinemas-sem-medo-de-ser-ridiculo-diz-diretor/",
           "source": "Canaltech",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:56:00",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:55:01",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Quais redes de fast-food apostaram nas collabs em 2026?",
-          "link": "https://www.meioemensagem.com.br/marketing/quais-redes-de-fast-food-apostaram-nas-collabs-em-2026",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:02:39",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Como os jovens encaram o trabalho no Brasil?",
-          "link": "https://www.meioemensagem.com.br/comunicacao/como-os-jovens-encaram-o-trabalho-no-brasil",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:01:35",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Forever Liss mira dobrar faturamento com rebranding",
-          "link": "https://www.meioemensagem.com.br/marketing/forever-liss-mira-dobrar-faturamento-com-rebranding",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:01:22",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "NotreDame Saúde escolhe Pedro Bial para falar sobre cuidado",
-          "link": "https://www.meioemensagem.com.br/comunicacao/notredame-saude-escolhe-pedro-bial-para-falar-sobre-cuidado",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:00:50",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "A Ideia | Marcos Quintela: “Minha vida profissional é embedada nas características humanas”",
-          "link": "https://www.meioemensagem.com.br/sem-categoria/a-ideia-marcos-quintela-minha-vida-profissional-e-embedada-nas-caracteristicas-humanas",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:00:16",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "A propaganda é uma obra aberta",
-          "link": "https://www.meioemensagem.com.br/opiniao/a-propaganda-e-uma-obra-aberta",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:00:04",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Como a terceira geração desta família fará gigante dos queijos de Minas passar dos R$ 2 bilhões",
-          "link": "https://exame.com/negocios/o-plano-da-terceira-geracao-de-uma-gigante-dos-queijos-de-minas-para-passar-dos-r-2-bilhoes/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T07:01:11",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Tudo o que um líder precisa saber sobre letramento em IA para não ficar ultrapassado",
-          "link": "https://exame.com/inteligencia-artificial/tudo-o-que-um-lider-precisa-saber-sobre-letramento-em-ia-para-nao-ficar-ultrapassado/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:05:42",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Muro de Trump ameaça pinturas rupestres de até 5 mil anos na fronteira dos EUA",
-          "link": "https://exame.com/mundo/muro-de-trump-ameaca-pinturas-rupestres-de-ate-5-mil-anos-na-fronteira-dos-eua/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:00:48",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "EXAME Negócios em Expansão 2026 reúne 491 empresas e anuncia vencedoras nesta quarta-feira",
-          "link": "https://exame.com/negocios/exame-negocios-em-expansao-2026-reune-491-empresas-e-anuncia-vencedoras-nesta-quarta-feira/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:00:39",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Sem Redata, data centers buscam alternativas tributárias no Brasil, aponta PwC",
-          "link": "https://exame.com/inteligencia-artificial/sem-redata-data-centers-buscam-alternativas-tributarias-no-brasil-aponta-pwc/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:00:22",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "De comércio a defesa: como a China ampliou sua influência no Uruguai",
-          "link": "https://exame.com/mundo/uruguai-pode-ser-porta-de-entrada-para-a-china-na-america-do-sul/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:00:13",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Startup Summit começa em Florianópolis com previsão de 10 mil visitantes e impacto de R$ 36,3 mi",
-          "link": "https://exame.com/negocios/startup-summit-comeca-em-florianopolis-com-previsao-de-10-mil-visitantes-e-impacto-de-r-363-mi/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:00:07",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Disney amplia o 'Disney+ Benefícios' após alto impacto em retenção e engajamento em sua 1ª fase",
-          "link": "https://exame.com/pop/disney-amplia-disney-beneficios-apos-alto-impacto-em-retencao-e-engajamento-em-sua-1a-fase/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:00:06",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Este é o guia definitivo para criar um assistente próprio no Copilot do zero",
-          "link": "https://exame.com/inteligencia-artificial/este-e-o-guia-definitivo-para-criar-um-assistente-proprio-no-copilot-do-zero/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T05:03:25",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "TIM leva 120 antenas e 5G turbinado ao Rock in Rio para aguentar 130 mil pessoas por dia",
-          "link": "https://exame.com/invest/mercados/tim-leva-120-antenas-e-5g-turbinado-ao-rock-in-rio-para-aguentar-130-mil-pessoas-por-dia/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T05:00:34",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Nvidia divulga balanço hoje e receita pode quase dobrar: veja as previsões do mercado",
-          "link": "https://exame.com/invest/mercados/nvidia-divulga-balanco-hoje-e-receita-pode-quase-dobrar-veja-as-previsoes-do-mercado/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T05:00:20",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Elon Musk quer tirar a IA da Terra — entenda por quê",
-          "link": "https://olhardigital.com.br/2026/08/25/colunistas/elon-musk-quer-tirar-a-ia-da-terra-entenda-por-que/",
+          "title": "GTA 6 revela gameplay: assaltos planejados, mundo aberto e romance entre Jason e Lucia",
+          "link": "https://olhardigital.com.br/2026/08/27/games-e-consoles/gta-6-revela-gameplay-na-netflix/",
           "source": "Olhar Digital",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T01:55:36",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:37:18",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Confira o Olhar Digital News na íntegra (25/08/2026)",
-          "link": "https://olhardigital.com.br/2026/08/25/videos/confira-o-olhar-digital-news-na-integra-25-08-2026/",
-          "source": "Olhar Digital",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T01:53:01",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "OpenAI perde mais um executivo",
-          "link": "https://olhardigital.com.br/2026/08/25/pro/openai-perde-mais-um-executivo/",
-          "source": "Olhar Digital",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T01:08:25",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Marte tem céu vermelho e pôr do sol azul; entenda o motivo",
-          "link": "https://olhardigital.com.br/2026/08/25/ciencia-e-espaco/marte-tem-ceu-vermelho-e-por-do-sol-azul-entenda-o-motivo/",
-          "source": "Olhar Digital",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T00:16:00",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Akira, anime clássico dos anos 1980, está de volta aos cinemas",
-          "link": "https://canaltech.com.br/entretenimento/akira-anime-classico-dos-anos-1980-esta-de-volta-aos-cinemas/",
-          "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T23:09:00",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Jack Black quase viveu o Lanterna Verde em filme com luta contra Pikachu",
-          "link": "https://canaltech.com.br/entretenimento/jack-black-quase-viveu-o-lanterna-verde-em-filme-com-luta-contra-pikachu/",
-          "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T22:01:00",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Dolly Parton morreu após uma 'breve batalha contra o câncer', diz equipe da cantora",
-          "link": "https://exame.com/pop/dolly-parton-morreu-apos-uma-breve-batalha-contra-o-cancer-diz-equipe-da-cantora/",
-          "source": "exame.com",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:49:25",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Jovi quer roubar mercado de Samsung e Apple: novo fone tem ANC e 55h de bateria",
-          "link": "https://canaltech.com.br/fone-de-ouvido/jovi-quer-roubar-mercado-de-samsung-e-apple-novo-fone-tem-anc-e-55h-de-bateria/",
-          "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:46:20",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Como Jungle se uniu à Apple para gravar 11 clipes em 4 dias?",
-          "link": "https://www.meioemensagem.com.br/comunicacao/como-jungle-se-uniu-a-apple-para-gravar-11-clipes-em-4-dias",
+          "title": "Grupo Oxford apresenta head de marketing",
+          "link": "https://www.meioemensagem.com.br/gente/acontece-no-meio/grupo-oxford-apresenta-head-de-marketing",
           "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:22:40",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:37:06",
+          "day_of_week": "Thu"
         },
         {
-          "title": "STF confirma que devedor contumaz não pode pedir recuperação judicial; entenda a regra",
-          "link": "https://exame.com/brasil/stf-confirma-que-devedor-contumaz-nao-pode-pedir-recuperacao-judicial-entenda-a-regra/",
-          "source": "exame.com",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:15:53",
-          "day_of_week": "Tue"
+          "title": "Eduardo Guedes é o novo VP de vendas e marketing da Yduqs",
+          "link": "https://www.meioemensagem.com.br/gente/eduardo-guedes-e-o-novo-vp-de-vendas-e-marketing-da-yduqs",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:31:52",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Google prepara grande atualização para acabar com a bagunça do Gemini no celular",
-          "link": "https://canaltech.com.br/inteligencia-artificial/google-prepara-grande-atualizacao-para-acabar-com-a-bagunca-do-gemini-no-celular/",
+          "title": "Big techs se unem em apelo por cibersegurança diante da IA",
+          "link": "https://www.meioemensagem.com.br/midia/big-techs-se-unem-em-apelo-por-ciberseguranca-diante-da-ia",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:30:18",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Netflix não aguenta evento de GTA 6 e desmaia ao vivo nesta quinta-feira (27)",
+          "link": "https://canaltech.com.br/apps/netflix-nao-aguenta-evento-de-gta-6-e-desmaia-ao-vivo-nesta-quinta-feira-27/",
           "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:09:00",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:06:19",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Xiaomi lança Redmi 17C com bateria grande e preço no chão; veja ficha técnica",
-          "link": "https://canaltech.com.br/smartphone/xiaomi-lanca-redmi-17c-com-bateria-grande-e-preco-no-chao-veja-ficha-tecnica/",
+          "title": "Ligações falsas usam voz de IA para destravar iPhones roubados no Brasil",
+          "link": "https://canaltech.com.br/seguranca/ligacoes-falsas-usam-voz-de-ia-para-destravar-iphones-roubados-no-brasil/",
           "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:07:49",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:53:16",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Participação da Intel no mercado de CPUs cai para pior nível desde 1995",
-          "link": "https://canaltech.com.br/hardware/participacao-da-intel-no-mercado-de-cpus-cai-para-pior-nivel-desde-1995/",
+          "title": "Abajur da Xiaomi que mais parece um poste de luz sai por R$ 920",
+          "link": "https://canaltech.com.br/produtos/abajur-da-xiaomi-que-mais-parece-um-poste-de-luz-sai-por-r-920/",
           "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:05:00",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:44:54",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Kanye West: estádio nega ter assinado contrato para shows do cantor na Rússia",
-          "link": "https://exame.com/pop/kanye-west-estadio-nega-ter-assinado-contrato-para-shows-do-cantor-na-russia/",
-          "source": "exame.com",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:02:54",
-          "day_of_week": "Tue"
+          "title": "Hora de imprimir com mais inteligência: veja impressoras em promoção na Amazon",
+          "link": "https://olhardigital.com.br/2026/08/27/reviews/hora-de-imprimir-com-mais-inteligencia-veja-impressoras-em-promocao-na-amazon/",
+          "source": "Olhar Digital",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:40:00",
+          "day_of_week": "Thu"
         },
         {
-          "title": "TIM e COR-Rio usarão 5G para mapear fluxo do público no Rock in Rio",
-          "link": "https://canaltech.com.br/telecom/tim-e-cor-rio-usarao-5g-para-mapear-fluxo-do-publico-no-rock-in-rio/",
+          "title": "Artistas do Rock in Rio gravam avisos para o MetrôRio",
+          "link": "https://www.meioemensagem.com.br/comunicacao/artistas-do-rock-in-rio-gravam-avisos-para-o-metrorio",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:32:01",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Xbox revela qual deverá ser o plano para os próximos consoles",
+          "link": "https://canaltech.com.br/games/xbox-revela-qual-devera-ser-o-plano-para-os-proximos-consoles/",
           "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:55:39",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:15:00",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Google lança Gemini jurídico para reduzir erros e alucinações",
-          "link": "https://tecnoblog.net/noticias/google-lanca-gemini-juridico-para-reduzir-erros-e-alucinacoes/",
+          "title": "Petrobras renova patrocínio master ao Mimo Festival",
+          "link": "https://www.meioemensagem.com.br/marketing/petrobras-renova-patrocinio-master-ao-mimo-festival",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:08:03",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Muito além de deepfakes: o impacto da IA nas eleições e os planos dos EUA",
+          "link": "https://olhardigital.com.br/2026/08/27/pro/muito-alem-de-deepfakes-o-impacto-da-ia-nas-eleicoes-e-os-planos-dos-eua/",
+          "source": "Olhar Digital",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:07:30",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "O lugar natural mais frio do Universo não é o espaço vazio. Saiba onde é",
+          "link": "https://olhardigital.com.br/2026/08/27/ciencia-e-espaco/o-lugar-natural-mais-frio-do-universo-nao-e-o-espaco-vazio-saiba-onde-e/",
+          "source": "Olhar Digital",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:02:02",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Da TV paga ao celular: Sky vai virar operadora com cobertura nacional",
+          "link": "https://canaltech.com.br/telecom/da-tv-paga-ao-celular-sky-vai-virar-operadora-com-cobertura-nacional/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:59:29",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "IA montou e coordenou equipes sozinha em ataque hacker ao Hugging Face",
+          "link": "https://canaltech.com.br/inteligencia-artificial/ia-montou-e-coordenou-equipes-sozinha-em-ataque-hacker-ao-hugging-face/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:57:19",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Galaxy S26 FE x S25 FE: o que mudou e qual vale mais a pena?",
+          "link": "https://canaltech.com.br/smartphone/galaxy-s26-fe-x-s25-fe-o-que-mudou-e-qual-vale-mais-a-pena/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:38:31",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Interesse pelo futebol feminino dispara no digital",
+          "link": "https://www.meioemensagem.com.br/womentowatch/interesse-pelo-futebol-feminino-dispara-no-digital",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:34:58",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Executivos lançam consultoria Synapser",
+          "link": "https://www.meioemensagem.com.br/gente/executivos-lancam-consultoria-synapser",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:34:47",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "O que faz uma marca ser escolhida pelos consumidores?",
+          "link": "https://www.meioemensagem.com.br/marketing/o-que-faz-uma-marca-ser-escolhida-pelos-consumidores",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:28:05",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "A vitrine do e-commerce agora também precisa convencer a inteligência artificial",
+          "link": "https://canaltech.com.br/inteligencia-artificial/a-vitrine-do-e-commerce-agora-tambem-precisa-convencer-a-inteligencia-artificial/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:27:20",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Queima do Magalu tem Galaxy A57 com smartwatch quase de graça",
+          "link": "https://canaltech.com.br/smartphone/queima-do-magalu-tem-galaxy-a57-com-smartwatch-quase-de-graca/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:19:22",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Honda Prelude é lançado no Festival Interlagos 2026; veja o preço",
+          "link": "https://canaltech.com.br/carros/honda-prelude-e-lancado-no-festival-interlagos-2026-veja-o-preco/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:17:27",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Agosto Lilás já é tão importante quanto o Outubro Rosa",
+          "link": "https://www.meioemensagem.com.br/opiniao/agosto-lilas-ja-e-tao-importante-quanto-o-outubro-rosa",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:16:51",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Amazon derruba preço de GTA 6 para PS5 na pré-venda com cupom",
+          "link": "https://canaltech.com.br/games/amazon-derruba-preco-de-gta-6-para-ps5-na-pre-venda-com-cupom/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:11:32",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Novos benefícios do Disney+ dão desconto no McDonald's, Renner e mais; veja como usar",
+          "link": "https://canaltech.com.br/entretenimento/novos-beneficios-do-disney-dao-desconto-no-mcdonalds-renner-e-mais-veja-como-usar/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:02:00",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Starlink homologa antena menor e mais leve para uso no Brasil",
+          "link": "https://tecnoblog.net/noticias/starlink-homologa-antena-menor-e-mais-leve-para-uso-no-brasil/",
           "source": "Tecnoblog",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:53:24",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:00:03",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Instituto ligado a Harvard e MIT avalia opções de tratamento para Lito Sousa: 'Vamos tentar ajudar'",
-          "link": "https://exame.com/ciencia/instituto-ligado-a-harvard-e-mit-avalia-opcoes-de-tratamento-para-lito-sousa-vamos-tentar-ajudar/",
+          "title": "Marvel lança podcast para preparar fãs para 'Vingadores: Doutor Destino'",
+          "link": "https://exame.com/pop/marvel-lanca-podcast-para-preparar-fas-para-vingadores-doutor-destino/",
           "source": "exame.com",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:46:39",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:53:30",
+          "day_of_week": "Thu"
         },
         {
-          "title": "The Witcher 3: Remastered chega em breve e de graça para quem já tem o original",
-          "link": "https://canaltech.com.br/games/the-witcher-3-remastered-chega-em-breve-e-de-graca-para-quem-ja-tem-o-original/",
-          "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:40:53",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "10 anúncios mais importantes da gamescom 2026",
-          "link": "https://canaltech.com.br/games/10-anuncios-mais-importantes-da-gamescom-2026/",
-          "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:37:12",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Como usar o Telegram: cadastro, grupos, canais e acesso pelo computador",
-          "link": "https://canaltech.com.br/apps/como-usar-o-telegram-cadastro-grupos-canais-e-acesso-pelo-computador/",
-          "source": "Canaltech",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:29:28",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Rio Grande do Norte vai abrigar supercomputador brasileiro de inteligência artificial",
-          "link": "https://exame.com/esferabrasil/rio-grande-do-norte-vai-abrigar-supercomputador-brasileiro-de-inteligencia-artificial/",
+          "title": "Fãs enfrentam instabilidade para assistir à live de GTA 6 na Netflix",
+          "link": "https://exame.com/pop/fas-enfrentam-instabilidade-para-assistir-a-live-de-gta-6-na-netflix/",
           "source": "exame.com",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:29:20",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:53:27",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Como é ser entrevistado por uma inteligência artificial antes mesmo de falar com um humano",
+          "link": "https://exame.com/carreira/como-e-ser-entrevistado-por-uma-inteligencia-artificial-antes-mesmo-de-falar-com-um-humano/",
+          "source": "exame.com",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:50:10",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Fim da bagunça: Curitiba vai enterrar fios de energia e telecom por R$ 1,2 bilhão",
+          "link": "https://canaltech.com.br/telecom/fim-da-bagunca-curitiba-vai-enterrar-fios-de-energia-e-telecom-por-r-12-bilhao/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:38:42",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Nvidia fecha acordo para comprar Hugging Face por US$ 12,9 bilhões, diz site",
+          "link": "https://tecnoblog.net/noticias/nvidia-fecha-acordo-para-comprar-hugging-face-por-us-129-bilhoes-diz-site/",
+          "source": "Tecnoblog",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:31:22",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Samsung apresenta monitor gamer Odyssey de 1.100 Hz",
+          "link": "https://tecnoblog.net/noticias/samsung-apresenta-monitor-gamer-odyssey-de-1-100-hz/",
+          "source": "Tecnoblog",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:29:11",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Real Madrid também na Fórmula 1? Veja como a parceria está sendo desenhada",
+          "link": "https://exame.com/esporte/real-madrid-tambem-na-formula-1-veja-como-a-parceria-esta-sendo-desenhada/",
+          "source": "exame.com",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:28:57",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Sabia que é possível resolver problemas da conta Gov.br presencialmente? Veja como",
+          "link": "https://canaltech.com.br/apps/sabia-que-e-possivel-resolver-problemas-da-conta-govbr-presencialmente-veja-como/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:20:00",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Preço no chão: Mouse sem fio Redragon por apenas R$ 93 na KaBuM!",
+          "link": "https://canaltech.com.br/games/preco-no-chao-mouse-sem-fio-redragon-por-apenas-r-93-na-kabum/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:17:40",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Samsung lança notebooks Galaxy Book6 no Brasil; veja preços e especificações",
+          "link": "https://canaltech.com.br/notebook/samsung-lanca-notebooks-galaxy-book6-no-brasil-veja-precos-e-especificacoes/",
+          "source": "Canaltech",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:17:00",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Lojas esvaziadas e conta bloqueada: os detalhes da crise de R$ 265 milhões do Habib's",
+          "link": "https://exame.com/negocios/lojas-esvaziadas-e-conta-bloqueada-os-detalhes-da-crise-de-r-265-milhoes-do-habibs/",
+          "source": "exame.com",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:16:35",
+          "day_of_week": "Thu"
         }
       ]
     },
@@ -435,319 +417,292 @@
       "color": "teal",
       "items": [
         {
-          "title": "Quais redes de fast-food apostaram nas collabs em 2026?",
-          "link": "https://www.meioemensagem.com.br/marketing/quais-redes-de-fast-food-apostaram-nas-collabs-em-2026",
+          "title": "Abap cria Comitê para debater IA na publicidade",
+          "link": "https://www.meioemensagem.com.br/comunicacao/abap-cria-comite-para-debater-ia-na-publicidade",
           "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:02:39",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T20:01:40",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Como os jovens encaram o trabalho no Brasil?",
-          "link": "https://www.meioemensagem.com.br/comunicacao/como-os-jovens-encaram-o-trabalho-no-brasil",
+          "title": "Grupo Oxford apresenta head de marketing",
+          "link": "https://www.meioemensagem.com.br/gente/acontece-no-meio/grupo-oxford-apresenta-head-de-marketing",
           "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:01:35",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:37:06",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Forever Liss mira dobrar faturamento com rebranding",
-          "link": "https://www.meioemensagem.com.br/marketing/forever-liss-mira-dobrar-faturamento-com-rebranding",
+          "title": "Eduardo Guedes é o novo VP de vendas e marketing da Yduqs",
+          "link": "https://www.meioemensagem.com.br/gente/eduardo-guedes-e-o-novo-vp-de-vendas-e-marketing-da-yduqs",
           "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:01:22",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:31:52",
+          "day_of_week": "Thu"
         },
         {
-          "title": "NotreDame Saúde escolhe Pedro Bial para falar sobre cuidado",
-          "link": "https://www.meioemensagem.com.br/comunicacao/notredame-saude-escolhe-pedro-bial-para-falar-sobre-cuidado",
+          "title": "Big techs se unem em apelo por cibersegurança diante da IA",
+          "link": "https://www.meioemensagem.com.br/midia/big-techs-se-unem-em-apelo-por-ciberseguranca-diante-da-ia",
           "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:00:50",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:30:18",
+          "day_of_week": "Thu"
         },
         {
-          "title": "A Ideia | Marcos Quintela: “Minha vida profissional é embedada nas características humanas”",
-          "link": "https://www.meioemensagem.com.br/sem-categoria/a-ideia-marcos-quintela-minha-vida-profissional-e-embedada-nas-caracteristicas-humanas",
+          "title": "Artistas do Rock in Rio gravam avisos para o MetrôRio",
+          "link": "https://www.meioemensagem.com.br/comunicacao/artistas-do-rock-in-rio-gravam-avisos-para-o-metrorio",
           "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:00:16",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:32:01",
+          "day_of_week": "Thu"
         },
         {
-          "title": "A propaganda é uma obra aberta",
-          "link": "https://www.meioemensagem.com.br/opiniao/a-propaganda-e-uma-obra-aberta",
+          "title": "Petrobras renova patrocínio master ao Mimo Festival",
+          "link": "https://www.meioemensagem.com.br/marketing/petrobras-renova-patrocinio-master-ao-mimo-festival",
           "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T09:00:04",
-          "day_of_week": "Wed"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T18:08:03",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Tudo o que um líder precisa saber sobre letramento em IA para não ficar ultrapassado",
-          "link": "https://exame.com/inteligencia-artificial/tudo-o-que-um-lider-precisa-saber-sobre-letramento-em-ia-para-nao-ficar-ultrapassado/",
+          "title": "Interesse pelo futebol feminino dispara no digital",
+          "link": "https://www.meioemensagem.com.br/womentowatch/interesse-pelo-futebol-feminino-dispara-no-digital",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:34:58",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Executivos lançam consultoria Synapser",
+          "link": "https://www.meioemensagem.com.br/gente/executivos-lancam-consultoria-synapser",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:34:47",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "O que faz uma marca ser escolhida pelos consumidores?",
+          "link": "https://www.meioemensagem.com.br/marketing/o-que-faz-uma-marca-ser-escolhida-pelos-consumidores",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:28:05",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Agosto Lilás já é tão importante quanto o Outubro Rosa",
+          "link": "https://www.meioemensagem.com.br/opiniao/agosto-lilas-ja-e-tao-importante-quanto-o-outubro-rosa",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T17:16:51",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Jusbrasil compra MinutaIA em segunda aquisição de IA e mira faturamento de R$ 1 bilhão",
+          "link": "https://exame.com/inteligencia-artificial/jusbrasil-compra-minutaia-em-segunda-aquisicao-de-ia-e-mira-faturamento-de-r-1-bilhao/",
           "source": "exame.com",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:14:58",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Para Gucci, Kate Moss faz lip-sync de Wicked Game",
+          "link": "https://www.meioemensagem.com.br/comunicacao/para-gucci-kate-moss-faz-lip-sync-de-wicked-game",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T15:56:45",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "CNN Brasil reforça as áreas de inteligência e comercial",
+          "link": "https://www.meioemensagem.com.br/gente/cnn-brasil-reforca-as-areas-de-inteligencia-e-comercial",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T15:46:47",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Na Saint Paul, método famoso entre executivos agora começa no primeiro semestre de faculdade",
+          "link": "https://exame.com/carreira/na-saint-paul-metodo-famoso-entre-executivos-agora-comeca-no-primeiro-semestre-de-faculdade/",
+          "source": "exame.com",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T15:41:08",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Samsung fala sobre cultura sul-coreana na América Latina",
+          "link": "https://www.meioemensagem.com.br/comunicacao/samsung-cria-serie-sobre-cultura-coreana-na-america-latina",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T15:40:19",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Tate McRae veste Calvin Klein ao som da banda Deee-lite",
+          "link": "https://www.meioemensagem.com.br/comunicacao/tate-mcrae-veste-calvin-klein-ao-som-de-groove-is-in-the-heart",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T15:22:40",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Vinícius Melo assume presidência nacional da AnaMid",
+          "link": "https://www.meioemensagem.com.br/gente/vinicius-melo-assume-presidencia-nacional-da-anamid",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T14:52:27",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "O Globo transforma acervo do Rock in Rio em jogo interativo",
+          "link": "https://www.meioemensagem.com.br/midia/o-globo-transforma-acervo-do-rock-in-rio-em-jogo-interativo",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T14:44:12",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Portal chega ao mercado para cobrir negócios da saúde",
+          "link": "https://www.meioemensagem.com.br/midia/portal-chega-ao-mercado-para-cobrir-negocios-da-saude",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T14:31:46",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Morre Yayoi Kusama aos 97 anos: relembre parcerias com marcas",
+          "link": "https://www.meioemensagem.com.br/marketing/morre-yayoi-kusama-aos-97-anos-relembre-parcerias-com-marcas",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T14:07:17",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Em quem confiar quando todo mundo fala de dinheiro?",
+          "link": "https://www.meioemensagem.com.br/opiniao/em-quem-confiar-quando-todo-mundo-fala-de-dinheiro",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T13:32:38",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Governo pede R$ 500 milhões ao Discord por danos morais",
+          "link": "https://www.meioemensagem.com.br/midia/governo-pede-r-500-mil-ao-discord-por-danos-morais",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T13:30:56",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Neon apresenta seu novo chief marketing officer",
+          "link": "https://www.meioemensagem.com.br/gente/acontece-no-meio/neon-apresenta-seu-novo-chief-marketing-officer",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T12:33:17",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "A periferia como força propulsora do mercado editorial",
+          "link": "https://www.meioemensagem.com.br/womentowatch/a-periferia-como-forca-propulsora-do-mercado-editorial",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T12:10:27",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Por que o setor eletro é mais afetado pela crise no varejo?",
+          "link": "https://www.meioemensagem.com.br/marketing/por-que-o-setor-eletro-e-mais-afetado-pela-crise-no-varejo",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T09:10:11",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "O que impede as agências de serem pagas por resultados?",
+          "link": "https://www.meioemensagem.com.br/comunicacao/o-que-impede-as-agencias-de-serem-pagas-por-resultados",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T09:07:19",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Kolene e Camilla de Lucas ampliam parceria de dez anos",
+          "link": "https://www.meioemensagem.com.br/marketing/kolene-e-camilla-de-lucas-ampliam-parceria-de-dez-anos",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T09:04:20",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Beatriz Perotti é nova gerente de conteúdo do Steal The Look",
+          "link": "https://www.meioemensagem.com.br/gente/beatriz-perotti-e-a-nova-gerente-de-conteudo-do-steal-the-look",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T09:03:50",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Por que farmácias apostam cada vez mais no setor de beleza?",
+          "link": "https://www.meioemensagem.com.br/marketing/por-que-farmacias-apostam-cada-vez-mais-no-setor-de-beleza",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T09:02:27",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Meta faz acordo bilionário em processo sobre vício nos EUA",
+          "link": "https://www.meioemensagem.com.br/midia/meta-faz-acordo-bilionario-em-processo-sobre-vicio-nos-eua",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
           "date": "2026-08-26",
           "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:05:42",
+          "datetime": "2026-08-26T22:43:12",
           "day_of_week": "Wed"
         },
         {
-          "title": "EXAME Negócios em Expansão 2026 reúne 491 empresas e anuncia vencedoras nesta quarta-feira",
-          "link": "https://exame.com/negocios/exame-negocios-em-expansao-2026-reune-491-empresas-e-anuncia-vencedoras-nesta-quarta-feira/",
-          "source": "exame.com",
+          "title": "Globo renova contrato e exclusividade com Rio Open até 2031",
+          "link": "https://www.meioemensagem.com.br/midia/globo-renova-contrato-e-exclusividade-com-rio-open-ate-2031",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
           "date": "2026-08-26",
           "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:00:39",
+          "datetime": "2026-08-26T22:11:10",
           "day_of_week": "Wed"
         },
         {
-          "title": "Startup Summit começa em Florianópolis com previsão de 10 mil visitantes e impacto de R$ 36,3 mi",
-          "link": "https://exame.com/negocios/startup-summit-comeca-em-florianopolis-com-previsao-de-10-mil-visitantes-e-impacto-de-r-363-mi/",
-          "source": "exame.com",
+          "title": "SBT anuncia Black Friday Live Show 2026 com Celso Portiolli",
+          "link": "https://www.meioemensagem.com.br/midia/sbt-lanca-game-show-ao-vivo-para-a-black-friday-2026",
+          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
           "date": "2026-08-26",
           "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T06:00:07",
+          "datetime": "2026-08-26T21:45:18",
           "day_of_week": "Wed"
-        },
-        {
-          "title": "Palmeiras x Santos: veja números históricos do confronto de hoje da Copa do Brasil",
-          "link": "https://exame.com/esporte/palmeiras-x-santos-veja-numeros-historicos-do-confronto-de-hoje-da-copa-do-brasil/",
-          "source": "exame.com",
-          "date": "2026-08-26",
-          "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T05:56:12",
-          "day_of_week": "Wed"
-        },
-        {
-          "title": "Como Jungle se uniu à Apple para gravar 11 clipes em 4 dias?",
-          "link": "https://www.meioemensagem.com.br/comunicacao/como-jungle-se-uniu-a-apple-para-gravar-11-clipes-em-4-dias",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:22:40",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "STF confirma que devedor contumaz não pode pedir recuperação judicial; entenda a regra",
-          "link": "https://exame.com/brasil/stf-confirma-que-devedor-contumaz-nao-pode-pedir-recuperacao-judicial-entenda-a-regra/",
-          "source": "exame.com",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T21:15:53",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Purpple amplia área de negócios com novas executivas",
-          "link": "https://www.meioemensagem.com.br/gente/purpple-amplia-area-de-negocios-com-novas-executivas",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:16:08",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "81% dos gamers brasileiros consomem streaming e TV",
-          "link": "https://www.meioemensagem.com.br/midia/81-dos-gamers-brasileiros-consomem-streaming-e-tv",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T19:31:41",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Se a IA responde, qual será o futuro do anúncio?",
-          "link": "https://www.meioemensagem.com.br/proxxima/se-a-ia-responde-qual-sera-o-futuro-do-anuncio",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T19:12:38",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "FTD Educação é a nova controladora da Estuda.com",
-          "link": "https://www.meioemensagem.com.br/marketing/ftd-educacao-e-a-nova-controladora-da-estuda-com",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T19:10:37",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Webedia fortalece áreas de social e gaming",
-          "link": "https://www.meioemensagem.com.br/gente/acontece-no-meio/webedia-fortalece-areas-de-social-e-gaming",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T18:35:41",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Hug e Coisa de Mãe criam frente de empregabilidade materna",
-          "link": "https://www.meioemensagem.com.br/womentowatch/hug-e-coisa-de-mae-criam-frente-de-empregabilidade-materna",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T18:30:16",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "PiaR Group anuncia executivos e novas frentes de negócio",
-          "link": "https://www.meioemensagem.com.br/gente/piar-group-anuncia-executivos-e-novas-frentes-de-negocio",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T18:11:53",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Renata Cho retorna à Wildlife Studios para assumir diretoria",
-          "link": "https://www.meioemensagem.com.br/gente/renata-cho-retorna-a-wildlife-studios-para-assumir-diretoria",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T18:01:14",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "SBT entra na luta contra o feminicídio no Brasil",
-          "link": "https://www.meioemensagem.com.br/midia/sbt-entra-na-luta-contra-o-feminicidio-no-brasil",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T17:49:02",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Setor financeiro é destaque em crescimento, segundo o Kantar BrandZ",
-          "link": "https://www.meioemensagem.com.br/marketing/setor-financeiro-e-destaque-em-crescimento-segundo-o-kantar-brandz",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T17:34:49",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Não basta competir, é preciso saber crescer",
-          "link": "https://www.meioemensagem.com.br/opiniao/nao-basta-competir-e-preciso-saber-crescer",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T17:07:08",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Hot Beach Parques & Resorts apresenta CEO",
-          "link": "https://www.meioemensagem.com.br/gente/acontece-no-meio/hot-beach-parques-resorts-apresenta-ceo",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T17:04:54",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Betano renova patrocínio ao Paulistão Feminino",
-          "link": "https://www.meioemensagem.com.br/marketing/betano-renova-patrocinio-ao-paulistao-feminino",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T16:00:19",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Target é acusada de racismo nos EUA e pede desculpas",
-          "link": "https://www.meioemensagem.com.br/marketing/target-e-acusada-de-racismo-nos-eua-e-pede-desculpas",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T15:34:58",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Um terço das marcas está fora da consciência dos consumidores",
-          "link": "https://www.meioemensagem.com.br/marketing/um-terco-das-marcas-esta-fora-da-consciencia-do-consumidor",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T15:19:50",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Belvo promove Rodrigo Franciscani ao cargo de VP de revenue",
-          "link": "https://www.meioemensagem.com.br/gente/belvo-promove-rodrigo-franciscani-ao-cargo-de-vp-de-revenue",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T14:48:02",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Volkswagen leva Gustavo Lima a Barretos e anuncia parceria",
-          "link": "https://www.meioemensagem.com.br/marketing/volkswagen-leva-gustavo-lima-a-barretos-e-anuncia-parceria",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T14:03:31",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Leo Macias assume posto global e Lola muda comando criativo",
-          "link": "https://www.meioemensagem.com.br/gente/leo-macias-assume-posto-global-e-lola-muda-comando-criativo",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T13:59:58",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Folha abre processo contra a Perplexity AI",
-          "link": "https://www.meioemensagem.com.br/midia/folha-abre-processo-contra-perplexity-ai",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T13:41:16",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Midst Group chega ao mercado sob liderança de Rodrigo Figueiredo",
-          "link": "https://www.meioemensagem.com.br/gente/midst-group-chega-ao-mercado-sob-lideranca-de-rodrigo-figueiredo",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T13:30:01",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Ex-Flamengo, Dirceu Junior assume gestão do Sport Insider",
-          "link": "https://www.meioemensagem.com.br/gente/ex-flamengo-dirceu-junior-assume-gestao-do-sport-insider",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T12:50:29",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "ANPD multa TikTok em R$ 153,7 milhões por violar regras",
-          "link": "https://www.meioemensagem.com.br/midia/anpd-multa-tiktok-em-r-1537-milhoes-por-violar-regras",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T12:45:54",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Empresas inovadoras precisam incluir pessoas com deficiência",
-          "link": "https://www.meioemensagem.com.br/womentowatch/empresas-inovadoras-precisam-incluir-pessoas-com-deficiencia",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:44:01",
-          "day_of_week": "Tue"
         }
       ]
     },
@@ -757,220 +712,202 @@
       "color": "blue",
       "items": [
         {
-          "title": "Governo reduz em R$ 5 bilhões previsão de gastos da Previdência para 2027",
-          "link": "https://g1.globo.com/economia/noticia/2026/08/25/governo-reduz-em-r-5-bilhoes-previsao-de-gastos-da-previdencia-para-2027.ghtml",
+          "title": "Do Habib's às Casas Bahia, por que tantas empresas estão quebrando no Brasil?",
+          "link": "https://g1.globo.com/economia/noticia/2026/08/27/do-habib-s-as-casas-bahia-por-que-tantas-empresas-estao-quebrando-no-brasil.ghtml",
           "source": "g1 > Economia",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T20:58:22",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T19:32:15",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Seguro de vida ganha espaço no planejamento financeiro e reforça proteção da família",
-          "link": "https://cqcs.com.br/noticia/seguro-de-vida-ganha-espaco-no-planejamento-financeiro-e-reforca-protecao-da-familia/",
+          "title": "Abertura do 24º Congresso Brasileiro dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/abertura-do-24o-congresso-brasileiro-dos-corretores-de-seguros/",
           "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T18:06:14",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T14:57:53",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Mercado de veículos elétricos muda a lógica do seguro automóvel e exige nova abordagem na gestão de riscos",
-          "link": "https://cqcs.com.br/noticia/mercado-de-veiculos-eletricos-muda-a-logica-do-seguro-automovel-e-exige-nova-abordagem-na-gestao-de-riscos/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T17:42:08",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Conhecimento do setor de seguros é diferencial para desenvolver soluções tecnológicas, diz CEO da Olik",
-          "link": "https://cqcs.com.br/noticia/conhecimento-setor-de-seguros-e-diferencial-para-desenvolver-solucoes-tecnologicas-diz-ceo-da-olik/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T15:51:47",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Seguro mais barato: preços caem 9% na América Latina no segundo trimestre",
-          "link": "https://cqcs.com.br/noticia/seguro-mais-barato-precos-caem-9-na-america-latina-no-segundo-trimestre/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T15:22:03",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Porto debate o futuro da distribuição de seguros no Congresso Brasileiro dos Corretores de Seguros",
-          "link": "https://cqcs.com.br/noticia/porto-debate-ofuturo-da-distribuicao-de-seguros-no-congresso-brasileiro-dos-corretores-de-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T15:14:13",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Cancelamento de show de Bad Bunny destaca importância do seguro para grandes eventos",
-          "link": "https://cqcs.com.br/noticia/cancelamento-de-show-de-bad-bunny-destaca-importancia-do-seguro-para-grandes-eventos/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T14:59:01",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "AECOR-RJ participa de simpósio “Cenários Jurídicos no Mercado de Seguros”",
-          "link": "https://cqcs.com.br/noticia/aecor-rj-participa-de-simposio-cenarios-juridicos-no-mercado-de-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T13:09:27",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Como corretoras e assessorias podem ganhar escala com o Cotador da CNP Seguradora",
-          "link": "https://cqcs.com.br/noticia/como-corretoras-e-assessorias-podem-ganhar-escala-com-o-cotador-da-cnp-seguradora/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T12:50:51",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Seguro E&O inova e amplia proteção para dentistas e passa a contemplar Cirurgia Estética Orofacial",
-          "link": "https://cqcs.com.br/noticia/seguro-eo-inova-e-ampliaprotecao-para-dentistas-e-passa-a-contemplar-cirurgia-estetica-orofacial/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T12:47:16",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Seguros Unimed apresenta experiências interativas e novidades no 24º Congresso Brasileiro dos Corretores de Seguros",
-          "link": "https://cqcs.com.br/noticia/seguros-unimed-apresenta-experiencias-interativas-e-novidades-no-24o-congresso-brasileiro-dos-corretores-de-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T12:26:30",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "CSP-MG debate potencial do Seguro de Vida em Grupo durante simpósio",
-          "link": "https://cqcs.com.br/noticia/csp-mg-debate-potencial-do-seguro-de-vida-em-grupo-durante-simposio/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:40:44",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Abertas inscrições para “Salas de Negócios” do 24º Congresso Brasileiro dos Corretores de Seguros",
-          "link": "https://cqcs.com.br/noticia/abertas-inscricoes-para-salas-de-negocios-do-24o-congresso-brasileiro-dos-corretores-de-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:36:03",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "26º Prêmio Gaivota de Ouro reconhece destaques do mercado de seguros",
-          "link": "https://cqcs.com.br/noticia/26o-premio-gaivota-de-ouro-reconhece-destaques-do-mercado-de-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:33:30",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Projeto que torna facultativo seguro para transportador recebe emenda",
-          "link": "https://cqcs.com.br/noticia/projeto-que-torna-facultativo-seguro-para-transportador-recebe-emenda/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:28:11",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Morte no trânsito em 2026: quais os direitos da família sem seguro?",
-          "link": "https://cqcs.com.br/noticia/morte-no-transito-em-2026-quais-os-direitos-da-familia-sem-seguro/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:26:52",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Seguradora é autorizada pela Susep a operar em quase todo o País",
-          "link": "https://cqcs.com.br/noticia/seguradora-e-autorizada-pela-susep-a-operar-em-quase-todo-o-pais/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:24:59",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Projeto na Câmara quer tornar obrigatório veículo reserva para terceiro",
-          "link": "https://cqcs.com.br/noticia/projeto-na-camara-quer-tornar-obrigatorio-veiculo-reserva-para-terceiro/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:22:55",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Seguradoras pagam em seis meses R$ 126,7 bilhões em indenizações, benefícios, resgates e sorteios",
-          "link": "https://cqcs.com.br/noticia/seguradoras-pagam-em-seis-meses-r-1267-bilhoes-em-indenizacoes-beneficios-resgates-e-sorteios/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:22:01",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Estudo para revisão de normas no Open Insurance tem novo prazo",
-          "link": "https://cqcs.com.br/noticia/estudo-para-revisao-de-normas-no-open-insurance-tem-novo-prazo/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:21:50",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Seguro de vida impulsiona crescimento do mercado segurador em 2026",
-          "link": "https://cqcs.com.br/noticia/seguro-de-vida-impulsiona-crescimento-do-mercado-segurador-em-2026/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:19:26",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Distrito e CQCS Inovação 2026 firmam parceria para impulsionar Prêmio CQCS de Inovação em Seguros",
-          "link": "https://cqcs.com.br/noticia/distrito-e-cqcs-inovacao-2026-firmam-parceria-para-impulsionar-premio-cqcs-de-inovacao-em-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T11:17:51",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "INSS inicia pagamento de benefícios de agosto; veja calendário",
-          "link": "https://g1.globo.com/economia/noticia/2026/08/25/inss-inicia-pagamento-de-beneficios-de-agosto-veja-calendario.ghtml",
+          "title": "Honda Prelude volta ao Brasil após 25 anos por R$ 380 mil; Senna já foi garoto-propaganda do esportivo",
+          "link": "https://g1.globo.com/carros/noticia/2026/08/27/honda-lanca-no-brasil-prelude-por-r-380-mil-ayrton-senna-ja-foi-garoto-propaganda-do-esportivo.ghtml",
           "source": "g1 > Economia",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T03:01:01",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T14:32:40",
+          "day_of_week": "Thu"
         },
         {
-          "title": "MetLife na Febraban Tech 2026: tecnologia, dados e o futuro do mercado de seguros",
-          "link": "https://cqcs.com.br/tv/canal-cqcs-in-loco/metlife-na-febraban-tech-2026-tecnologia-dados-e-o-futuro-do-mercado-de-seguros/",
+          "title": "Vitória lidera ranking de cidades mais competitivas do país pela primeira vez; veja municípios do top 10",
+          "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/08/27/vitoria-lidera-ranking-de-cidades-mais-competitivas-do-pais-pela-primeira-vez-veja-municipios-do-top-10.ghtml",
+          "source": "g1 > Economia",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T14:19:43",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Experiência do corretor ganha espaço na arquitetura das seguradoras",
+          "link": "https://cqcs.com.br/noticia/experiencia-do-corretor-ganha-espaco-na-arquitetura-das-seguradoras/",
           "source": "CQCS",
-          "date": "2026-08-24",
-          "date_label": "Seg 24/08",
-          "datetime": "2026-08-24T22:49:31",
-          "day_of_week": "Mon"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T11:50:16",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "III Legal Infra Summit: Sompo destaca papel do Seguro Garantia para ampliar a viabilidade de projetos de infraestrutura no país",
+          "link": "https://cqcs.com.br/noticia/iii-legal-infra-summit-sompo-destaca-papel-do-seguro-garantia-para-ampliar-a-viabilidade-de-projetos-de-infraestrutura-no-pais/",
+          "source": "CQCS",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T11:40:25",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Seguros de pessoas crescem 10% e indenizações chegam a R$ 8,9 bilhões",
+          "link": "https://cqcs.com.br/noticia/seguros-de-pessoas-crescem-10-e-indenizacoes-chegam-a-r-89-bilhoes/",
+          "source": "CQCS",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T11:34:08",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Roubo de cargas pressiona seguro de transporte no Rio e exige atuação mais estratégica de empresas e corretores",
+          "link": "https://cqcs.com.br/noticia/roubo-de-cargas-pressiona-seguro-de-transporte-no-rio-e-exige-atuacao-mais-estrategica-de-empresas-e-corretores/",
+          "source": "CQCS",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T11:25:31",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "CQCS Inovação 2026 apresenta Estádio Tech com programação exclusiva sobre tecnologia e seguros",
+          "link": "https://cqcs.com.br/noticia/cqcs-inovacao-2026-apresenta-estadio-tech-com-programacao-exclusiva-sobre-tecnologia-e-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T11:23:57",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Lula determina que diretor-geral da PF procure André Mendonça para reduzir tensão",
+          "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/27/lula-articula-reuniao-entre-andre-mendonca-e-diretor-geral-da-pf-para-reduzir-tensao.ghtml",
+          "source": "g1 > Economia",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T11:20:50",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "É hoje! 24º Congresso Brasileiro dos Corretores começa nesta quinta (27) com debates sobre o futuro da distribuição de seguros",
+          "link": "https://cqcs.com.br/noticia/hoje-24o-congresso-brasileiro-dos-corretores-comeca-nesta-quinta-27-com-debates-sobre-o-futuro-da-distribuicao-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T10:18:06",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Legal Infra Summit: Sompo destaca papel do seguro garantia no crescimentoda infraestrutura brasileira",
+          "link": "https://cqcs.com.br/tv/canal-cqcs-in-loco/legal-infra-summit-sompo-destaca-papel-do-seguro-garantia-no-crescimentoda-infraestrutura-brasileira/",
+          "source": "CQCS",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T01:59:33",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Chinesa DFM chega ao Brasil em outubro com hatch e SUV elétricos para rivalizar com BYD e GWM",
+          "link": "https://g1.globo.com/carros/noticia/2026/08/26/chinesa-dfm-chega-ao-brasil-com-hatch-e-suv-eletricos-para-rivalizar-com-byd-e-gwm.ghtml",
+          "source": "g1 > Economia",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T23:01:15",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Paulo Ricardo destaca relação com corretores ao assumir distribuição da Zurich",
+          "link": "https://cqcs.com.br/noticia/paulo-ricardo-destaca-relacao-com-corretores-ao-assumir-distribuicao-da-zurich/",
+          "source": "CQCS",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T22:51:00",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Cotações de veículos elétricos crescem 130% e refletem avanço da mobilidade no Grupo HDI",
+          "link": "https://cqcs.com.br/noticia/cotacoes-de-veiculos-eletricos-crescem-130-e-refletem-avanco-da-mobilidade-no-grupo-hdi/",
+          "source": "CQCS",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T22:44:01",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "allseg seguradora cria espaço focado em escuta e novos negócios para Corretores no 24º Congresso",
+          "link": "https://cqcs.com.br/noticia/allseg-seguradora-cria-espaco-focado-em-escuta-e-novos-negocios-para-corretores-no-24o-congresso/",
+          "source": "CQCS",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T22:38:38",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Mapfre impulsiona expansão do seguro residencial com foco em flexibilidade, soluções integradas e assistência pet",
+          "link": "https://cqcs.com.br/noticia/mapfre-impulsiona-expansao-do-seguro-residencial-com-foco-em-flexibilidade-solucoes-integradas-e-assistencia-pet/",
+          "source": "CQCS",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T22:34:47",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Pottencial Seguradora lança primeiro seguro desenvolvido exclusivamente para drones agrícolas",
+          "link": "https://cqcs.com.br/noticia/pottencial-seguradora-lanca-primeiro-seguro-desenvolvido-exclusivamente-para-drones-agricolas/",
+          "source": "CQCS",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T22:29:12",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Troféu Viva a Bahia mantém votação aberta para profissionais e empresas do setor de seguros",
+          "link": "https://cqcs.com.br/noticia/trofeu-viva-a-bahia-mantem-votacao-aberta-para-profissionais-e-empresas-do-setor-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T22:22:59",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Café CVG-SP discutirá evolução e tendências do seguro de vida individual",
+          "link": "https://cqcs.com.br/noticia/cafe-cvg-sp-discutira-evolucao-e-tendencias-do-seguro-de-vida-individual/",
+          "source": "CQCS",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T22:15:51",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Allianz leva debate sobre nova era da distribuição de seguros ao Congresso Brasileiro dos Corretores",
+          "link": "https://cqcs.com.br/noticia/allianz-leva-debate-sobre-nova-era-da-distribuicaode-seguros-ao-congresso-brasileiro-dos-corretores/",
+          "source": "CQCS",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T22:08:20",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Hero Seguros amplia proposta de valor e lança novidade para seguro viagem",
+          "link": "https://cqcs.com.br/noticia/hero-seguros-amplia-proposta-de-valor-e-lanca-novidade-para-seguro-viagem/",
+          "source": "CQCS",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T21:54:53",
+          "day_of_week": "Wed"
         }
       ]
     },
@@ -986,112 +923,67 @@
       "color": "amber",
       "items": [
         {
-          "title": "Uma Arquitetura da Atenção: Por dentro do Syn Architects",
-          "link": "https://www.archdaily.com.br/pt/1183955/uma-arquitetura-da-atencao-por-dentro-do-syn-architects",
+          "title": "Pinterest lança alerta em horário escolar para ajudar adolescentes a reduzirem tempo de tela",
+          "link": "https://exame.com/tecnologia/pinterest-lanca-alerta-em-horario-escolar-para-ajudar-adolescentes-a-reduzirem-tempo-de-tela/",
+          "source": "exame.com",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T16:20:30",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "A abertura do Powerhouse Parramatta e um novo aplicativo de código aberto para relatórios geolocalizados: O resumo da semana",
+          "link": "https://www.archdaily.com.br/pt/1184044/a-abertura-do-powerhouse-parramatta-e-um-novo-aplicativo-de-codigo-aberto-para-relatorios-geolocalizados-o-resumo-da-semana",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T05:30:00",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Casa El Trebol / Engelman Estudio",
+          "link": "https://www.archdaily.com.br/pt/1184016/casa-el-trebol-engelman-estudio",
           "source": "Type:  | ArchDaily em Português",
           "date": "2026-08-26",
           "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T04:00:00",
+          "datetime": "2026-08-26T15:00:00",
           "day_of_week": "Wed"
         },
         {
-          "title": "Edifícios de Infraestrutura Ultrapequenos / NODE Architecture & Urbanism",
-          "link": "https://www.archdaily.com.br/pt/1183922/edificios-de-infraestrutura-ultrapequenos-node-architecture-and-urbanism",
+          "title": "SEED 2026",
+          "link": "https://www.archdaily.com.br/pt/1184035/seed-2026",
           "source": "Type:  | ArchDaily em Português",
           "date": "2026-08-26",
           "date_label": "Qua 26/08",
-          "datetime": "2026-08-26T00:00:00",
+          "datetime": "2026-08-26T13:05:00",
           "day_of_week": "Wed"
         },
         {
-          "title": "Casa da Mata / Lucas Gonçalves Arquitetura",
-          "link": "https://www.archdaily.com.br/pt/1183642/casa-da-mata-lucas-goncalves-arquitetura",
+          "title": "Carpintaria: Tectônicas Perdidas da Ásia Oriental",
+          "link": "https://www.archdaily.com.br/pt/1184027/carpintaria-tectonicas-perdidas-da-asia-oriental",
           "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T17:00:00",
-          "day_of_week": "Tue"
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T09:10:00",
+          "day_of_week": "Wed"
         },
         {
-          "title": "Centro Esquina Nativa / TACO taller de arquitectura contextual",
-          "link": "https://www.archdaily.com.br/pt/1183841/centro-esquina-nativa-taco-taller-de-arquitectura-contextual",
+          "title": "Chamada de Trabalhos II: Projeto de Pesquisa Experimental no Monitor P, Casa dell’Architettura de Roma",
+          "link": "https://www.archdaily.com.br/pt/1184025/chamada-de-trabalhos-ii-projeto-de-pesquisa-experimental-no-monitor-p-casa-dellarchitettura-de-roma",
           "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T15:00:00",
-          "day_of_week": "Tue"
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T09:05:00",
+          "day_of_week": "Wed"
         },
         {
-          "title": "Casa de Vidro / Charlene Koetz Arquitetura",
-          "link": "https://www.archdaily.com.br/pt/1183641/casa-de-vidro-charlene-koetz-arquitetura",
+          "title": "Como a escassez de mão de obra está remodelando a arquitetura",
+          "link": "https://www.archdaily.com.br/pt/1183956/como-a-escassez-de-mao-de-obra-esta-remodelando-a-arquitetura",
           "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T13:00:00",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Radicalmente Coletivo: O Legado do Programa Habitacional das Microbrigadas de Cuba",
-          "link": "https://www.archdaily.com.br/pt/1183892/radicalmente-coletivo-o-legado-do-programa-habitacional-das-microbrigadas-de-cuba",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T07:30:00",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Centro de Artes Cênicas Bidi Bidi / To​.org + Hassell + Localworks + Arup",
-          "link": "https://www.archdaily.com.br/pt/1183882/centro-de-artes-cenicas-bidi-bidi-torg-plus-hassell-plus-localworks-plus-arup",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T07:00:00",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Cabana Sande / Helen & Hard architects",
-          "link": "https://www.archdaily.com.br/pt/1183831/cabana-sande-helen-and-hard-architects",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T06:00:00",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "OMA/AMO e OPEN Architecture projetam exposições de abertura para o Powerhouse Parramatta em Sydney, Austrália",
-          "link": "https://www.archdaily.com.br/pt/1183903/oma-amo-e-open-architecture-projetam-exposicoes-de-abertura-para-o-powerhouse-parramatta-em-sydney-australia",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T05:30:00",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Da seleção à criação: quando profissionais da arquitetura passam a produzir seus próprios materiais",
-          "link": "https://www.archdaily.com.br/pt/1183890/da-selecao-a-criacao-quando-profissionais-da-arquitetura-passam-a-produzir-seus-proprios-materiais",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T04:00:00",
-          "day_of_week": "Tue"
-        },
-        {
-          "title": "Centro de Esportes e Lazer Abejas / border arquitectos",
-          "link": "https://www.archdaily.com.br/pt/1183781/centro-de-esportes-e-lazer-abejas-border-arquitectos",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-24",
-          "date_label": "Seg 24/08",
-          "datetime": "2026-08-24T19:00:00",
-          "day_of_week": "Mon"
-        },
-        {
-          "title": "HUB UCC. Espaço de inovação Universidade Católica de Córdoba / BLT Arquitectos",
-          "link": "https://www.archdaily.com.br/pt/1183878/hub-ucc-espaco-de-inovacao-universidade-catolica-de-cordoba-blt-arquitectos",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-24",
-          "date_label": "Seg 24/08",
-          "datetime": "2026-08-24T15:00:00",
-          "day_of_week": "Mon"
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T07:30:00",
+          "day_of_week": "Wed"
         }
       ]
     },
@@ -1101,22 +993,58 @@
       "color": "gray",
       "items": [
         {
-          "title": "Casa Portola Valley / Schwartz and Architecture",
-          "link": "https://www.archdaily.com.br/pt/1183685/casa-portola-valley-schwartz-and-architecture",
+          "title": "Alcatraz na colina: a ascensão e a sobrevida de Rozzol Melara, em Trieste",
+          "link": "https://www.archdaily.com.br/pt/1183971/alcatraz-na-colina-a-ascensao-e-a-sobrevida-de-rozzol-melara-em-trieste",
           "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T12:00:00",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T07:30:00",
+          "day_of_week": "Thu"
         },
         {
-          "title": "Galpões de Artilharia de Donald Judd no Texas passarão por grande restauração",
-          "link": "https://www.archdaily.com.br/pt/1183916/galpoes-de-artilharia-de-donald-judd-no-texas-passarao-por-grande-restauracao",
+          "title": "A abertura do Powerhouse Parramatta e um novo aplicativo de código aberto para relatórios geolocalizados: O resumo da semana",
+          "link": "https://www.archdaily.com.br/pt/1184044/a-abertura-do-powerhouse-parramatta-e-um-novo-aplicativo-de-codigo-aberto-para-relatorios-geolocalizados-o-resumo-da-semana",
           "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-25",
-          "date_label": "Ter 25/08",
-          "datetime": "2026-08-25T06:30:00",
-          "day_of_week": "Tue"
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T05:30:00",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Renovação do Templo Evangélico de Guangnan / TouchGrass Architecture",
+          "link": "https://www.archdaily.com.br/pt/1183919/renovacao-do-templo-evangelico-de-guangnan-touchgrass-architecture",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-08-27",
+          "date_label": "Qui 27/08",
+          "datetime": "2026-08-27T00:00:00",
+          "day_of_week": "Thu"
+        },
+        {
+          "title": "Arte Abierto / Sordo Madaleno Arquitectos",
+          "link": "https://www.archdaily.com.br/pt/1184018/arte-abierto-sordo-madaleno-arquitectos",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T19:00:00",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Como a escassez de mão de obra está remodelando a arquitetura",
+          "link": "https://www.archdaily.com.br/pt/1183956/como-a-escassez-de-mao-de-obra-esta-remodelando-a-arquitetura",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T07:30:00",
+          "day_of_week": "Wed"
+        },
+        {
+          "title": "Residência Split Mass / K-Thengono Design Studio",
+          "link": "https://www.archdaily.com.br/pt/1183960/residencia-split-mass-k-thengono-design-studio",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-08-26",
+          "date_label": "Qua 26/08",
+          "datetime": "2026-08-26T07:00:00",
+          "day_of_week": "Wed"
         }
       ]
     },
