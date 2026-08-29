@@ -1,5 +1,5 @@
 {
-  "generated_at": "28/08/2026 às 21:00",
+  "generated_at": "29/08/2026 às 14:44",
   "sections": {
     "amrs_social": {
       "label": "Social Media & Plataformas",
@@ -10,19 +10,37 @@
           "title": "O cliente tem a marca que ele merece",
           "link": "https://www.b9.com.br/o-cliente-tem-a-marca-que-ele-merece/",
           "source": "B9",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T21:00:59.513939",
-          "day_of_week": "Fri"
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T14:44:10.125863",
+          "day_of_week": "Sat"
         },
         {
           "title": "Austrália vai taxar big tech que não negociar com jornais",
           "link": "https://www.b9.com.br/australia-taxa-big-tech-noticias-jornalismo/",
           "source": "B9",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T21:00:59.513839",
-          "day_of_week": "Fri"
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T14:44:10.125784",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Starbucks põe @ de fãs nos copos para celebrar volta do Pumpkin Spice",
+          "link": "https://www.b9.com.br/starbucks-pumpkin-spice-campanha-almapbbdo/",
+          "source": "B9",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T14:44:10.125654",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Após comprar 220 caminhões a gás de uma vez, irmãos gaúchos apostam em elétricos e faturam R$ 2,5 bi",
+          "link": "https://exame.com/negocios/apos-comprar-220-caminhoes-a-gas-de-uma-vez-irmaos-gauchos-apostam-em-eletricos-e-faturam-r-25-bi/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:50:42",
+          "day_of_week": "Sat"
         },
         {
           "title": "Quais são as empresas dos maiores bilionários do Brasil?",
@@ -31,24 +49,6 @@
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
           "datetime": "2026-08-28T19:37:08",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Além do lucro: como foco no valor da operação pode beneficiar o ambiente de trabalho",
-          "link": "https://exame.com/bussola/opiniao-priorizar-o-lucro-nao-pode-atrapalhar-concordancia-com-a-nr-1/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:00:22",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "O gêmeo maligno do placebo: entenda como o efeito nocebo se espalha na web",
-          "link": "https://exame.com/ciencia/o-gemeo-maligno-do-placebo-entenda-como-o-efeito-nocebo-se-espalha-na-web/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T16:28:34",
           "day_of_week": "Fri"
         },
         {
@@ -77,21 +77,255 @@
       "color": "purple",
       "items": [
         {
+          "title": "Gemini tem acesso a todos os dados da sua empresa; veja como desativar",
+          "link": "https://canaltech.com.br/inteligencia-artificial/gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-como-desativar/",
+          "source": "Canaltech",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T14:30:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Justiça Federal marca audiência de conciliação entre governo e Discord",
+          "link": "https://olhardigital.com.br/2026/08/29/pro/justica-federal-marca-audiencia-de-conciliacao-entre-governo-e-discord/",
+          "source": "Olhar Digital",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T14:14:47",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Lavar roupa à noite gasta menos energia? Entenda a \"tarifa branca\"",
+          "link": "https://canaltech.com.br/eletro/lavar-roupa-a-noite-gasta-menos-energia-entenda-a-tarifa-branca/",
+          "source": "Canaltech",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T14:00:01",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Quer jogar sem travar? Confira uma seleção de notebooks gamer em promoção na Amazon",
+          "link": "https://olhardigital.com.br/2026/08/29/reviews/quer-jogar-sem-travar-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon-11/",
+          "source": "Olhar Digital",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T13:40:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "4 diferenças entre o Googlebook e os Chromebook",
+          "link": "https://canaltech.com.br/notebook/diferencas-entre-googlebook-e-chromebook/",
+          "source": "Canaltech",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T13:30:03",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Smartwatch bom e barato? Separamos uma seleção com ótimas opções em promoção na Amazon",
+          "link": "https://olhardigital.com.br/2026/08/29/reviews/smartwatch-bom-e-barato-separamos-uma-selecao-com-otimas-opcoes-em-promocao-na-amazon-2/",
+          "source": "Olhar Digital",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T13:20:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Drones monitoram a possibilidade de nova tragédia no Nepal",
+          "link": "https://olhardigital.com.br/2026/08/29/ciencia-e-espaco/drones-monitoram-a-possibilidade-de-nova-tragedia-no-nepal/",
+          "source": "Olhar Digital",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T13:12:09",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Casa de 2050: 12 eletrodomésticos geniais que você não conhecia",
+          "link": "https://canaltech.com.br/eletro/casa-de-2050-x-eletrodomesticos-geniais-que-voce-nao-conhecia/",
+          "source": "Canaltech",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T13:00:01",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Hora de economizar: smartphones Xiaomi com ótimo custo-benefício na Amazon",
+          "link": "https://olhardigital.com.br/2026/08/29/reviews/hora-de-economizar-smartphones-xiaomi-com-otimo-custo-beneficio-na-amazon-2/",
+          "source": "Olhar Digital",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T13:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "8 filmes e séries que já abordaram IA generativa como a conhecemos hoje",
+          "link": "https://canaltech.com.br/entretenimento/filmes-e-series-com-ia-generativa/",
+          "source": "Canaltech",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T12:30:03",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Quais são os SUVs mais econômicos do Brasil em 2026?",
+          "link": "https://canaltech.com.br/carros/quais-sao-os-suvs-mais-economicos-do-brasil-em-2026/",
+          "source": "Canaltech",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T12:01:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Transforme sua TV com estes dispositivos de streaming em promoção na Amazon",
+          "link": "https://olhardigital.com.br/2026/08/29/reviews/transforme-sua-tv-com-estes-dispositivos-de-streaming-em-promocao-na-amazon/",
+          "source": "Olhar Digital",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T11:40:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "5 coisas que o Claude faz melhor que o Gemini",
+          "link": "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-gemini/",
+          "source": "Canaltech",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T11:00:01",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Investimento em logística e redução do custo de energia: o plano econômico de Caiado",
+          "link": "https://exame.com/eleicoes/investimento-em-logistica-e-reducao-do-custo-de-energia-o-plano-economico-de-caiado/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T10:21:45",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Corte de supersalários e revisão de renúncias fiscais: as propostas de Renan Santos para a economia",
+          "link": "https://exame.com/brasil/corte-de-supersalarios-e-uma-das-principais-propostas-de-renan-santos-para-a-presidencia/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T10:07:55",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "O Brasil já conhece criptoativos, agora é hora de incluir no dia a dia",
+          "link": "https://exame.com/future-of-money/o-brasil-ja-conhece-criptoativos-agora-e-hora-de-incluir-no-dia-a-dia/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T10:00:22",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Após comprar 220 caminhões a gás de uma vez, irmãos gaúchos apostam em elétricos e faturam R$ 2,5 bi",
+          "link": "https://exame.com/negocios/apos-comprar-220-caminhoes-a-gas-de-uma-vez-irmaos-gauchos-apostam-em-eletricos-e-faturam-r-25-bi/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:50:42",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "ChatGPT corta acesso do Cursor após startup ser comprada por Elon Musk",
+          "link": "https://exame.com/inteligencia-artificial/chatgpt-corta-acesso-do-cursor-apos-startup-ser-comprada-por-elon-musk/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:32:29",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Pela primeira vez, IA ajuda cirurgiões em tempo real durante cirurgia cerebral",
+          "link": "https://exame.com/ciencia/pela-primeira-vez-ia-ajuda-cirurgioes-em-tempo-real-durante-cirurgia-cerebral/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:00:13",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Brasil quer exportar tecnologia de agricultura tropical para este pequeno país africano",
+          "link": "https://exame.com/mundo/brasil-quer-exportar-tecnologia-agricultura-para-este-pequeno-pais-africano/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:00:10",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Estudo revela impacto das 'batidas repetitivas na cabeça' entre jogadores da NFL",
+          "link": "https://exame.com/esporte/estudo-revela-impacto-das-batidas-repetitivas-na-cabeca-entre-jogadores-da-nfl/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T08:51:20",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Eles começaram com um açougue em SP, quase faliram e hoje faturam R$ 70 milhões",
+          "link": "https://exame.com/negocios/eles-comecaram-com-um-acougue-em-sp-quase-faliram-e-hoje-faturam-r-70-milhoes/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T08:02:36",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "'Nunca é tarde': aos 62 anos, esta pernambucana criou uma das empresas que mais cresce no Brasil",
+          "link": "https://exame.com/negocios/nunca-e-tarde-aos-62-anos-esta-pernambucana-criou-uma-das-empresas-que-mais-cresce-no-brasil/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T08:01:56",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Por que a Pepsi aposta no Farroupilha para regionalizar sua marca",
+          "link": "https://exame.com/marketing/por-que-a-pepsi-aposta-no-farroupilha-para-regionalizar-sua-marca/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T08:00:34",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "3 kits de rodas para mudar o visual do carro",
+          "link": "https://canaltech.com.br/carros/3-kits-de-rodas-para-mudar-o-visual-do-carro/",
+          "source": "Canaltech",
+          "date": "2026-08-28",
+          "date_label": "Sex 28/08",
+          "datetime": "2026-08-28T22:00:00",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Xiaomi vai copiar recurso matador do Galaxy S26 Ultra, diz leaker",
+          "link": "https://canaltech.com.br/smartphone/xiaomi-vai-copiar-recurso-matador-do-galaxy-s26-ultra-diz-leaker/",
+          "source": "Canaltech",
+          "date": "2026-08-28",
+          "date_label": "Sex 28/08",
+          "datetime": "2026-08-28T21:27:24",
+          "day_of_week": "Fri"
+        },
+        {
+          "title": "Controle especial de 25 anos do Xbox será lançado no Brasil por preço de chorar",
+          "link": "https://canaltech.com.br/games/controle-especial-de-25-anos-do-xbox-sera-lancado-no-brasil-por-preco-de-chorar/",
+          "source": "Canaltech",
+          "date": "2026-08-28",
+          "date_label": "Sex 28/08",
+          "datetime": "2026-08-28T21:18:00",
+          "day_of_week": "Fri"
+        },
+        {
           "title": "Esse truque pode te ajudar a rastrear o iPhone roubado com uma selfie do ladrão",
           "link": "https://tecnoblog.net/responde/esse-truque-pode-te-ajudar-a-rastrear-o-iphone-roubado-com-uma-selfie-do-ladrao/",
           "source": "Tecnoblog",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
           "datetime": "2026-08-28T20:37:38",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "O que você fala com o ChatGPT pode ser usado contra você?",
-          "link": "https://olhardigital.com.br/2026/08/28/inteligencia-artificial/o-que-voce-fala-com-o-chatgpt-pode-ser-usado-contra-voce/",
-          "source": "Olhar Digital",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T20:36:23",
           "day_of_week": "Fri"
         },
         {
@@ -113,24 +347,6 @@
           "day_of_week": "Fri"
         },
         {
-          "title": "Review City States Medieval: estratégia em tempo real e 4X no século XII",
-          "link": "https://olhardigital.com.br/2026/08/28/games-e-consoles/review-city-states-medieval-estrategia-em-tempo-real-e-4x-no-seculo-xii/",
-          "source": "Olhar Digital",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T20:15:57",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Trump cria academia espacial para preparar militares e engenheiros para missões na Lua",
-          "link": "https://olhardigital.com.br/2026/08/28/ciencia-e-espaco/trump-cria-academia-espacial-para-preparar-militares-e-engenheiros-para-missoes-na-lua/",
-          "source": "Olhar Digital",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T20:03:50",
-          "day_of_week": "Fri"
-        },
-        {
           "title": "Chevrolet derruba preço do Onix Plus e sedan fica mais em conta que VW Virtus",
           "link": "https://canaltech.com.br/carros/chevrolet-derruba-preco-do-onix-plus-e-sedan-fica-mais-em-conta-que-vw-virtus/",
           "source": "Canaltech",
@@ -146,15 +362,6 @@
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
           "datetime": "2026-08-28T19:53:46",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Smartwatch Samsung em promoção: veja os modelos em destaque na Amazon",
-          "link": "https://olhardigital.com.br/2026/08/28/reviews/smartwatch-samsung-em-promocao-veja-os-modelos-em-destaque-na-amazon/",
-          "source": "Olhar Digital",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T19:40:00",
           "day_of_week": "Fri"
         },
         {
@@ -221,219 +428,12 @@
           "day_of_week": "Fri"
         },
         {
-          "title": "Uma investigação no Universo DC",
-          "link": "https://olhardigital.com.br/2026/08/28/cinema-e-streaming/uma-investigacao-no-universo-dc/",
-          "source": "Olhar Digital",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T18:58:00",
-          "day_of_week": "Fri"
-        },
-        {
           "title": "Novo \"iPhone Air chinês\" não é tão fino quanto o da Apple, mas bateria deve durar",
           "link": "https://canaltech.com.br/smartphone/novo-iphone-air-chines-nao-e-tao-fino-quanto-o-da-apple-mas-bateria-deve-durar/",
           "source": "Canaltech",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
           "datetime": "2026-08-28T18:56:31",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Vivo libera função grátis contra telemarketing para mais 31,9 milhões de pessoas",
-          "link": "https://tecnoblog.net/noticias/vivo-libera-funcao-gratis-contra-telemarketing-para-mais-319-milhoes-de-pessoas/",
-          "source": "Tecnoblog",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T18:55:47",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Tecnologias brasileiras que mudaram o mundo: conheça a história do chuveiro elétrico",
-          "link": "https://olhardigital.com.br/2026/08/28/ciencia-e-espaco/tecnologias-brasileiras-que-mudaram-o-mundo-conheca-a-historia-do-chuveiro-eletrico/",
-          "source": "Olhar Digital",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T18:43:54",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Impressora boa não precisa custar caro: veja opções em promoção na Amazon",
-          "link": "https://olhardigital.com.br/2026/08/28/reviews/impressora-boa-nao-precisa-custar-caro-veja-opcoes-em-promocao-na-amazon/",
-          "source": "Olhar Digital",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T18:40:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Campanhas da Semana: cidadania e economia",
-          "link": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-cidadania-e-economia",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T18:33:45",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Lenovo Idea Tab Plus com tela de 2.5K tem 35% OFF com cupom",
-          "link": "https://tecnoblog.net/achados/lenovo-idea-tab-plus-com-tela-de-2-5k-tem-35-off-com-cupom/",
-          "source": "Tecnoblog",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T18:30:56",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Nova versão de Vingadores: Ultimato lançada nos cinemas vai passar no Disney+?",
-          "link": "https://canaltech.com.br/entretenimento/nova-versao-de-vingadores-ultimato-lancada-nos-cinemas-vai-passar-no-disney/",
-          "source": "Canaltech",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T18:01:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Koleston assume pausas de hidratação no Paulistão Feminino",
-          "link": "https://www.meioemensagem.com.br/marketing/koleston-assume-pausas-de-hidratacao-no-paulistao-feminino",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T18:00:37",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Receita Federal e Polícia Civil fecham o cerco contra postos irregulares em SP",
-          "link": "https://canaltech.com.br/carros/receita-federal-e-policia-civil-fecham-o-cerco-contra-postos-irregulares-em-sp/",
-          "source": "Canaltech",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T18:00:01",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Novo robô-aspirador fica 65 dias sem esvaziar sujeira mesmo limpando a casa todo dia",
-          "link": "https://canaltech.com.br/eletro/novo-robo-aspirador-fica-65-dias-sem-esvaziar-sujeira-mesmo-limpando-a-casa-todo-dia/",
-          "source": "Canaltech",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:57:41",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Shopee faz queima de estoque: kit Galaxy A37 256 GB + Galaxy Watch8 por R$ 2.300",
-          "link": "https://canaltech.com.br/smartphone/shopee-faz-queima-de-estoque-kit-galaxy-a37-256-gb-galaxy-watch8-por-r-2300/",
-          "source": "Canaltech",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:52:22",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "O bug do Word 97 que sumia quando os desenvolvedores olhavam",
-          "link": "https://tecnoblog.net/noticias/o-bug-do-word-97-que-sumia-quando-os-desenvolvedores-olhavam/",
-          "source": "Tecnoblog",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:49:19",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "'Ensaios da Anitta' 2027: veja tema e datas da pré-venda de ingressos",
-          "link": "https://exame.com/pop/ensaios-da-anitta-2027-veja-tema-e-datas-da-pre-venda-de-ingressos/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:44:41",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Concurso da Jovi vai dar celular de R$ 20 mil para quem tirar melhor foto",
-          "link": "https://canaltech.com.br/smartphone/concurso-da-jovi-vai-dar-celular-de-r-20-mil-para-quem-tirar-melhor-foto/",
-          "source": "Canaltech",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:44:13",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Latam leva Rock in Rio 2026 dos voos ao festival",
-          "link": "https://www.meioemensagem.com.br/marketing/latam-leva-rock-in-rio-2026-dos-voos-ao-festival",
-          "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:35:38",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "AI Product Manager: o que faz, quais habilidades exige e como entrar nessa carreira",
-          "link": "https://exame.com/inteligencia-artificial/ai-product-manager-o-que-faz-quais-habilidades-exige-e-como-entrar-nessa-carreira/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:31:35",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Celular com \"tela larga\" e borda quase invisíveis entra em pré-venda hoje (28)",
-          "link": "https://canaltech.com.br/smartphone/celular-com-tela-larga-e-borda-quase-invisiveis-entra-em-pre-venda-hoje-28/",
-          "source": "Canaltech",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:30:44",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Veo 3.1: como usar a inteligência artificial do Google para criar vídeos",
-          "link": "https://exame.com/inteligencia-artificial/veo-3-1-como-usar-a-inteligencia-artificial-do-google-para-criar-videos/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:24:55",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Como usar o Cursor para criar projetos, corrigir erros e automatizar tarefas com IA",
-          "link": "https://exame.com/inteligencia-artificial/como-usar-o-cursor-para-criar-projetos-corrigir-erros-e-automatizar-tarefas-com-ia/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:19:34",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "3 perguntas que todo gestor deve fazer antes de contratar uma inteligência artificial generativa",
-          "link": "https://exame.com/inteligencia-artificial/3-perguntas-que-todo-gestor-deve-fazer-antes-de-contratar-uma-inteligencia-artificial-generativa/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:12:24",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Preço do Galaxy S25 Edge derrete 61%; ultrafino da Samsung com 512 GB",
-          "link": "https://canaltech.com.br/smartphone/preco-do-galaxy-s25-edge-derrete-61-ultrafino-da-samsung-com-512-gb/",
-          "source": "Canaltech",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:06:10",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Roubar carros em GTA 6 vai ficar bem mais difícil; entenda as mudanças",
-          "link": "https://canaltech.com.br/games/gta-6-roubar-dirigir-carros-mudancas/",
-          "source": "Canaltech",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:03:00",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "5 formas de recuperar e melhorar fotos antigas da família com IA",
-          "link": "https://exame.com/tecnologia/examelab/5-formas-de-recuperar-e-melhorar-fotos-antigas-da-familia-com-ia/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:02:13",
           "day_of_week": "Fri"
         }
       ]
@@ -443,6 +443,87 @@
       "tab": "amrs",
       "color": "teal",
       "items": [
+        {
+          "title": "Por que o próximo software de gestão vai deixar de ser espelho",
+          "link": "https://exame.com/tecnologia/fim-espelho-software-gestao-comunidade-inteligencia/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T10:25:07",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Investimento em logística e redução do custo de energia: o plano econômico de Caiado",
+          "link": "https://exame.com/eleicoes/investimento-em-logistica-e-reducao-do-custo-de-energia-o-plano-economico-de-caiado/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T10:21:45",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Propaganda eleitoral dos presidenciáveis na TV começa hoje; veja as regras",
+          "link": "https://exame.com/brasil/propaganda-eleitoral-dos-presidenciaveis-na-tv-comeca-hoje-veja-as-regras/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T10:21:19",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Após comprar 220 caminhões a gás de uma vez, irmãos gaúchos apostam em elétricos e faturam R$ 2,5 bi",
+          "link": "https://exame.com/negocios/apos-comprar-220-caminhoes-a-gas-de-uma-vez-irmaos-gauchos-apostam-em-eletricos-e-faturam-r-25-bi/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:50:42",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "ChatGPT corta acesso do Cursor após startup ser comprada por Elon Musk",
+          "link": "https://exame.com/inteligencia-artificial/chatgpt-corta-acesso-do-cursor-apos-startup-ser-comprada-por-elon-musk/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:32:29",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Pela primeira vez, IA ajuda cirurgiões em tempo real durante cirurgia cerebral",
+          "link": "https://exame.com/ciencia/pela-primeira-vez-ia-ajuda-cirurgioes-em-tempo-real-durante-cirurgia-cerebral/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:00:13",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Brasil quer exportar tecnologia de agricultura tropical para este pequeno país africano",
+          "link": "https://exame.com/mundo/brasil-quer-exportar-tecnologia-agricultura-para-este-pequeno-pais-africano/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:00:10",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Ela ergueu uma empresa do zero e, cinco anos depois, mira o primeiro R$ 1 bilhão",
+          "link": "https://exame.com/negocios/ela-ergueu-uma-empresa-do-zero-e-cinco-anos-depois-mira-o-primeiro-r-1-bilhao/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T08:02:50",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "'Nunca é tarde': aos 62 anos, esta pernambucana criou uma das empresas que mais cresce no Brasil",
+          "link": "https://exame.com/negocios/nunca-e-tarde-aos-62-anos-esta-pernambucana-criou-uma-das-empresas-que-mais-cresce-no-brasil/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T08:01:56",
+          "day_of_week": "Sat"
+        },
         {
           "title": "Quais são as empresas dos maiores bilionários do Brasil?",
           "link": "https://www.meioemensagem.com.br/marketing/quais-sao-as-empresas-dos-maiores-bilionarios-do-brasil",
@@ -489,57 +570,12 @@
           "day_of_week": "Fri"
         },
         {
-          "title": "AI Product Manager: o que faz, quais habilidades exige e como entrar nessa carreira",
-          "link": "https://exame.com/inteligencia-artificial/ai-product-manager-o-que-faz-quais-habilidades-exige-e-como-entrar-nessa-carreira/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:31:35",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Cinco anos da Lei da SAF: o que mudou de fato no futebol brasileiro?",
-          "link": "https://exame.com/esporte/cinco-anos-da-lei-da-saf-o-que-mudou-de-fato-no-futebol-brasileiro/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:18:15",
-          "day_of_week": "Fri"
-        },
-        {
           "title": "A violência contra a mulher não desaparecerá com o silêncio dos outros",
           "link": "https://www.meioemensagem.com.br/opiniao/a-violencia-contra-a-mulher-nao-desaparecera-com-o-silencio-dos-outros",
           "source": "Meio e Mensagem – Marketing, Mídia e Comunicação",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
           "datetime": "2026-08-28T17:00:33",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Viaje para a China ainda na faculdade: inovação, cultura e protagonismo em 7 dias",
-          "link": "https://exame.com/carreira/viaje-para-a-china-ainda-na-faculdade-inovacao-cultura-e-protagonismo-em-7-dias/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T16:50:50",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Um 'mini Big Bang' criado em laboratório pode revelar como o Universo começou",
-          "link": "https://exame.com/ciencia/um-mini-big-bang-criado-em-laboratorio-pode-revelar-como-o-universo-comecou/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T16:50:15",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Esse bloqueio está atrapalhando jovens de se desenvolver — e os afastando de grandes oportunidades",
-          "link": "https://exame.com/carreira/esse-bloqueio-esta-atrapalhando-jovens-de-se-desenvolver-e-os-afastando-de-grandes-oportunidades/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T16:47:12",
           "day_of_week": "Fri"
         },
         {
@@ -766,111 +802,282 @@
       "color": "blue",
       "items": [
         {
-          "title": "Fenacor cria vice-presidência de Política de Mulheres",
-          "link": "https://cqcs.com.br/noticia/fenacor-cria-vice-presidencia-de-politica-de-mulheres/",
+          "title": "Sala de Negócios 1 – IBDCOR – Dia 28 – 24º Congresso de Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/sala-de-negocios-1-ibdcor-dia-28-24o-congresso-de-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T14:32:44",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Sala de Negócios – Grupo Porto – Dia 28 – 24º Congresso de Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/sala-de-negocios-porto-seguro-dia-28-24o-congresso-de-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T14:28:05",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Brick destaca conexão com o mercado de seguros durante 24º Congresso Brasileiro dos Corretores",
+          "link": "https://cqcs.com.br/noticia/brick-destaca-conexao-com-o-mercado-de-seguros-durante-24o-congresso-brasileiro-dos-corretores/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T13:42:49",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "MetLife reforçou presença no C6 no Rock com ações de segurança e bem-estar",
+          "link": "https://cqcs.com.br/noticia/metlife-reforcou-presenca-no-c6-no-rock-com-acoes-de-seguranca-e-bem-estar/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T12:41:17",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "MetLife destaca uso de dados e inteligência artificial para transformar experiência com seguros no FEBRABAN TECH 2026",
+          "link": "https://cqcs.com.br/noticia/metlife-destaca-uso-de-dados-e-inteligencia-artificial-para-transformar-experiencia-com-seguros-no-febraban-tech-2026/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T12:36:32",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Mapfre revela novas oportunidades para corretores durante 24º Congresso Brasileiro",
+          "link": "https://cqcs.com.br/noticia/mapfre-revela-novas-oportunidades-para-corretores-durante-24o-congresso-brasileiro/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T12:19:10",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Justiça protege Casas Bahia de cobranças por 180 dias durante recuperação judicial",
+          "link": "https://g1.globo.com/economia/noticia/2026/08/29/justica-protege-casas-bahia-de-cobrancas-por-180-dias-durante-recuperacao-judicial.ghtml",
+          "source": "g1 > Economia",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T11:34:33",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Onde se esconder durante um apocalipse? Estudo revela o país mais seguro",
+          "link": "https://exame.com/ciencia/onde-se-esconder-durante-um-apocalipse-estudo-revela-o-pais-mais-seguro/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:00:03",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Os melhores países para estrangeiros morarem em 2026 (o Brasil está na lista)",
+          "link": "https://g1.globo.com/economia/noticia/2026/08/29/os-melhores-paises-para-estrangeiros-morarem-em-2026-o-brasil-esta-na-lista.ghtml",
+          "source": "g1 > Economia",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T06:00:52",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Sala de Negócios – Mapfre – Dia 28 – 24º Congresso de Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/sala-de-negocios-mapfre-dia-28-24o-congresso-de-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T04:02:52",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2: Ituran Brasil no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-ituran-brasil-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T03:12:22",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2: Zurich no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-zurich-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T03:06:06",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2: Mapfre no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-mapfre-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:56:28",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Sala de Negócios – Tokio Marine Seguradora – Dia 28 – 24º Congresso de Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/sala-de-negocios-tokio-marine-seguradora-dia-28-24o-congresso-de-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:54:47",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Sala de Negócios – Bradesco Seguros – Dia 28 – 24º Congresso de Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/sala-de-negocios-bradesco-seguros-dia-28-24o-congresso-de-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:52:33",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia : Grupo HDI no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-grupo-hdi-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:41:45",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2:  C6 Seg no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-c6-seg-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:36:08",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2: AXA no Brasil no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-axa-no-brasil-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:33:36",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "2º dia do 24º Congresso dos Corretores de Seguros debate futuro, inovação e novas oportunidades",
+          "link": "https://cqcs.com.br/tv/canal-cqcs-in-loco/2o-dia-do-24o-congresso-dos-corretores-de-seguros-debate-futuro-inovacao-e-novas-oportunidades/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:29:31",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2: allseg seguradora no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-allseg-seguradora-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:24:32",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2: ENS no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-ens-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:01:32",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2: Allianz Seguros no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-allianz-seguros-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T01:53:46",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2: Tokio Marine no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-tokio-marine-no-24o-congresso-dos-corretores-de-seguros/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T01:28:25",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Inovação em Seguros vai além da tecnologia e exige mudança de cultura",
+          "link": "https://cqcs.com.br/noticia/inovacao-em-seguros-vai-alem-da-tecnologia-e-exige-mudanca-de-cultura/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T01:25:32",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "ENS promove debates sobre inovação, IA e transformação da corretagem no 24º Congresso",
+          "link": "https://cqcs.com.br/noticia/ens-promove-debates-sobre-inovacao-ia-e-transformacao-da-corretagem-no-24o-congresso/",
+          "source": "CQCS",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T00:52:39",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Dia 2: Seguros Unimed no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-seguros-unimed-no-24o-congresso-dos-corretores-de-seguros/",
           "source": "CQCS",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T21:01:18",
+          "datetime": "2026-08-28T23:56:17",
           "day_of_week": "Fri"
         },
         {
-          "title": "24º Congresso dos Corretores de Seguros debate nova era da distribuição de produtos",
-          "link": "https://cqcs.com.br/noticia/24o-congresso-dos-corretores-de-seguros-debate-nova-era-da-distribuicao-de-produtos/",
+          "title": "Dia 2: Maxpar Assistências no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-maxpar-assistencias-no-24o-congresso-dos-corretores-de-seguros/",
           "source": "CQCS",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T20:52:53",
+          "datetime": "2026-08-28T23:48:56",
           "day_of_week": "Fri"
         },
         {
-          "title": "Salesforce destaca IA, era agêntica e soluções para seguros na  FEBRABAN TECH 2026",
-          "link": "https://cqcs.com.br/tv/canal-cqcs-in-loco/salesforce-destaca-ia-era-agentica-e-solucoes-para-seguros-na-febraban-tech-2026/",
+          "title": "Dia 2: CAPEMISA Seguradora no 24º Congresso dos Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/dia-2-capemisa-seguradora-no-24o-congresso-dos-corretores-de-seguros/",
           "source": "CQCS",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T20:42:32",
+          "datetime": "2026-08-28T23:42:48",
           "day_of_week": "Fri"
         },
         {
-          "title": "Abertura do segundo dia do 24º Congresso Brasileiro dos Corretores de Seguros",
-          "link": "https://cqcs.com.br/galeria/abertura-do-segundo-dia-do-24o-congresso-brasileiro-dos-corretores-de-seguros/",
+          "title": "Sala de Negócios – ENS – Dia 28 – 24º Congresso de Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/sala-de-negocios-ens-dia-28-24o-congresso-de-corretores-de-seguros/",
           "source": "CQCS",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T20:38:23",
+          "datetime": "2026-08-28T22:38:29",
           "day_of_week": "Fri"
         },
         {
-          "title": "Quem vai pagar a conta? Agentes de IA descontrolados levam seguradoras a refazer apólices",
-          "link": "https://cqcs.com.br/noticia/quem-vai-pagar-a-conta-agentes-de-ia-descontrolados-levam-seguradoras-a-refazer-apolices/",
+          "title": "Sala de Negócios – Grupo HDI – Dia 28 – 24º Congresso de Corretores de Seguros",
+          "link": "https://cqcs.com.br/galeria/sala-de-negocios-grupo-hdi-dia-28-24o-congresso-de-corretores-de-seguros/",
           "source": "CQCS",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T19:48:34",
+          "datetime": "2026-08-28T22:29:37",
           "day_of_week": "Fri"
         },
         {
-          "title": "Cicinho Moreira propõe programa para seguro de veículos",
-          "link": "https://cqcs.com.br/noticia/cicinho-moreira-propoe-programa-para-seguro-de-veiculos/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T19:44:40",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Presidente do Fed sugere que EUA podem aumentar taxas de juros para conter inflação",
+          "title": "Chefe do Fed adota tom mais duro e sugere alta de juros nos EUA para conter inflação; veja impactos",
           "link": "https://g1.globo.com/economia/noticia/2026/08/28/presidente-do-fed-sugere-que-eua-podem-aumentar-taxas-de-juros-para-conter-inflacao.ghtml",
           "source": "g1 > Economia",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
           "datetime": "2026-08-28T19:21:38",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Haddad anuncia plano para a agricultura com seguros contra eventos climáticos",
-          "link": "https://cqcs.com.br/noticia/haddad-anuncia-plano-para-a-agricultura-com-seguros-contra-eventos-climaticos/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:34:01",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Pesquisa Real Time Big Data: Flávio Bolsonaro tem 44% e Lula 30% no 1º turno no Paraná",
-          "link": "https://exame.com/eleicoes/pesquisa-real-time-big-data-flavio-bolsonaro-tem-44-e-lula-30-no-1o-turno-no-parana/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:20:23",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Pesquisa Real Time: Sérgio Moro tem 35% e Sandro Alex 23% no 1º turno para governador do Paraná",
-          "link": "https://exame.com/eleicoes/pesquisa-real-time-sergio-moro-tem-35-e-sandro-alex-23-no-1o-turno-para-governador-do-parana/",
-          "source": "exame.com",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T17:13:35",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "allseg seguradora reforça aproximação com corretores e apresenta novidades em seu portfólio",
-          "link": "https://cqcs.com.br/noticia/allseg-seguradora-reforca-aproximacao-com-corretores-e-apresenta-novidades-em-seu-portfolio/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T16:13:46",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Banyan Software adquire a ITG, referência em software para conformidade regulatória no mercado de seguros brasileiro",
-          "link": "https://cqcs.com.br/noticia/banyan-software-adquire-a-itg-referencia-em-software-para-conformidade-regulatoria-no-mercado-de-seguros-brasileiro/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T14:34:15",
           "day_of_week": "Fri"
         },
         {
@@ -883,156 +1090,12 @@
           "day_of_week": "Fri"
         },
         {
-          "title": "CEO da Hero Seguros reitera que nenhum cliente será impactado pela suspensão da Generali",
-          "link": "https://cqcs.com.br/noticia/ceo-da-hero-seguros-reitera-que-nenhum-cliente-sera-impactado-pela-suspensao-da-generali/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T13:50:50",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "É possível oferecer seguro junto com um serviço de alarme residencial por assinatura?",
-          "link": "https://cqcs.com.br/debate/e-possivel-oferecer-seguro-junto-com-um-servico-de-alarme-residencial-por-assinatura/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T13:40:34",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Corretora quer saber: Qual seguradora aceita Seguro Empresarial para boates e casas noturnas?",
-          "link": "https://cqcs.com.br/debate/corretora-quer-saber-qual-seguradora-aceita-seguro-empresarial-para-boates-e-casas-noturnas/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T13:29:32",
-          "day_of_week": "Fri"
-        },
-        {
           "title": "'Rei do Ovo', irmãos Batista e mais: veja quem são os bilionários do agro brasileiro em 2026",
           "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/28/veja-quem-sao-os-bilionarios-do-agro-brasileiro.ghtml",
           "source": "g1 > Economia",
           "date": "2026-08-28",
           "date_label": "Sex 28/08",
           "datetime": "2026-08-28T11:47:10",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "IA no seguro: TRINCA aponta desafios entre prototipagem e aplicação real",
-          "link": "https://cqcs.com.br/noticia/a-no-seguro-trinca-aponta-desafios-entre-prototipagem-e-aplicacao-real/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:46:11",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "IA já cria novos riscos para empresas e abre oportunidades para o mercado de seguros",
-          "link": "https://cqcs.com.br/noticia/ia-ja-cria-novos-riscos-para-empresas-e-abre-oportunidades-para-o-mercado-de-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:41:58",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Maxpar apresenta nova campanha e destaca importância das assistências no 24º Congresso dos Corretores",
-          "link": "https://cqcs.com.br/noticia/maxpar-apresenta-nova-campanha-e-destaca-importancia-das-assistencias-no-24o-congresso-dos-corretores/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:40:41",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Seguro como motor de resiliência, inovação e desenvolvimento em debate no 3º Fórum IRB(P&D)",
-          "link": "https://cqcs.com.br/noticia/seguro-como-motor-de-resiliencia-inovacao-e-desenvolvimento-em-debate-no-3o-forum-irbpd/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:37:01",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Paulo Ricardo, diretor executivo de Distribuição, destaca jornada do corretor como prioridade na Zurich",
-          "link": "https://cqcs.com.br/noticia/paulo-ricardo-diretor-executivo-de-distribuicao-destaca-jornada-do-corretor-como-prioridade-na-zurich/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:31:16",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "ENS leva maior estande de sua história ao 24º Congresso dos Corretores com foco em tecnologia",
-          "link": "https://cqcs.com.br/noticia/ens-leva-maior-estande-de-sua-historia-ao-24o-congresso-dos-corretores-com-foco-em-tecnologia/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:30:48",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "24º Congresso dos Corretores reúne lideranças do setor para discutir inovação, IA e novos caminhos para a profissão",
-          "link": "https://cqcs.com.br/noticia/24o-congresso-dos-corretores-reune-liderancas-do-setor-para-discutir-inovacao-ia-e-novos-caminhos-para-a-profissao/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:29:05",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Tech Trail é exemplo de como a Cidade das Startups pode gerar conexões além do CQCS Inovação",
-          "link": "https://cqcs.com.br/noticia/tech-trail-e-exemplode-como-a-cidade-das-startups-pode-gerar-conexoes-alem-do-cqcs-inovacao/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:28:41",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Dois anos após as enchentes no RS, eventos extremos reforçam importância da revisão dos seguros",
-          "link": "https://cqcs.com.br/noticia/dois-anos-apos-as-enchentes-no-rs-eventos-extremos-reforcam-importancia-da-revisao-dos-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:27:28",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Incêndio em veículos elétricos coloca gestão de riscos no radar do mercado de seguros",
-          "link": "https://cqcs.com.br/noticia/incendio-em-veiculos-eletricos-coloca-gestao-de-riscos-no-radar-do-mercado-de-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:13:14",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "AXA no Brasil participa do 24º Congresso Brasileiro dos Corretores de Seguros",
-          "link": "https://cqcs.com.br/noticia/axa-no-brasil-participa-do-24o-congresso-brasileiro-dos-corretores-de-seguros/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:00:35",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Allianz reúne assessorias da Aconseg-RJ para agradecer e reconhecer a excelente performance destas empresas",
-          "link": "https://cqcs.com.br/noticia/allianz-reune-assessorias-da-aconseg-rj-para-agradecer-e-reconhecer-a-excelente-performance-destas-empresas/",
-          "source": "CQCS",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T11:00:05",
-          "day_of_week": "Fri"
-        },
-        {
-          "title": "Guerra no Oriente Médio completa seis meses com impacto no petróleo, alimentos e mercados",
-          "link": "https://g1.globo.com/economia/noticia/2026/08/28/guerra-no-oriente-medio-completa-seis-meses-com-impacto-no-petroleo-alimentos-e-mercados.ghtml",
-          "source": "g1 > Economia",
-          "date": "2026-08-28",
-          "date_label": "Sex 28/08",
-          "datetime": "2026-08-28T03:01:26",
           "day_of_week": "Fri"
         }
       ]
@@ -1048,6 +1111,33 @@
       "tab": "clientes",
       "color": "amber",
       "items": [
+        {
+          "title": "Ela ergueu uma empresa do zero e, cinco anos depois, mira o primeiro R$ 1 bilhão",
+          "link": "https://exame.com/negocios/ela-ergueu-uma-empresa-do-zero-e-cinco-anos-depois-mira-o-primeiro-r-1-bilhao/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T08:02:50",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Apartamento A12 / DKA",
+          "link": "https://www.archdaily.com.br/pt/1183749/apartamento-a12-dka",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T06:00:00",
+          "day_of_week": "Sat"
+        },
+        {
+          "title": "Escritório Canteiro de Semicostrução / ARCHWASTE",
+          "link": "https://www.archdaily.com.br/pt/1184162/escritorio-canteiro-de-semicostrucao-archwaste",
+          "source": "Type:  | ArchDaily em Português",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T02:00:00",
+          "day_of_week": "Sat"
+        },
         {
           "title": "Edifício Tomaz / IDEIA1",
           "link": "https://www.archdaily.com.br/pt/1183937/edificio-tomaz-ideia1",
@@ -1110,15 +1200,6 @@
           "date_label": "Qui 27/08",
           "datetime": "2026-08-27T19:00:00",
           "day_of_week": "Thu"
-        },
-        {
-          "title": "A abertura do Powerhouse Parramatta e um novo aplicativo de código aberto para relatórios geolocalizados: O resumo da semana",
-          "link": "https://www.archdaily.com.br/pt/1184044/a-abertura-do-powerhouse-parramatta-e-um-novo-aplicativo-de-codigo-aberto-para-relatorios-geolocalizados-o-resumo-da-semana",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-27",
-          "date_label": "Qui 27/08",
-          "datetime": "2026-08-27T05:30:00",
-          "day_of_week": "Thu"
         }
       ]
     },
@@ -1127,6 +1208,15 @@
       "tab": "clientes",
       "color": "gray",
       "items": [
+        {
+          "title": "Brasil quer exportar tecnologia de agricultura tropical para este pequeno país africano",
+          "link": "https://exame.com/mundo/brasil-quer-exportar-tecnologia-agricultura-para-este-pequeno-pais-africano/",
+          "source": "exame.com",
+          "date": "2026-08-29",
+          "date_label": "Sáb 29/08",
+          "datetime": "2026-08-29T09:00:10",
+          "day_of_week": "Sat"
+        },
         {
           "title": "Edifício Tomaz / IDEIA1",
           "link": "https://www.archdaily.com.br/pt/1183937/edificio-tomaz-ideia1",
@@ -1144,24 +1234,6 @@
           "date_label": "Sex 28/08",
           "datetime": "2026-08-28T06:00:00",
           "day_of_week": "Fri"
-        },
-        {
-          "title": "Alcatraz na colina: a ascensão e a sobrevida de Rozzol Melara, em Trieste",
-          "link": "https://www.archdaily.com.br/pt/1183971/alcatraz-na-colina-a-ascensao-e-a-sobrevida-de-rozzol-melara-em-trieste",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-27",
-          "date_label": "Qui 27/08",
-          "datetime": "2026-08-27T07:30:00",
-          "day_of_week": "Thu"
-        },
-        {
-          "title": "A abertura do Powerhouse Parramatta e um novo aplicativo de código aberto para relatórios geolocalizados: O resumo da semana",
-          "link": "https://www.archdaily.com.br/pt/1184044/a-abertura-do-powerhouse-parramatta-e-um-novo-aplicativo-de-codigo-aberto-para-relatorios-geolocalizados-o-resumo-da-semana",
-          "source": "Type:  | ArchDaily em Português",
-          "date": "2026-08-27",
-          "date_label": "Qui 27/08",
-          "datetime": "2026-08-27T05:30:00",
-          "day_of_week": "Thu"
         }
       ]
     },
